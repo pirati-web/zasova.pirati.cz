@@ -14,8 +14,6 @@ profiles:
   linkedin: https://www.linkedin.com/in/marrahouser
 ordpms: 1
 
-motto: ["Politikům se nevěří, politici se kontrolují.", "Karel Kryl"]
-
 ---
 
 Marek Houser (* 6. prosince 1988 ve Zlíně) je předsedou MS Uherské Hradiště a 4. místopředsedou KS Zlínský kraj. Sedmadvacet let bydlel v Otrokovicích, nyní je obyvatelem Uherského Hradiště.
