@@ -13,9 +13,9 @@ layout: default
               <div class="jmk-candidates">
                 <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                   <li class="c-simple-accordion-item is-active" data-accordion-item="">
-                    <a href="#mp" class="c-simple-accordion-title">Místní předsednictvo</a>
-                    <div id="mp" class="c-simple-accordion-content" data-tab-content="">
-                      {% assign team = site.people | where_exp:"item","item.categories contains 'mp'" | sort:"ordmp" %}
+                    <a href="#pms" class="c-simple-accordion-title">Místní předsednictvo</a>
+                    <div id="pms" class="c-simple-accordion-content" data-tab-content="">
+                      {% assign team = site.people | where_exp:"item","item.categories contains 'pms'" | sort:"ordpms" %}
                       {% include people/list-2col.html param=team %}
                     </div>
                   </li>
@@ -24,7 +24,8 @@ layout: default
                   <li class="c-simple-accordion-item is-active" data-accordion-item="">
                     <a href="#clenove" class="c-simple-accordion-title">Naši členové</a>
                     <div id="clenove" class="c-simple-accordion-content" data-tab-content="">
-                      <a href="https://forum.pirati.cz/ks-jihomoravsky-kraj-g36.html">Seznam členů Krajského sdružení Jihomoravského kraje na Fóru Pirátské strany</a>
+                      {% assign team = site.people | where_exp:"item","item.categories contains 'clen'" | sort:"ordpms" %}
+                      {% include people/list-2col.html param=team %}
                     </div>
                   </li>
                 </ul>
