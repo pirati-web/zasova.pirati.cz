@@ -2,7 +2,7 @@
 uid: lubomir.dolezal
 name:     Lubomír Doležal  	# běžně používáné jméno
 fullname: Lubomír Doležal  	# jméno s tituly etc.
-category: clenove           # kategorie
+category:          # kategorie
 - clenove
 
 img: people/lubomir-dolezal.jpg   # 165 x 220
