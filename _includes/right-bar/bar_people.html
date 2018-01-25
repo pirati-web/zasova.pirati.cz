@@ -9,11 +9,11 @@
       </a>
       <div class="c-widget-accordion-content" data-tab-content="">
         <div class="c-widget-accordion-content-inner">
-          {% assign person = site.people | where_exp:"item","item.name contains 'Holomčík'" | first %}
+          {% assign person = site.people | where_exp:"item","item.name contains 'Houser'" | first %}
           {% include people/rbar_profile.html param=""%}
-          {% assign person = site.people | where_exp:"item","item.name contains 'Vymazal'" | first %}
+          {% assign person = site.people | where_exp:"item","item.name contains 'Jurčík'" | first %}
           {% include people/rbar_profile.html param=""%}
-          {% assign person = site.people | where_exp:"item","item.name contains 'Gregorová'" | first %}
+          {% assign person = site.people | where_exp:"item","item.name contains 'Ševčík'" | first %}
           {% include people/rbar_profile.html param=""%}
         </div>
         <div class="c-widget-accordion-content__cta">
