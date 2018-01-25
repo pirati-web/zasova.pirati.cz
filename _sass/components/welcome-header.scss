@@ -32,7 +32,7 @@
 }
 
 .c-welcome-header .c-welcome-header-wrapper {
-  position: relative;
+  position: center;
 
   @include breakpoint(mobile down) {
     padding-left: 10px;
