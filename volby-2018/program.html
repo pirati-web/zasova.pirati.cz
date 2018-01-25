@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Dlouhodobý program
+title: Program
 rbar: ""
 ---
 
-{% assign program = site.program | where: "category","dlouhodoby" | group_by:"topic" %}
+{% assign program = site.program | where: "category","program" | group_by:"topic" %}
 {% for topic in program %}
 <div class="medium-12 large-4 columns o-section-block--medium">
   <div class="o-section-header">
