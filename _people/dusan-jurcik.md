@@ -4,7 +4,7 @@ name:     Dušan Jurčík  	# běžně používáné jméno
 fullname: Dušan Jurčík  	# jméno s tituly etc.
 category:                 # kategorie
 - pms
-img: people/dusan-jurcik.jpg   # 165 x 220
+img: people/ppp.jpg   # 165 x 220
 description: 1. místopředseda MS UH          	# kratký popis, max 160 znaků
 mail:
 - dusan.jurcik@pirati.cz
