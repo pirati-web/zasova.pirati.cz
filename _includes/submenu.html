@@ -4,12 +4,12 @@
     <div class="c-top-sub-nav-inner">
       <div class="u-cf">
         <div class="c-top-sub-nav-header">
-          <div class="c-top-sub-nav__heading"> Volby 2018 </div>
+          <div class="c-top-sub-nav__heading"> volby 2018 </div>
         </div>
         <div class="c-top-sub-nav-divider"></div>
         <ul class="c-top-sub-nav-items">
           <li class="c-top-sub-nav__item">
-            <a href="{{'/volby-2018/program/' | relative_url }}">Program</a>
+            <a href="{{'/volby-2018/program.html' | relative_url }}">Program</a>
           </li>
           <li class="c-top-sub-nav__item">
             <a href="{{'/volby-2018/kandidatka.html' | relative_url }}">Kandidátka</a>
@@ -19,3 +19,49 @@
     </div>
   </div>
 </nav>
+{% elsif page.url contains 'pripoj-se' %}
+<nav class="c-top-sub-nav u-center-860-down">
+  <div class="row">
+    <div class="c-top-sub-nav-inner">
+      <div class="u-cf">
+        <div class="c-top-sub-nav-header">
+          <div class="c-top-sub-nav__heading"> Připoj se </div>
+        </div>
+        <div class="c-top-sub-nav-divider"></div>
+        <ul class="c-top-sub-nav-items">
+          <li class="c-top-sub-nav__item">
+            <a href="{{'/pripoj-se/' | relative_url }}">Dej o sobě vědět</a>
+          </li>
+<!--          <li class="c-top-sub-nav__item">
+            <a href="{{'/pripoj-se/tymy/' | relative_url }}">najdi si tým</a>
+        </li> -->
+          <li class="c-top-sub-nav__item">
+            <a href="{{'/pripoj-se/kalendar/' | relative_url }}">Kalendář akcí</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</nav>
+{% else %}
+<nav class="c-top-sub-nav u-center-860-down">
+  <div class="row">
+    <div class="c-top-sub-nav-inner">
+      <div class="u-cf">
+        <div class="c-top-sub-nav-header">
+          <div class="c-top-sub-nav__heading"> O nás </div>
+        </div>
+        <div class="c-top-sub-nav-divider"></div>
+        <ul class="c-top-sub-nav-items">
+          <li class="c-top-sub-nav__item">
+            <a href="{{ '/lide/' | relative_url }}">Naši lidé</a>
+          </li>
+          <li class="c-top-sub-nav__item">
+            <a href="{{ '/regiony/' | relative_url }}">Místní sdružení</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</nav>
+{% endif %}
