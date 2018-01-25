@@ -1,4 +1,4 @@
-{% assign close = close | minus: 2 | modulo: 3 %}
+{% assign close = close | minus: 0 | modulo: 3 %}
 
 {% for article in posts offset: 2 %}
 {% assign x = forloop.index | modulo: 3 %}
