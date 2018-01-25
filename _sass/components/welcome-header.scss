@@ -1,6 +1,6 @@
 .c-welcome-header {
   height: 350px;
-  position: relative;
+  position: center;
   background: url('../img/header/nejmenovany_kopec.jpg') no-repeat;
   background-size: cover;
   background-position: center 70%;
@@ -43,7 +43,7 @@
 
     &:before {
       content: '';
-      position: absolute;
+      position: center;
       bottom: 0;
       right: -1rem;
       width: 442px;
