@@ -44,10 +44,11 @@
     &:before {
       content: '';
       position: absolute;
-      bottom: 0;
+      top: 10px;
+      bottom: 10px;
       left: 10px;
-      width: 442px;
-      height: 325px;
+      max-width: 100%;
+      max-height: 100%;
       background: url('../img/brand/logouh.svg') no-repeat;
       background-size: 100%;
       transform-origin: bottom left;
