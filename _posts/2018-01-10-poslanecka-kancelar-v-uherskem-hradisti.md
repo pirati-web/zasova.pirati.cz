@@ -14,7 +14,7 @@ Stavte se na schůzku v nové poslanecké kanceláři pod pirátskou vlajkou v U
 
 Najdete ji na adrese Stojanova 1334, v komplexu Triangl, ve třetím patře budovy S (u kolejí). Od Masarykova náměstí je vzdálena jen několik desítek metrů a téměř sousedí s vlakovým nádražím. Pokud přijedete autem, doporučuji jej ponechat na parkovišti u nádraží a k Trianglu dojít. Ke vstupu použijte nejlépe severní vchod ze dvora v přízemí, kde vás dovnitř pustí automatické dveře. Pak už stačí po schodech či výtahem vystoupat do třetího patra, kde na vás bude čekat zvonek s pirátským znakem.
 
-*Kancelář je veřejnosti standardně přístupná od pondělí do čtvrtka 9:00 – 17:00 a v pátek 9:00 – 13:00*
+**Kancelář je veřejnosti standardně přístupná od pondělí do čtvrtka 9:00 – 17:00 a v pátek 9:00 – 13:00**
 
 Pokud se chcete setkat přímo s poslancem, doporučujeme pro volný termín nahlédnout do jeho veřejného kalendáře a pokusit se schůzku domluvit na e-mailu elfmarkf@psp.cz, případně přes asistenta na e-mailu marek.houser@pirati.cz. Pokud nepotřebujete mluvit přímo s Františkem a máte zájem pouze předat nějaký dotaz, dokument či podnět, můžete se na schůzce domluvit s jeho asistentem a předsedou MS UH Markem Houserem. Stejně tak můžete využít online formuláře, do kterého můžete napsat, co máte na srdci :)
 
