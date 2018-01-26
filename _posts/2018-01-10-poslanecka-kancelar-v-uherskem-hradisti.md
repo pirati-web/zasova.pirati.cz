@@ -5,7 +5,7 @@ title: 'V Uherském Hradišti už funguje regionální poslanecká kancelář'
 date: 2018-01-10T12:06:00.032Z
 author: Marek Houser
 authorId: marek.houser
-image: /assets/img/posts/old-man-time-watch.jpg
+image: /assets/img/posts/frantakancl.jpg
 description: >
   Pirátský poslanec za Zlínský kraj František Elfmark už "úřaduje" v nové kanceláři v Uherském Hradišti. Můžete se stavit na návštěvu...   
 tags: 'sněmovna poslanec uherské-hradiště'
