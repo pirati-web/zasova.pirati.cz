@@ -27,7 +27,7 @@ nav.#{$tsb-ns}c-top-sub-nav {
   @include breakpoint(medium down) {
 
     &:before {
-      right: 20px;
+      right: 0px;
     }
 
   }
