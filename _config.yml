@@ -6,12 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Pirátská strana
+title: Pirátská strana | UH
 email: to@pirati.cz
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Web místního sdružení České pirátské strany v Uherském Hradišti.
 url: "https://www.pirati.cz" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
@@ -33,14 +31,14 @@ exclude:
 sass:
     style: compressed
 
-permalink: /tiskove-zpravy/:title.html
+permalink: /aktuality/:title.html
 collections:
   people:
     output: true
     permalink: /lide/:path/
   program:
     output: true
-    permalink: /program/:path/
+    permalink: /volby-2018/:path/
   teams:
     output: true
     permalink: /pripoj-se/:title/
@@ -57,7 +55,7 @@ defaults:   # defaults values for collection scope
       path: "_program"
     values:
       layout: "page"
-      rbar: "program"
+      rbar: "volby-2018"
   -
     scope:
       path: "_teams"

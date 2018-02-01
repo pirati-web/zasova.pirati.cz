@@ -6,33 +6,61 @@
 
   li {
     margin: 3px;
-    display: flex;
     align-items: center;
     flex-wrap: wrap;
     justify-content: center;
     min-width: 2.75rem;
     text-align: center;
     height: 3rem;
+    line-height: 3rem; //.disabled v sobe nema <a>
+
     a {
       height: 3rem;
-      width: 100%;
       line-height: 3rem;
+      width: 100%;
       color: $primary-color;
     }
     a:hover {
       background: transparent;
       text-decoration: none;
     }
+
+    @include breakpoint(mobile down) {
+      height: 2.7rem;
+      line-height: 2.7rem;
+      margin: 1px;
+
+      a {
+        height: 2.7rem;
+        line-height: 2.7rem;
+      }
+    }
+
+    @if $pagination-mobile-items {
+      display: flex;
+    }
+    @else {
+      display: none;
+
+      &:last-child,
+      &:first-child {
+        display: flex;
+      }
+
+      @include breakpoint(medium) {
+        display: flex;
+      }
+    }
   }
 
   .pagination-previous,
   .pagination-next {
     background: $primary-color;
+    font-size: 1.5rem; //.disabled v sobe nema <a>
+    padding: 0 10px;
     a {
       text-decoration: none;
       color: #fefefe;
-      font-size: 1.8rem;
-      line-height: normal;
     }
     box-shadow: 0px 3px 2px #ececec;
   }
@@ -43,20 +71,5 @@
 
   .pagination-previous i,
   .pagination-next i {
-  }
-}
-
-@include breakpoint(mobile down) {
-  .pagination {
-    li {
-      margin: 1px;
-      min-width: 2.25rem;
-      height: 2.7rem;
-      a {
-        height: 2.7rem;
-        width: 100%;
-        line-height: 2.7rem;
-      }
-    }
   }
 }
