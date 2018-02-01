@@ -47,12 +47,6 @@
       transform-origin: top middle;
     }
 
-    @include breakpoint(medium down) {
-      &:before {
-        display: none;
-      }
-    }
-
     @include breakpoint(mobile down) {
 
       &:before {
