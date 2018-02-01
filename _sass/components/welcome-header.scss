@@ -25,10 +25,10 @@
 
       content: '';
       position: absolute;
-      bottom: 0;
+      bottom: 10px;
       top: 10px;
-      height: 200px;
+      max-height: 100%;
       background: url('../img/brand/logouh.svg') no-repeat;
       background-size: 100%;
-      transform-origin: top middle;
+      transform-origin: middle middle;
     }
