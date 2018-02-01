@@ -171,12 +171,24 @@ layout: default
           <div class="c-BasicPage">
             <div class="c-BasicPage-content">
               <h2>Lokální kontakt pro média</h2>
-              <div class="row">
-                <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
-                  {% assign id = 'ivan.bartos' %}
-                  {% include kontakt/contact-card.html param='people' param='id' %}
+              <div class="large-6 small-12 columns end o-section-mediumdown-divided-small">
+                  <div class="o-media o-media--top">
+                    <div class="o-media__image o-media__image--lgspace">
+                      <img src="{{ 'dusan-jurcik.jpg' | prepend: '/assets/img/people/' | relative_url}}" alt="Dušan Jurčík"> </div>
+                    <div class="o-media__body">
+                      <h2 class="o-media__headline">
+                        <a href="{{'lide/dusan-jurcik/' | relative_url}}">Dušan Jurčík</a>
+                      </h2>
+                      <p>Vedoucí personálního odboru MS UH
+                        <br>
+                        Kontakt pro zájemce o členství a dobrovolníky
+                      </p>
+                      <p> +420 777 176 621 <br> 
+                        <a href="mailto:dusan.jurcik@pirati.cz">dusan.jurcik@pirati.cz</a>
+                        <br> </p>
+                    </div>
+                  </div>
                 </div>
-              </div>
             </div>
           </div>
         </div>
