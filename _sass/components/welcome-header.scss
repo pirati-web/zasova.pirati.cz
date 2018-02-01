@@ -34,11 +34,6 @@
 .c-welcome-header .c-welcome-header-wrapper {
   position: relative;
 
-  @include breakpoint(mobile down) {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-
   &.c-welcome-header-wrapper--wbg {
 
     &:before {
