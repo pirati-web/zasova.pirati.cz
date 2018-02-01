@@ -18,7 +18,6 @@
       width: 100%;
       line-height: 3rem;
       color: $primary-color;
-      padding: 10px;
     }
     a:hover {
       background: transparent;
@@ -34,6 +33,7 @@
       color: #fefefe;
       font-size: 1.3rem;
       line-height: normal;
+      padding: 10px;
     }
     box-shadow: 0px 3px 2px #ececec;
   }
@@ -44,6 +44,7 @@
 
   .pagination-previous i,
   .pagination-next i {
+    padding: 10px;
   }
 }
 
