@@ -19,21 +19,10 @@
     background-position: 27% 85%;
   }
 
-  .headline-kraj {
-    color: white;
-    display: inline-block;
-    font-weight: bold;
-    text-transform: uppercase;
-    margin: 0;
-    padding-bottom: 9px;
-    vertical-align: middle;
-    line-height: 1.1;
-  }
 }
 
 .c-welcome-header-wrapper--wbg {
 
-    &:before {
       content: '';
       position: absolute;
       bottom: 0;
@@ -43,5 +32,3 @@
       background-size: 100%;
       transform-origin: top middle;
     }
-
-}
