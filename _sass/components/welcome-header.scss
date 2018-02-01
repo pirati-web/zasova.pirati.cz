@@ -31,15 +31,7 @@
   }
 }
 
-.c-welcome-header .c-welcome-header-wrapper {
-  position: relative;
-
-  @include breakpoint(mobile down) {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-
-  &.c-welcome-header-wrapper--wbg {
+.c-welcome-header-wrapper--wbg {
 
     &:before {
       content: '';
@@ -50,24 +42,6 @@
       background: url('../img/brand/logouh.svg') no-repeat;
       background-size: 100%;
       transform-origin: top middle;
-    }
-
-    @include breakpoint(medium down) {
-      &:before {
-        display: none;
-      }
-    }
-
-    @include breakpoint(mobile down) {
-
-      &:before {
-        display: block;
-        width: 300px;
-        height: 175px;
-        bottom: 0;
-        left: 50%;
-        transform: translateX(-50%);
-      }
     }
 
   }
