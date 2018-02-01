@@ -57,19 +57,6 @@
         display: none;
       }
     }
-
-    @include breakpoint(mobile down) {
-
-      &:before {
-        display: block;
-        width: 300px;
-        height: 175px;
-        bottom: 0;
-        left: 50%;
-        transform: translateX(-50%);
-      }
-    }
-
   }
 
 }
