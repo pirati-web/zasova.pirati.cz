@@ -67,10 +67,6 @@
     width: 40%;
   }
 
-  @include breakpoint(medium down) {
-    display: none;
-  }
-
   @include breakpoint(mobile down) {
     display: block;
     top: auto;
