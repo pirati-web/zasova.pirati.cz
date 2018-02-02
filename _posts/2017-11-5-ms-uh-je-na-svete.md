@@ -18,4 +18,5 @@ Tříčlenné předsednictvo MS má od svého vzniku následující složení:
 **1. místopředsda Dušan Jurčík**
 
 **2. místopředseda Jaroslav Ševčík**
+
 ---
