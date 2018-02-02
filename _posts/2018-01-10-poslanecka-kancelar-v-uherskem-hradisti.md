@@ -21,3 +21,5 @@ Pokud se chcete setkat přímo s poslancem, doporučujeme pro volný termín nah
 PS: Pokud si nebudete s cestou do kanceláře vědět rady, neváhejte se ozvat Markovi na číslo 725 611 894. Spolehlivě vás navede.
 
 Budeme se těšit na návštěvu.
+
+- - -
