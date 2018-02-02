@@ -19,4 +19,4 @@ Tříčlenné předsednictvo MS má od svého vzniku následující složení:
 
 **2. místopředseda Jaroslav Ševčík**
 
----
+- - -
