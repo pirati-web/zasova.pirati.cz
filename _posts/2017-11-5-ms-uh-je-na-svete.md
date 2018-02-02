@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Pirátské místní sdružení Uherské Hradiště je na světě'
-date: 2018-01-10T12:06:00.032Z
+date: 2017-11-05T12:06:00.032Z
 author: Marek Houser
 authorId: marek.houser
 image: /assets/img/posts/loduh.jpg
