@@ -5,7 +5,7 @@ title: 'Pirátské místní sdružení Uherské Hradiště je na světě'
 date: 2018-01-10T12:06:00.032Z
 author: Marek Houser
 authorId: marek.houser
-image: /assets/img/posts/msuh.jpg
+image: /assets/img/posts/loduh.jpg
 ---
 3. listopadu 2017 oficiálně vznikla pod hlavičkou pirátského Kraského sdružení (KS) Zlínského kraje Místní sdružení (MS) s pořadovými čísly 4. a 5. v Kroměříži a v Uherském Hradišti.
 Ke stávajícím sdružením ve Zlíně, Vsetíně a Valašském Meziříčí tak přibyly další dvě, která dokonala pokrytí všech okresních měst sdruženými pirátskými členy.
