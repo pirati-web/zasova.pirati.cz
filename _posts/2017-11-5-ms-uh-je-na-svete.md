@@ -14,5 +14,7 @@ Stejně jako v ostatních MS bude uherskohradišťská "odbočka" sdružovat nej
 Tříčlenné předsednictvo MS má od svého vzniku následující složení:
 
 **předseda Marek Houser**
+
 **1. místopředsda Dušan Jurčík**
+
 **2. místopředseda Jaroslav Ševčík**
