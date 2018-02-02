@@ -7,11 +7,12 @@ author: Marek Houser
 authorId: marek.houser
 image: /assets/img/posts/loduh.jpg
 ---
-3. listopadu 2017 oficiálně vznikla pod hlavičkou pirátského Kraského sdružení (KS) Zlínského kraje Místní sdružení (MS) s pořadovými čísly 4. a 5. v Kroměříži a v Uherském Hradišti.
-Ke stávajícím sdružením ve Zlíně, Vsetíně a Valašském Meziříčí tak přibyly další dvě, která dokonala pokrytí všech okresních měst sdruženými pirátskými členy.
+3. listopadu 2017 oficiálně vznikla pod hlavičkou pirátského Kraského sdružení (KS) Zlínského kraje Místní sdružení (MS) s pořadovými čísly 4. a 5. v Kroměříži a v Uherském Hradišti. Ke stávajícím sdružením ve Zlíně, Vsetíně a Valašském Meziříčí tak přibyly další dvě, která dokonala pokrytí všech okresních měst sdruženými pirátskými členy.
+
 Stejně jako v ostatních MS bude uherskohradišťská "odbočka" sdružovat nejen Piráty a příznivce z města samotného, ale také z celého okresu.
+
 Tříčlenné předsednictvo MS má od svého vzniku následující složení:
 
-- předseda Marek Houser
-- 1. místopředsda Dušan Jurčík
-- 2. místopředseda Jaroslav Ševčík
+**předseda Marek Houser**
+**1. místopředsda Dušan Jurčík**
+**2. místopředseda Jaroslav Ševčík**
