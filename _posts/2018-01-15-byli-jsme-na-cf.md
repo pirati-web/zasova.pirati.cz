@@ -11,6 +11,6 @@ Piráti z Uherského Hradiště vyrazili první lednový víkend na zasedání c
 
 Přidalo se k nám také několik lokálích příznivců a mohli jsme tak být společně například svědky znovuzvolení Ivana Bartoše předsedou a volby nového republikového předsednictva. Všem zvoleným gratulujeme a těšíme se na spolupráci.
 
-Zatímco sobota se nesla převážně v duchu adminnistrativy a vnitrostranických voleb (dokonce i novináře jsme unudili), nedělní program už nabídl workshopy pro nadcházející komunální volby. To jsme si pochopitelně nemohli nechat ujít, jelikož v Uherském Hradišti se na radnici útočit chystáme...
+Zatímco sobota se nesla převážně v duchu adminnistrativy a vnitrostranických voleb (dokonce i novináře jsme unudili), nedělní program už nabídl workshopy pro nadcházející komunální volby. To jsme si pochopitelně nemohli nechat ujít, jelikož se v Uherském Hradišti do zastupitelstva probojovat chystáme...
 
 - - -
