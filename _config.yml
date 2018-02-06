@@ -35,7 +35,7 @@ permalink: /aktuality/:title.html
 collections:
   people:
     output: true
-    permalink: /lide/:path/
+    permalink: /clenove/:path/
   program:
     output: true
     permalink: /volby-2018/:path/
