@@ -4,6 +4,7 @@ name:     Marek Houser  	# běžně používáné jméno
 fullname: Marek Houser  	# jméno s tituly etc.
 category:                 # kategorie
 - pms
+- clenove
 img: people/ppp.jpg   # 165 x 220
 description: Předseda MS UH, asistent poslance Františka Elfmarka          	# kratký popis, max 160 znaků
 mail:

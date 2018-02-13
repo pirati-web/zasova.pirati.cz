@@ -4,6 +4,7 @@ name:     Jaroslav Ševčík  	# běžně používáné jméno
 fullname: Jaroslav Ševčík  	# jméno s tituly etc.
 category:                   # kategorie
 - pms
+- clenove
 img: people/ppp.jpg   # 165 x 220
 description: 2. místopředseda MS UH          	# kratký popis, max 160 znaků
 mail:
