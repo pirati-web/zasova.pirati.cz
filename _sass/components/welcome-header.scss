@@ -53,11 +53,6 @@
       background-size: 100%;
       transform-origin: bottom left;
     }
-    @include breakpoint(medium down) {
-      &:before {
-        display: none;
-      }
-    }
 
     @include breakpoint(mobile down) {
 
