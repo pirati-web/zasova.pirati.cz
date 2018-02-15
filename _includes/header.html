@@ -2,13 +2,11 @@
 <div class="c-top-bar">
   <div class="row">
     <div class="c-top-bar-inner u-cf">
-      {% if page.url != '/' %}
       <div class="top-bar-title">
         <a href="{{ '/' | relative_url }}">
           <img src="{{ '/assets/img/brand/logo.svg' | relative_url }}" alt="Pirátská strana">
         </a>
       </div>
-      {% endif %}
       <div class="menu-toggle-container hide-for-large">
         <span data-responsive-toggle="responsive-menu" id="menuTogge" data-hide-for="large">
           <button class="" type="button" data-toggle="">
@@ -27,7 +25,7 @@
                 <a href="{{'/aktuality/' | relative_url }}">Aktuality</a>
               </li>
               <li{% if page.url contains 'lide' %} class="is-active"{% endif %}>
-                <a href="{{ '/lide/' | relative_url }}">Členové</a>
+                <a href="{{ '/lide/' | relative_url }}">Naši lidé</a>
               </li>
               <li{% if page.url contains 'volby-2018' %} class="is-active"{% endif %}>
                 <a href="{{ '/volby-2018/program' | relative_url }}">Volby 2018</a>
@@ -35,17 +33,14 @@
               <li{% if page.url contains 'pripoj-se' %} class="is-active"{% endif %}>
                 <a href="{{ '/pripoj-se/' | relative_url }}">Připoj se</a>
               </li>
-              <li{% if page.url contains 'otevrenost' %} class="is-active"{% endif %}>
-                <a href="{{ '/otevrenost/' | relative_url }}">Otevřenost</a>
-              </li>
               <li{% if page.url contains 'kontakt' %} class="is-active"{% endif %}>
                 <a href="{{ '/kontakt/' | relative_url }}">Kontakt</a>
               </li>
               <li>
-                <a href="http://www.pirati.cz" target="_blank">Pirati.cz</a>
+                <a href="http://zlinsky.pirati.cz" target="_blank"><strong>🡕 Krajské sdružení</strong></a>
               </li>
               <li>
-                <a href="http://zlinsky.pirati.cz" target="_blank">Krajské sdružení</a>
+                <a href="http://www.pirati.cz" target="_blank"><strong>🡕 Pirati.cz</strong></a>
               </li>
             </ul>
           </div>
