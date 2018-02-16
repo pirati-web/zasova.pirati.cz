@@ -6,9 +6,7 @@ date: 2018-01-10T12:06:00.032Z
 author: Marek Houser
 authorId: marek.houser
 image: /assets/img/posts/frantakancl.jpg
-description: >
-  Pirátský poslanec za Zlínský kraj František Elfmark už "úřaduje" v nové kanceláři v Uherském Hradišti. Můžete se stavit na návštěvu...   
-tags: 'sněmovna poslanec uherské-hradiště'
+tags: 'sněmovna poslanec Uherské-Hradiště'
 ---
 Stavte se na schůzku v nové poslanecké kanceláři pod pirátskou vlajkou v Uherském Hradišti! Přímo v centru města vznikla na konci roku 2017 poslanecká kancelář Františka Elfmarka a nabízí tak možnost osobního setkání s veřejností.
 
