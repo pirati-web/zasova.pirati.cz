@@ -6,6 +6,7 @@ date: 2018-01-15T12:06:00.032Z
 author: Marek Houser
 authorId: marek.houser
 image: /assets/img/posts/naforu.jpg
+tags: 'celostátní-fórum report akce'
 ---
 Piráti z Uherského Hradiště vyrazili první lednový víkend na zasedání celostátního fóra (CF) Pirátů do Brna. S poctivou účastí všech členů našeho nového Místního sdružení jsme poctivě reprezentovali uherskohradišťské Piráty.
 
