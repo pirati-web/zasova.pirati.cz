@@ -35,7 +35,8 @@
     <meta property="og:description"   content="{{page.excerpt | strip_html }}" />
     <meta property="og:image"         content="{{page.img | relative_url}}" />
     {% endif %}
-    {% if page.url contains 'pripoj-se' %} class="is-active"{% endif %}
+    <!-- Open Graph -->
+    {% if page.url contains 'pripoj-se' %}
     <meta property="og:url"           content="{{page.url | relative_url}}" />
     <meta property="og:type"          content="website" />
     <meta property="og:title"         content="Chceš měnit politiku s námi? Připoj se k Pirátům..." />
