@@ -49,7 +49,7 @@ defaults:   # defaults values for collection scope
       path: "_people"
     values:
       layout: "member"
-      rbar: "people, foto"
+      rbar: "foto"
   -
     scope:
       path: "_program"
