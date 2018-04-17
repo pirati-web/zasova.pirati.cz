@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Pirát František Elfmark opustil placenou funkci radního v UH. Nadále bude pobírat jen poslanecký plat'
+title: 'Pirát František Elfmark rezignoval na post uvolněného radního. Dál bude pobírat jen poslanecký plat'
 date: 2018-04-17T06:06:00.032Z
 author: Marek Houser
 authorId: marek.houser
