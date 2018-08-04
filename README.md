@@ -87,7 +87,7 @@ instalujte docker podle návodu na váš operační systém (anglicky)
 * [Ubuntu](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
 * [Fedora](https://docs.docker.com/install/linux/docker-ce/fedora/)
 
-a ověřte že máte `docker-compose` [official resources](https://docs.docker.com/compose/install/ a spušteného demona.
+a ověřte že máte `docker-compose` [official resources](https://docs.docker.com/compose/install/) a spušteného demona.
 Pak stačí:
 ```
 docker-compose up
