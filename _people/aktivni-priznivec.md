@@ -1,7 +1,9 @@
 ---
 uid: aktivni.priznivec
 name:     Aktivní Příznivec  	# běžně používáné jméno
-fullname: PhDr. Aktivní Příznivec  	# jméno s tituly etc.
+titles:
+  before: PhDr.
+  after:
 category:
   - priznivci
   - kandidat-obec

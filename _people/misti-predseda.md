@@ -1,7 +1,9 @@
 ---
 uid: mistni.predseda
 name:     Místní Předseda  	# běžně používáné jméno
-fullname: Místní Předseda  	# jméno s tituly etc.
+titles:
+  before:
+  after:
 category:
   - clenove
   - pms

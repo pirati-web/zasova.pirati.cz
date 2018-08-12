@@ -1,7 +1,9 @@
 ---
 uid: prvni.leader
 name:     První Leader  	# běžně používáné jméno
-fullname: Bc. První Leader  	# jméno s tituly etc.
+titles:
+  before: Bc.
+  after: DiS.
 category:
   - clenove
   - kandidat-obec
