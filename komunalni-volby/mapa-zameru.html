@@ -11,8 +11,8 @@ title: Mapa záměrů
   <!-- Article -->
   <article itemtype="http://schema.org/BlogPosting" itemscope="">
     <link itemprop="mainEntityOfPage" href="{{ page.url }}">
-    {% if site.env.GOOGLE_MAPS_APIKEY %}
-      <div class="__vue-root" data-app="CustomLayerMap" data-apikey="{{ site.env.GOOGLE_MAPS_APIKEY }}" data-layer="12ZdsIK1_ScKE6PpIylp-4YccnOgcsr_n" data-version="1"></div>
+    {% if site.env.MAPBOX_ACCESS_TOKEN %}
+      <div class="__vue-root" data-app="IntentionMap" data-accesstoken="{{ site.env.MAPBOX_ACCESS_TOKEN }}" data-dataset="https://gist.githubusercontent.com/xaralis/f9711e5d12f971504d0753ba40c3d33e/raw/6df5d5956f8c8c8438f23e9f56f85d16d711c5f6/map.geojson"></div>
     {% endif %}
   </article>
   <!-- /Article -->

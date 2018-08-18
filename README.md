@@ -246,28 +246,28 @@ webu](https://pardubice.pirati.cz).
 
 ## Zobrazení mapky návrhů
 
-Postupujte obdobně jako při zprovoznění kalendáře. Potřebujete v Google
-Developer Consoli povolit Google Maps API. Také potřebujete přidat environment
-variable `GOOGLE_MAPS_APIKEY`. Následně můžete do kterékoliv stránky
+Implementace mapky návrhů byla ve verzi 6.1.0 jekyll-theme-piráti upravena,
+nyní je mapový podklad řešen přes službu [Mapbox](https://www.mapbox.com/).
+
+Abyste mapičku zobrazili, je nutné si tam vytvořit účet a následně získáte
+*access token*. Ten pak při spuštění stránek poskytnete pomocí environment
+variable `MAPBOX_ACCESS_TOKEN`. Následně můžete do kterékoliv stránky
 přidat kód podobný tomuto:
 
 ```
-{% if site.env.GOOGLE_MAPS_APIKEY %}
-  <div class="__vue-root" data-app="CustomLayerMap" data-apikey="{{ site.env.GOOGLE_MAPS_APIKEY }}" data-layer="[váš layer id]"></div>
+{% if site.env.MAPBOX_ACCESS_TOKEN %}
+  <div class="__vue-root" data-app="IntentionMap" data-accesstoken="{{ site.env.MAPBOX_ACCESS_TOKEN }}" data-dataset="https://gist.githubusercontent.com/xaralis/f9711e5d12f971504d0753ba40c3d33e/raw/6df5d5956f8c8c8438f23e9f56f85d16d711c5f6/map.geojson"></div>
 {% endif %}
 ```
 
-Jak vidno, potřebujete vědět layer id. To získáte tak, že v aplikace Google MyMaps
-u vaší mapky kliknete na "Sdílet" a vyberete možnost vložení mapy do stránky.
+Jak je vidět, potřebujete nějaký geojson soubor, který definuje jednotlivé položky
+na mapě. Pro vytvoření mapového podkladu můžete využít libovolný GeoJSON
+editor, např. `http://geojson.io`. Aby mapa záměrů správně fungovala,
+měly by jednotlivé položky mapy mít následující atributy:
 
-Google vám pak ukáže kód cca ve tvaru:
-
-```
-<iframe src="https://www.google.com/maps/d/embed?mid=12ZdsIK1_ScKE6PpIylp-4YccnOgcsr_n" width="640" height="480"></iframe>
-```
-
-Textový řetězec za `mid` je to co hledáte. V tomto případě je to tedy "12ZdsIK1_ScKE6PpIylp-4YccnOgcsr_n".
-
+* `name` - definuje jméno záměru na mapě
+* `category` - definuje kategorii záměru
+* `description` - definuje detailní popis záměru
 
 ## Otestování buildu
 
