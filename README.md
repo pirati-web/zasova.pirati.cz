@@ -256,7 +256,7 @@ přidat kód podobný tomuto:
 
 ```
 {% if site.env.MAPBOX_ACCESS_TOKEN %}
-  <div class="__vue-root" data-app="IntentionMap" data-accesstoken="{{ site.env.MAPBOX_ACCESS_TOKEN }}" data-dataset="https://gist.githubusercontent.com/xaralis/f9711e5d12f971504d0753ba40c3d33e/raw/6df5d5956f8c8c8438f23e9f56f85d16d711c5f6/map.geojson"></div>
+  <div class="__vue-root" data-app="IntentionMap" data-accesstoken="{{ site.env.MAPBOX_ACCESS_TOKEN }}" data-dataset="https://gist.githubusercontent.com/xaralis/f9711e5d12f971504d0753ba40c3d33e/raw/4a1701c64de5eb7ed6aa1538cb269022965d82d6/map.geojson" data-ideaform="https://goo.gl/forms/wKSPmWNDzgRiUxLN2"></div>
 {% endif %}
 ```
 
@@ -265,9 +265,14 @@ na mapě. Pro vytvoření mapového podkladu můžete využít libovolný GeoJSO
 editor, např. `http://geojson.io`. Aby mapa záměrů správně fungovala,
 měly by jednotlivé položky mapy mít následující atributy:
 
+* `id` - jedinečný identifikátor záměru, celé číslo
 * `name` - definuje jméno záměru na mapě
 * `category` - definuje kategorii záměru
 * `description` - definuje detailní popis záměru
+* `image` (volitelné) - URL obrázku záměru
+
+Pomocí atributu `data-ideaform` lze volitelně připojit i link na formulář, kam vám
+veřejnost může zasílat své nápady.
 
 ## Otestování buildu
 
