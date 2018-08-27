@@ -21,6 +21,15 @@ layout: default
                 </ul>
                 <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                   <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                    <a href="#clenove" class="c-simple-accordion-title">Poslanec</a>
+                    <div id="clenove" class="c-simple-accordion-content" data-tab-content="">
+                      {% assign team = site.people | where_exp:"item","item.categories contains 'poslanec'" %}
+                      {% include people/list-2col.html param=team %}
+                    </div>
+                  </li>
+                </ul>
+                <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                  <li class="c-simple-accordion-item is-active" data-accordion-item="">
                     <a href="#clenove" class="c-simple-accordion-title">Všichni členové</a>
                     <div id="clenove" class="c-simple-accordion-content" data-tab-content="">
                       {% assign team = site.people | where_exp:"item","item.categories contains 'clenove'" %}
@@ -28,7 +37,6 @@ layout: default
                     </div>
                   </li>
                 </ul>
-
               </div>
             </div>
           </div>
