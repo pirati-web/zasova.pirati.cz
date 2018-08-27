@@ -13,8 +13,6 @@ profiles:
 
 ---
 
-Dušan Jurčík (*29. 5. 1982, Uherské Hradiště) je spoluzakládající člen místního sdružení Uh. Hradiště a její 1.místopředseda, člen Týmu pro dopravu.
-
 František Elfmark (*19. 10. 1978, Uherské Hradiště) je pirátským poslancem PSP ČR za Zlínský kraj.
 
 Bydlí s rodinou v místní části Míkovice v Uherském Hradišti.
