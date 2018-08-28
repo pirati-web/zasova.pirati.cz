@@ -38,7 +38,7 @@ collections:
     permalink: /lide/:path/
   program:
     output: true
-    permalink: /volby-2018/:path/
+    permalink: /program/:path/
   teams:
     output: true
     permalink: /pripoj-se/:title/
@@ -55,7 +55,7 @@ defaults:   # defaults values for collection scope
       path: "_program"
     values:
       layout: "page"
-      rbar: "volby-2018"
+      rbar: "program"
   -
     scope:
       path: "_teams"
