@@ -12,7 +12,7 @@ rbar: ""
             <div class="c-BasicPage-content">
               <div class="jmk-candidates">
                <div class="row">
-                  {% assign team = site.people | where_exp:"item","item.categories contains 'kandidat'" | sort:"ordkandidat"  %}
+                  {% assign team = site.people | where_exp:"item","item.categories contains 'kandidat'" | sort:"ordkandidat" %}
                   {% for item in team limit:21 %}
                     {% include people/kandidat.html param=item order='ordkandidat' %}
                   {% endfor %}
