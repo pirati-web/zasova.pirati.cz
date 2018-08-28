@@ -4,15 +4,17 @@ name:     Jaroslav Ševčík  	# běžně používáné jméno
 fullname: Jaroslav Ševčík  	# jméno s tituly etc.
 category:                   # kategorie
 - clenove
+- kontakt
 - pms
 
 img: people/ppp.jpg   # 165 x 220
-description: 2. místopředseda MS UH, starosta a správce T. J. Sokol Uherské Hradiště          	# kratký popis, max 160 znaků
+description: 2. místopředseda MS UH, starosta a správce T. J. Sokol Uherské Hradiště, lídr komunální kandidátky          	# kratký popis, max 160 znaků
 mail:
 - jaroslav.sevcik@pirati.cz
 profiles:
   facebook: https://www.facebook.com/sevcikjar/
 ordpms: 3
+ordkontakty: 2
 
 ---
 
