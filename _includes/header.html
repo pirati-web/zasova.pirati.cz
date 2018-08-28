@@ -30,6 +30,12 @@
               <li{% if page.url contains 'volby-2018' %} class="is-active"{% endif %}>
                 <a href="{{ '/volby-2018/program.html' | relative_url }}">Volby 2018</a>
               </li>
+              <li{% if page.url contains 'program' %} class="is-active"{% endif %}>
+                <a href="{{ '/program/' | relative_url }}">Program</a>
+              </li>
+              <li{% if page.url contains 'kandidati' %} class="is-active"{% endif %}>
+                <a href="{{ '/kandidati/' | relative_url }}">Kandidáti</a>
+              </li>
               <li{% if page.url contains 'kontakt' %} class="is-active"{% endif %}>
                 <a href="{{ '/kontakt/' | relative_url }}">Kontakt</a>
               </li>
