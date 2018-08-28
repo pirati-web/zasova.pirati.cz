@@ -6,6 +6,7 @@ category:                   # kategorie
 - clenove
 - kontakt
 - pms
+- kandidat
 
 img: people/ppp.jpg   # 165 x 220
 description: 2. místopředseda MS UH, správce T. J. Sokol Uherské Hradiště, lídr komunální kandidátky          	# kratký popis, max 160 znaků
@@ -16,6 +17,7 @@ profiles:
   facebook: https://www.facebook.com/sevcikjar/
 ordpms: 3
 ordkontakty: 1
+ordkandidat: 1
 
 ---
 

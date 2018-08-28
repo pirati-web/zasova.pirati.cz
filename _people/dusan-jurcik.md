@@ -5,6 +5,7 @@ fullname: Dušan Jurčík  	# jméno s tituly etc.
 category:                 # kategorie
 - pms
 - clenove
+- kandidat
 img: people/ppp.jpg   # 165 x 220
 description: 1. místopředseda MS UH, pracovník v logistice          	# kratký popis, max 160 znaků
 mail:
@@ -12,6 +13,7 @@ mail:
 profiles:
   facebook: https://www.facebook.com/dusan.jurcik.9
 ordpms: 2
+ordkandidat: 3
 
 ---
 
