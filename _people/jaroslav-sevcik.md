@@ -9,12 +9,13 @@ category:                   # kategorie
 
 img: people/ppp.jpg   # 165 x 220
 description: 2. místopředseda MS UH, správce T. J. Sokol Uherské Hradiště, lídr komunální kandidátky          	# kratký popis, max 160 znaků
+mob:			  +420 775 611 920
 mail:
 - jaroslav.sevcik@pirati.cz
 profiles:
   facebook: https://www.facebook.com/sevcikjar/
 ordpms: 3
-ordkontakty: 2
+ordkontakty: 1
 
 ---
 
