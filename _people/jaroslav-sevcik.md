@@ -8,7 +8,7 @@ category:                   # kategorie
 - pms
 
 img: people/ppp.jpg   # 165 x 220
-description: 2. místopředseda MS UH, starosta a správce T. J. Sokol Uherské Hradiště, lídr komunální kandidátky          	# kratký popis, max 160 znaků
+description: 2. místopředseda MS UH, správce T. J. Sokol Uherské Hradiště, lídr komunální kandidátky          	# kratký popis, max 160 znaků
 mail:
 - jaroslav.sevcik@pirati.cz
 profiles:

@@ -7,6 +7,7 @@ category:                   # kategorie: clenove
 
 img: people/yveta-martinkova-kontakt.jpg   # 165 x 220
 description: koordinátorka Pirátů Zlínského kraje # kratký popis, max 160 znaků
+mob:			  +420 770 113 648
 mail:
 - yveta.martinkova@pirati.cz
 profiles:
