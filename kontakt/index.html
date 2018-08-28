@@ -10,40 +10,13 @@ layout: default
         <div class="o-section-block">
           <div class="c-BasicPage">
             <div class="c-BasicPage-content">
-              <h2>Lokální kontakt pro média</h2>
-              <div class="large-6 small-12 columns end o-section-mediumdown-divided-small">
-                  <div class="o-media o-media--top">
-                    <div class="o-media__image o-media__image--lgspace">
-                      <img src="{{ 'marek-houser.jpg' | prepend: '/assets/img/people/' | relative_url}}" alt="Marek Houser"> </div>
-                    <div class="o-media__body">
-                      <h2 class="o-media__headline">
-                        <a href="{{'lide/marek-houser/' | relative_url}}">Marek Houser</a>
-                      </h2>
-                      <p>Předseda místního sdružení
-                      </p>
-                      <p> +420 725 611 894 <br>
-                        <a href="mailto:marek.houser@pirati.cz">marek.houser@pirati.cz</a>
-                        <br> </p>
-                    </div>
-                  </div>
-                </div>
-                <h2>Kontakt pro dobrovolníky</h2>
-                <div class="large-6 small-12 columns end o-section-mediumdown-divided-small">
-                    <div class="o-media o-media--top">
-                      <div class="o-media__image o-media__image--lgspace">
-                        <img src="{{ 'yveta-martinkova-kontakt.jpg' | prepend: '/assets/img/people/' | relative_url}}" alt="Yveta Martinková"> </div>
-                      <div class="o-media__body">
-                        <h2 class="o-media__headline">
-                          <a href="{{'lide/yveta-martinkova/' | relative_url}}">Yveta Martinková</a>
-                        </h2>
-                        <p>Koordinátorka krajského sdružení
-                        </p>
-                        <p> +420 770 113 648 <br>
-                          <a href="mailto:yveta.martinkova@pirati.cz">yveta.martinkova@pirati.cz</a>
-                          <br> </p>
-                      </div>
-                    </div>
-                  </div>
+              <h2>Lokální kontakty pro média</h2>
+                {% assign team = site.people | where_exp:"item","item.categories contains 'kontakt'"  | sort:"ordkontakty" %}
+                {% include people/list-2col.html param=team %}
+              <br>
+              <h2>Kontakt pro dobrovolníky</h2>
+                {% assign team = site.people | where_exp:"item","item.categories contains 'koks'" %}
+                {% include people/list-2col.html param=team %}
             </div>
           </div>
         </div>
