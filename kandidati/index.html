@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kandidáti Pirátů do zastupitelstva města Uherského Hradiště
+title: Kandidáti Pirátů pro volby do zastupitelstva města Rožnov
 rbar: ""
 ---
 <div class="row o-section-block o-section-block--divided">
@@ -13,10 +13,24 @@ rbar: ""
               <div class="jmk-candidates">
                <div class="row">
                   {% assign team = site.people | where_exp:"item","item.categories contains 'kandidat'" | sort:"ordkandidat"  %}
-                  {% for item in team limit:27 %}
+                  {% for item in team limit:21 %}
                     {% include people/kandidat.html param=item order='ordkandidat' %}
                   {% endfor %}
-               </div>
+
+                  {% for item in team offset:21 limit:8 %}
+                    {% include people/kandidat-small.html param=item order='ordkandidat' %}
+                  {% endfor %}
+
+                  <!--{% include people/kandidat-mini.html order='8' name='jmeno' job='zamestnani' %}
+                  {% include people/kandidat-mini.html order='9' name='jmeno' job='zamestnani' %}-->
+
+
+
+
+
+
+                </div>
+
               </div>
             </div>
           </div>
