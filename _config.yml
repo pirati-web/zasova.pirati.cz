@@ -35,7 +35,7 @@ permalink: /aktuality/:title.html
 collections:
   people:
     output: true
-    permalink: /kandidati/:path/
+    permalink: /lide/:path/
   program:
     output: true
     permalink: /program/:path/
