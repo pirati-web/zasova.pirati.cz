@@ -17,9 +17,10 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-redirect-from
 paginate_path: "/aktuality/:num/"
 paginate: 11
 
@@ -38,7 +39,7 @@ collections:
     permalink: /lide/:path/
   program:
     output: true
-    permalink: /program/:path/
+    permalink: /volby-2018/:path/
   teams:
     output: true
     permalink: /pripoj-se/:title/
@@ -50,18 +51,6 @@ defaults:   # defaults values for collection scope
     values:
       layout: "member"
       rbar: "foto"
-  -
-    scope:
-      path: "_program"
-    values:
-      layout: "page"
-      rbar: "program"
-  -
-    scope:
-      path: "_teams"
-    values:
-      layout: "team"
-      rbar: "team-summary, teams-toc"
 
 emptyArray: []
 exclude: [vendor]
