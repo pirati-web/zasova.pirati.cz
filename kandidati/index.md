@@ -28,6 +28,6 @@ rbar: ""
 22. **Mgr. Ivo Vojtík**, 54 let, ředitel ZŠ
 23. **Vojtěch Jahoda**, 28 let, OSVČ v reklamě a kultuře
 24. **Ing. Martina Houserová**, 28 let, marketingová koordinátorka
-25. **Mgr. Libor Daňhel, 52 let, učitel
+25. **Mgr. Libor Daňhel**, 52 let, učitel
 26. **Mgr. Jiřina Velebová**, 60 let, učitelka
 27. **David Juřička**, 27 let, technik kontroly
