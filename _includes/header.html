@@ -21,9 +21,6 @@
         <div class="responsive-menu-inner">
           <div class="top-bar-left top-bar-footer-group">
             <ul class="dropdown menu" data-dropdown-menu="">
-              <li {% if page.url contains 'aktuality' %} class="is-active"{% endif %}>
-                <a href="{{'/aktuality/' | relative_url }}">Aktuality</a>
-              </li>
               <li{% if page.url contains 'program' %} class="is-active"{% endif %}>
                 <a href="{{ '/program/' | relative_url }}">Program</a>
               </li>
@@ -37,13 +34,13 @@
                 <a href="{{ '/kontakt/' | relative_url }}">Kontakt</a>
               </li>
               <li{% if page.url contains 'nalod-se' %} class="is-active"{% endif %}>
-                <a href="https://nalodeni.pirati.cz/" target="_blank">🡕 Naloď se</a>
+                <a href="https://nalodeni.pirati.cz/" target="_blank"><strong>🡕 Naloď se</strong></a>
               </li>
               <li>
-                <a href="http://zlinsky.pirati.cz" target="_blank">🡕 Krajské sdružení</a>
+                <a href="http://zlinsky.pirati.cz" target="_blank"><strong>🡕 Krajské sdružení</strong></a>
               </li>
               <li>
-                <a href="http://www.pirati.cz" target="_blank">🡕 pirati.cz</a>
+                <a href="http://www.pirati.cz" target="_blank"><strong>🡕 Pirati.cz</strong></a>
               </li>
             </ul>
           </div>
