@@ -6,6 +6,7 @@ category:                 # kategorie
 - pms
 - kontakt
 - clenove
+- kandidat
 img: people/marek-houser.jpg   # 165 x 220
 description: předseda MS UH, marketingový specialista          	# kratký popis, max 160 znaků
 mail:
@@ -16,6 +17,7 @@ profiles:
   linkedin: https://www.linkedin.com/in/marrahouser
 ordpms: 1
 ordkontakty: 2
+ordkandidat: 5
 
 ---
 

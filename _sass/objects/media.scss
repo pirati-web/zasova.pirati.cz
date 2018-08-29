@@ -25,9 +25,11 @@
 .o-media__image {
     padding-right: 0.85rem;
 
-    > img {
+    img {
         display: block;
         max-width: none;
+        width: 165px;
+        border-radius: 50%;
     }
 
     .o-media--rev & {
