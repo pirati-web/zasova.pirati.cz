@@ -12,7 +12,7 @@ rbar: ""
 6. **Ing. Lucie Zelinková**, 33 let, administrativní pracovnice
 7. **Jaroslav Trubačík**, 39 let, vedoucí nákupu
 8. **Renata Malinová**, 24 let, dělnice
-9. **Ing. Lenka Kolářová, 39 let, personalistka
+9. **Ing. Lenka Kolářová**, 39 let, personalistka
 10. **Barbora Štěrbová**, 26 let, administrativní pracovnice
 11. **Antonín Macháček**, 56 let, OSVČ ve stavebnictví
 12. **Bc. Matěj Obdržálek**, 25 let, student VŠ
