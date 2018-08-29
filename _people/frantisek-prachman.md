@@ -5,7 +5,7 @@ fullname: František Prachman  	# jméno s tituly etc.
 category:                 # kategorie
 - kandidat
 img: people/ppp.jpg   # 165 x 220
-description: OSVČ, kameraman          	# kratký popis, max 160 znaků
+description: OSVČ<br>kameraman          	# kratký popis, max 160 znaků
 mail:
 -
 profiles:
