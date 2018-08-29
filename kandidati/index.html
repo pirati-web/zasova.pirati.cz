@@ -14,11 +14,6 @@ rbar: ""
                <div class="row">
                   {% assign team = site.people | where_exp:"item","item.categories contains 'kandidat'" | sort:"ordkandidat" %}
                   {% for item in team limit:21 %}
-                    {% include people/kandidat.html param=item order='ordkandidat' %}
-                  {% endfor %}
-
-                  {% for item in team offset:21 limit:8 %}
-                    {% include people/kandidat-small.html param=item order='ordkandidat' %}
                   {% endfor %}
 
                   <!--{% include people/kandidat-mini.html order='8' name='jmeno' job='zamestnani' %}
