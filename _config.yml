@@ -5,7 +5,7 @@
 # technické nastavení
 #
 
-title: Your awesome title
+title: Your awesome title # To co je napsané na tabu ve kterém je stránka.
 email: info@pirati.cz
 description: >-
   Zde potří popis webu například stránka místního sdružení. Zobrází se například ve feed/rss nebo ve výsledcích googlu.
