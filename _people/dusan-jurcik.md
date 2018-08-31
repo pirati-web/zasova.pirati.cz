@@ -6,7 +6,7 @@ category:                 # kategorie
 - pms
 - clenove
 - kandidat
-img: people/ppp.jpg   # 165 x 220
+img: people/dusan-jurcik.jpg   # 165 x 220
 description: 1. místopředseda MS UH<br>pracovník v logistice          	# kratký popis, max 160 znaků
 mail:
 - dusan.jurcik@pirati.cz
@@ -17,14 +17,16 @@ ordkandidat: 3
 
 ---
 
-Dušan Jurčík (*29. 5. 1982, Uherské Hradiště) je spoluzakládající člen místního sdružení Uh. Hradiště a její 1.místopředseda, člen Týmu pro dopravu.
+Dušan Jurčík (*29. 5. 1982, Uherské Hradiště) je spoluzakládajícím členem místního sdružení Uh. Hradiště, člen Týmu pro dopravu a Zahraničního odboru.
 
-Osudem znamení Blížence studoval vždy dva obory najednou: Základní a sportovní školu (fotbal), absolvoval SPŠ UH management a elektro a vystudoval MU v Brně při práci obor Zahraniční obchod a právo, ale bez Bc zkoušky a byl posledním civilkářem na Ortopedickém sále v Nemocnici UH.
+Vystudoval místní SPŠ a později nedokončil Zahraniční obchod a právo na právnické fakultě MU. Mezitím pomáhal v posledním ročníku civilní služby v místní nemocnici na ortopedii.
 
-Přes různé profese od práce na lodi přes podnikání ve slow food krámku se jeho cesty vždy vracely k logistice a dopravě a zde ve zlepšování a vývoji činností v různých zajímavých odvětvích.
+Ještě jako nepirát pracoval na lodi, v různých obchodech a skladech, kde se později vypracoval do vyšších pozic a začal se zajímat o dopravu a logistiku podrobněji.
 
-Politiku sleduje od dětství a po ukončení sportovní činnosti zaplnila volný čas Pirátská strana od léta 2017. V Pirátech od začátku chce pomáhat zlepšit procesy strany, přeměnit Slovácko z bašty lidovců na základnu Pirátů na Moravě a pomoci pirátským myšlenkám a názorům v okolních zemích.
+Politiku sleduje od mládí a po upozadění sportovních koníčků zaplnila volný čas Pirátská strana od léta 2017. V Pirátech od začátku chce pomáhat zlepšit procesy strany, a vrátit lidem důvěru v politiky.
 
-Ze sportovních koníčků vyměnil fotbal a hokej za tenis a kolo, má rád kartografii a historii, ekonomii a politiku, rád čte literaturu faktu a má rád cestování spojené s poznáváním místních zvyků i jazyků.
+Do budoucna by rád pokračoval v pomoci Pirátů v zahraničí, zejména v sousedních zemích a dále pak se zaměřil na rozvoj dopravy, otevřenosti politiky a jejího návratu k základům jako služby občanům.
 
-Je svobodný s pěknými závazky, malou Terezkou, velkou Lucií a chlupáčem Oggym.
+Rád čte literaturu faktu, zajímá se o historii, ekonomiku a rád cestuje. Fotbal, tenis a kolo ustoupili procházkám s chlupáčem Oggym.
+
+Politiku dělá jako koníček, pro radost svou a pomoc v lepším životě všem ostatním.
