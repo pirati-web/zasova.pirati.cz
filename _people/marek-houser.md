@@ -7,7 +7,7 @@ category:                 # kategorie
 - kontakt
 - clenove
 - kandidat
-img: people/ppp.jpg   # 165 x 220
+img: people/marek-houser.jpg   # 165 x 220
 description: předseda místního sdružení UH<br>marketingový specialista<br>asistent poslance          	# kratký popis, max 160 znaků
 mail:
 - marek.houser@pirati.cz
