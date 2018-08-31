@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kandidáti do zastupitelstva města Uherské Hradiště
+title: Pirátští kandidáti do zastupitelstva města UH
 rbar: ""
 ---
 

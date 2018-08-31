@@ -5,7 +5,7 @@ fullname: František Elfmark  	# jméno s tituly etc.
 category:                 # kategorie
 - poslanec
 - kandidat
-img: people/ppp.jpg   # 165 x 220
+img: people/frantisek-elfmark.jpg   # 165 x 220
 description: pirátský poslanec za Zlínský kraj          	# kratký popis, max 160 znaků
 mail:
 - frantisek.elfmark@pirati.cz
