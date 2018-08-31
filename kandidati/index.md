@@ -2,7 +2,7 @@
 layout: page
 title: Pirátští kandidáti do zastupitelstva města UH
 rbar: ""
-ogimage: https://www.pirati.cz/assets/img/miscellaneous/volebni-rozcestnik.png
+ogimage: miscellaneous/fbkandidati.jpg
 ---
 
 1. [**Jaroslav Ševčík**](/lide/jaroslav-sevcik), 32 let, správce T. J. Sokol Uherské Hradiště
