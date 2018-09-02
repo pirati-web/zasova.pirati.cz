@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pirátští kandidáti do zastupitelstva města UH
+title: Pirátští kandidáti do zastupitelstva obce Zašová
 rbar: ""
 ogimage: https://raw.githubusercontent.com/pirati-web/uh.pirati.cz/master/assets/img/miscellaneous/fbkandidati.jpg
 ---
