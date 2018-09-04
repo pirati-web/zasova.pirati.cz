@@ -2,8 +2,8 @@
 uid: jakub.pirat
 name:     Jakub Pirát  	# běžně používáné jméno
 titles:
-before: Bc.
-after:
+  before: Bc.
+  after:
 category:
 - clenove
 - kontaktni_osoba
