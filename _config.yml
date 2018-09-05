@@ -7,7 +7,7 @@
 
 # Site settings
 title: Pirátská strana | ZAS
-email: to@pirati.cz
+#email: to@pirati.cz
 description: > # this means to ignore newlines until "baseurl:"
   Web Pirátů ze Zašové.
 url: "https://zasova.pirati.cz" # the base hostname & protocol for your site
