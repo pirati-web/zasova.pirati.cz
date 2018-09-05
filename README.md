@@ -306,19 +306,10 @@ Pro generování statistik je možné použít [Matomo](https://matomo.org/) (p�
 * na [Redmine TO](https://redmine.pirati.cz/projects/to) si vyžádat piwik id a napsat e-mail, na který mají chodit reporty + vybraný formát (PDF nebo HTML)
 * v _config.yml doplnit:
 ```
-plugins:
-  ...
-  - jekyll-environment-variables
-...
 piwik:
   siteId: vase_pridelene_id
   loadSDK: true
 ```
-* do Gemfile doplnit:
-```
-gem "jekyll-environment-variables"
-```
-
 Reporty standardně chodí e-mailem. Po domluvě s Martinem Rejmanem je možné získat přístup k webovému rozhraní Matomo.
 
 ## Získání pomoci
