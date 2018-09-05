@@ -299,6 +299,19 @@ Můžete také využít příkaz `build.sh`, který obsahuje oba výše zmíněn
 ./build.sh
 ```
 
+## Statistiky přístupů - Piwik/Matomo
+
+Pro generování statistik je možné použít [Matomo](https://matomo.org/) (před přejmenováním Piwik), což je otevřená alternativa ke Google Analytics. Je k tomu potřeba:
+
+* na [Redmine TO](https://redmine.pirati.cz/projects/to) si vyžádat piwik id a napsat e-mail, na který mají chodit reporty + vybraný formát (PDF nebo HTML)
+* v _config.yml doplnit:
+```
+piwik:
+  siteId: vase_pridelene_id
+  loadSDK: true
+```
+Reporty standardně chodí e-mailem. Po domluvě s Martinem Rejmanem je možné získat přístup k webovému rozhraní Matomo.
+
 ## Získání pomoci
 
 Projděte si [návod na git](http://www.kutac.cz/blog/pocitace-a-internety/git-tutorialy-a-navody/) nebo
