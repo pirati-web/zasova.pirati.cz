@@ -4,7 +4,6 @@ category: blog
 tags: 
     - tag1 
     - tag2
-layout: post
 title: Článek s videem místo obrázku
 author: Jmeno Prijmeni
 authorId: jakub.pirat    # uid nekoho z _people (nepoviné)

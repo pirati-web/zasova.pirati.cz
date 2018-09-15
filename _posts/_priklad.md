@@ -1,5 +1,4 @@
 ---
-layout: blog
 category: CLANKY
 title: Nadpis článku
 date: 2018-03-14T12:00:00.000Z

@@ -32,6 +32,10 @@ tail: # zbytek kandidatky
     age: 19
     profession: student
     party: Piráti
+  - uid: mistni.predseda
+    profession: knihovník
+    description: expert na skoky
+    party: bez politické příslušnosti
 note: # poznámka pod kanidátku
     Primárky stále běží. Zbytek kandidátky zveřejníme, jakmile doběhnou.
 ---

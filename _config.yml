@@ -18,7 +18,6 @@ administrator:
 organization:
   name: Jmeno skupiny používající web - př Pirástá strana
   shortName: Název skupiny
-  contactUid: jakub.pirat
   email: example@pirati.cz
   phone: +420 777 123 456 789
   address: |
@@ -132,6 +131,11 @@ collections:
 defaults:   # defaults values for collection scope
   -
     scope:
+      path: "_posts"
+    values:
+      layout: "post"
+  -
+    scope:
       path: "_people"
     values:
       layout: "person"
@@ -166,7 +170,7 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-6.7.2/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-6.8.0/_sass
     - assets/css
     - assets/fonts
     - assets/video
