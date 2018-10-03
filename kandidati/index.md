@@ -5,6 +5,6 @@ rbar: ""
 ogimage: https://raw.githubusercontent.com/pirati-web/uh.pirati.cz/master/assets/img/miscellaneous/fbkandidatix.jpg
 ---
 
-1. [**Pirát Testovací**](/lide/pirat-testovaci), 33 let, feťák a vítač
-2. bla
-3. bla
+1. [**Zdeněk Mořkovský**](/lide/zdenek-morkovsky.md), 43 let, strojvedoucí, BEZPP
+2. [**Ing. Jan Bolek**](/lide/jan-bolek.md), 38 let, stavební technik, BEZPP
+3. [**Ing. Radim Redl**](/lide/radim-redl.md), 31 let, státní úředník, BEZPP
