@@ -6,7 +6,7 @@ category:                   # kategorie
 - kandidat
 
 img: people/zdenek-morkovsky.jpg   # 165 x 220
-description: stojvedoucí<br>BEZPP          	# kratký popis, max 160 znaků
+description: 43 let<br>stojvedoucí<br>BEZPP          	# kratký popis, max 160 znaků
 
 ordkandidat: 1
 
