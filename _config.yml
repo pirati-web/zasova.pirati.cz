@@ -16,7 +16,7 @@ administrator:
   email: libor.adamek@pirati.cz # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
 
 organization:
-  name: Jmeno skupiny používající web - př Pirástá strana
+  name: Piráti - Zlínský kraj
   shortName: Název skupiny
   email: example@pirati.cz
   phone: +420 770 113 642
@@ -50,7 +50,7 @@ calendar:
   # For nice look of the calendar, make sure you get Google Calendar API key
   # and start the app with the env var `GOOGLE_CALENDAR_APIKEY=[myapikey] bundle exec jekyll serve`.
   # For deployment, contact website administrator to set you env variable.
-  title: Celostátní kalendář
+  title: Krajský kalendář
   id: nk73m1m89vhf5g2vojp6tnqe58@group.calendar.google.com
   page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=550&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=ga10lc9e16604efoq975f12m14%40group.calendar.google.com&amp;color=%23AB8B00&amp;ctz=Europe%2FPrague
 facebook:
