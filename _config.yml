@@ -5,15 +5,15 @@
 # technické nastavení
 #
 
-title: Your awesome title # To co je napsané na tabu ve kterém je stránka.
+title: Pirátská strana | ZLK # To co je napsané na tabu ve kterém je stránka.
 email: info@pirati.cz
 description: >-
-  Zde potří popis webu například stránka místního sdružení. Zobrází se například ve feed/rss nebo ve výsledcích googlu.
+  Web krajského sdružení České pirátské strany ve Zlínském kraji.
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
 keywords: piráti, česká pirátská strana, svoboda, demokracie, název města, zkratka města, místní združení,
 
 administrator:
-  email: TADY_DEJTE_VLASTNI_MAIL@pirati.cz # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
+  email: libor.adamek@pirati.cz # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
 
 organization:
   name: Jmeno skupiny používající web - př Pirástá strana
@@ -57,8 +57,8 @@ calendar:
 facebook:
   loadSDK: true
   #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
-  profilePage: https://www.facebook.com/ceska.piratska.strana/
-  profilePageName: Nějaký název FB profilu
+  profilePage: https://www.facebook.com/piratizlk/
+  profilePageName: Piráti - Zlínský kraj
   appId: 1526197851008996
 
 twitter:
