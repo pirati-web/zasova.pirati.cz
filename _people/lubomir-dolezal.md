@@ -5,7 +5,7 @@ titles:
   before: 
   after:
 category:
-- clenove
+- pks
 
 img: people/lubomir-dolezal.jpg   # zakomentuj radek dokud není fotka
 description: 4. místopředseda KS Zlínský kraj, rozpočtář # kratký popis, max 160 znaků
