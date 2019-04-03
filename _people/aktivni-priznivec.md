@@ -7,7 +7,7 @@ titles:
 category:
   - priznivci
   - kandidat-obec
-description: kandidát do senátu # zobrazuje se v lide
+description: kandidátek do senátu # zobrazuje se v lide
 #img: people/jakub-pirat.jpg # zakomentuj radek dokud není fotka
 asistenti:
   - name: Mgr. Věra Marušiaková
