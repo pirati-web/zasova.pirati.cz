@@ -5,7 +5,7 @@ titles:
   before: 
   after:
 category:                    # kategorie: clenove
-- clenove
+- pks
 
 img: people/denis-rychtar.jpg   # zakomentuj radek dokud není fotka
 description: 1. místopředseda KS Zlínský kraj, chemik-velinář # kratký popis, max 160 znaků
