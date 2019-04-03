@@ -5,7 +5,7 @@ titles:
   before: 
   after:
 category:
-- clenove
+- pks
 
 img: people/jiri-jaros.jpg   # zakomentuj radek dokud není fotka
 description: 2. místopředseda KS Zlínský kraj, IT technik # kratký popis, max 160 znaků
