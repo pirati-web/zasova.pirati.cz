@@ -5,7 +5,7 @@ fullname: Jan Buksa  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 
-img: people/ppp.jpg   # zakomentuj radek dokud není fotka
+img: people/jakub-pirat.jpg   # zakomentuj radek dokud není fotka
 description: autoelektrikář # kratký popis, max 160 znaků
 mail:
 - jan.buksa@pirati.cz
