@@ -5,7 +5,7 @@ titles:
   before: 
   after:
 category:
-- clenove
+- pks
 
 img: people/marek-houser.jpg   # zakomentuj radek dokud není fotka
 description: předseda KS Zlínský kraj, marketingový specialista         	# kratký popis, max 160 znaků
