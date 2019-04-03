@@ -6,6 +6,7 @@ titles:
   after:
 category:
 - clenove
+- kontaktni_osoba
 
 img: people/yveta-martinkova-kontakt.jpg   # zakomentuj radek dokud není fotka
 description: koordinátorka Pirátů Zlínského kraje # kratký popis, max 160 znaků
