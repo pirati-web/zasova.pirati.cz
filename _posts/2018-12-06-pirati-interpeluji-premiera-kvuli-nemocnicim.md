@@ -10,16 +10,7 @@ tags:
   - sněmovna
   - zlínský kraj
 ---
----
-layout: blog
-category: CLANKY
-title: 'Piráti interpelují premiéra kvůli nemocnicím ve Zlínském kraji'
-date: 2018-12-06
-author: Marek Houser
-authorId: marek.houser
-image: /assets/img/posts/kntb.jpg
-tags: 'nemocnice sněmovna zlínský-kraj'
----
+
 Piráti ze Zlínského kraje nadále bojují za lepší lékařskou péči. Po několika jednáních s představiteli měst i kraje se pustili do získání informací přímo od Vlády ČR. Ve čtvrtek 6. prosince předali premiérovi Andrejovi Babišovi písemnou interpelaci. Autorem textu je nový pirátský místostarosta Kroměříže Vratislav Krejčíř, interpelaci ve sněmovně předal náš poslanec František Elfmark. Hlavní text interpelace si můžete přečíst...
 
 
