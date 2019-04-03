@@ -5,7 +5,7 @@ titles:
   before: 
   after:
 category:
-- clenove
+- pms
 
 img: people/lucie-malikova.jpg   # zakomentuj radek dokud není fotka
 description: student ekonomiky a podnikání # kratký popis, max 160 znaků
