@@ -5,7 +5,7 @@ titles:
   before: 
   after:
 category:
-- clenove
+- pms
 
 img: people/vratislav-krejcir.jpg   # zakomentuj radek dokud není fotka
 description: předseda MS KM, ředitel divize eMobility, hrdý otec a optimista # kratký popis, max 160 znaků
