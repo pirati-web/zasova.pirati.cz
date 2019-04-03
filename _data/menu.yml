@@ -14,7 +14,7 @@ main:
     name: Aktuality
     match: aktuality
   - link: /lide/
-    name: O nás
+    name: Naši lidé
     match: lide
   - link: /tabulka/
     name: Tabulka
