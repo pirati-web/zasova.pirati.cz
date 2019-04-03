@@ -1,7 +1,7 @@
 ---
 category: CLANKY
 title: Piráti interpelují premiéra kvůli nemocnicím ve Zlínském kraji
-date: 2019-03-31T12:00:00.000Z
+date: 2018-06-12T12:00:00.000Z
 author: Marek Houser
 authorId: marek.houser    # uid nekoho z _people
 image: posts/kntb.jpg
