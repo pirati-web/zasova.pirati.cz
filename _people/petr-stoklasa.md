@@ -5,7 +5,7 @@ titles:
   before: 
   after:
 category:
-- clenove
+- pks
 
 img: people/petr-stoklasa.jpg   # zakomentuj radek dokud není fotka
 description: 3. místopředseda KS Zlínský kraj, obchodník # kratký popis, max 160 znaků
