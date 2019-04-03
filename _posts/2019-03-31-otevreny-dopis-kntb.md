@@ -11,7 +11,6 @@ tags:
   - zlínský kraj
 ---
 Vážení členové Zastupitelstva Zlínského kraje,
-
 v pondělí 8. dubna 2019 máte svým hlasováním rozhodnout o dalším osudu výstavby nové krajské nemocnice v Malenovicích. Jelikož nejsme i přes účast na několika debatách a po prostudování dostupných dokumentů přesvědčeni o nutnosti a efektivnosti tohoto projektu, rádi bychom Vám položili několik otázek. Měli byste být schopni na ně odpovědět nejen kvůli nám a obyvatelům našeho kraje, ale také kvůli sobě. Je jen a pouze Vaší odpovědností, abyste získali maximální množství kvalitních informací a na jejich základě hlasovali ve prospěch Zlínského kraje a jeho obyvatel.
 
 Nejsme zatvrzelými odpůrci nemocnice v Malenovicích, nicméně hejtman Jiří Čunek nás svými dosavadními činy a prohlášeními v oblasti zdravotnictví nedokázal přesvědčit o tom, že má Krajský úřad projekt pevně v rukou a zná všechna jeho pozitiva a negativa. Z dosavadních mediálních výstupů se tento nápad jeví především jako netransparentní politický pomník, jehož finanční i provozní dopady jsou velmi nejisté. V takovém případě cítíme povinnost se ozvat. Projekt nemocnice v Malenovicích se může proměnit v nezalepitelnou díru v krajském rozpočtu s obrovskými dopady na obyvatele Zlínského kraje. Nedávné vyjádření náměstka hejtmana pro ekonomiku (!) Jiřího Sukopa, který pochybuje o únosnosti finanční zátěže, naše obavy ještě umocnilo.
