@@ -7,7 +7,7 @@ titles:
 category:                   # kategorie: clenove
 - clenove
 
-img: people/ppp.jpg   # zakomentuj radek dokud není fotka
+img: people/jakub-pirat.jpg   # zakomentuj radek dokud není fotka
 description: Správce IT # kratký popis, max 160 znaků
 mail:
 - hynek.polasek@pirati.cz
