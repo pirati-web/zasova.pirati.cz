@@ -16,9 +16,9 @@ main:
   - link: /lide/
     name: Naši lidé
     match: lide
-  - link: /tabulka/
-    name: Tabulka
-    match: tabulka
+  - link: /eurovolby/
+    name: Eurovolby
+    match: eurovolby
   - link: /komunalni-volby/
     name: Komunální volby
     match: komunalni-volby
