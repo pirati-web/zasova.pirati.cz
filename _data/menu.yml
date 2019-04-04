@@ -19,13 +19,16 @@ main:
   - link: /eurovolby/
     name: Eurovolby
     match: eurovolby
-  - link: /komunalni-volby/
-    name: Komunální volby
-    match: komunalni-volby
-    submenu:
-      - link: /komunalni-volby/mapa-zameru/
-        name: Mapa záměrů
-        match: mapa-zameru
+  - link: /kde-jsme/
+    name: Kde jsme?
+    match: kde-jsme
+  # - link: /komunalni-volby/
+  #  name: Komunální volby
+  #  match: komunalni-volby
+  #  submenu:
+  #    - link: /komunalni-volby/mapa-zameru/
+  #     name: Mapa záměrů
+  #     match: mapa-zameru
   - link: /kontakt/
     name: Kontakt
     match: kontakt
