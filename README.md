@@ -6,8 +6,9 @@
 
 Úpravy pro Zlínský kraj oproti originálu:
 ``` 
+    Zrušení top menu
     přidán _layouts/default.html 
-    v něm odebrán {% include header.html %}  - zruší se tak top menu 
+    v něm odebrán {% include header.html %}
 ```
 ```
    Pro vlastní css úpravy
