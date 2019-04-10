@@ -8,9 +8,7 @@
 
   <body>
 
-  <!-- {% include header.html %}  --> 
-
-    {% if site.data.menu.main %}
+   {% if site.data.menu.main %}
         {% include menu.html %}
         {% unless page.nosubmenu %}
             {% include submenu.html %}
