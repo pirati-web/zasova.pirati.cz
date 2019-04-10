@@ -13,5 +13,5 @@
 ```
    Pro vlastní css úpravy
    přidán _includes/head-custom.html <link rel="stylesheet" href="{% asset 'custom.css' @path !type %}">
-   přidán assets/css/custom.cs - zde jsou vlastní css úpravy
+   přidán assets/css/custom.scss - zde jsou vlastní css úpravy
 ```    
