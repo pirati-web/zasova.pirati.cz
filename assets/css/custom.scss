@@ -2,5 +2,5 @@
 .c-top-bar {
   padding-top: .25rem;
 }
-// Mezera a velikost loga na mobilu
-.c-top-bar__body{display:flex;align-items:center;justify-content:space-between}@media screen and (max-width: 63.9375em){.c-top-bar__body{padding:.5rem 0 .5rem}}.c-top-bar__brand{order:1;width:130px;flex-shrink:0;display:flex;align-items:center;margin-right:1.5rem}@media screen and (max-width: 63.9375em){.c-top-bar__brand{width:115px}}
+// Mezera a velikost loga na PC a na mobilu
+.c-top-bar__body{display:flex;align-items:center;justify-content:space-between}@media screen and (max-width: 63.9375em){.c-top-bar__body{padding:.5rem 0 .5rem}}.c-top-bar__brand{order:1;width:245px;flex-shrink:0;display:flex;align-items:center;margin-right:1.5rem}@media screen and (max-width: 63.9375em){.c-top-bar__brand{width:215px}}
