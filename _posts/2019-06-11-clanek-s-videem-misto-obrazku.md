@@ -11,7 +11,7 @@ image: posts/obrazek-u-tohoto-postu.jpg
 youtubeVideoId: 5f0-nQLHHM4 # if youtubeVideoId is provided, it will replace the image as the main content
 ---
 
-Posty musí být každý ve vlastním souboru pojmenovaném datumem a nejakym nazvem, například _posts/2018-03-14-slavime-pi-day.md. Tento název se pak objeví v adrese, tedy xxx.pirati.cz/aktuality/slavime-pi-day.html.
+Pousty musí být každý ve vlastním souboru pojmenovaném datumem a nejakym nazvem, například _posts/2018-03-14-slavime-pi-day.md. Tento název se pak objeví v adrese, tedy xxx.pirati.cz/aktuality/slavime-pi-day.html.
 
 Obrázky dávejte do assets/img/posts/
 
