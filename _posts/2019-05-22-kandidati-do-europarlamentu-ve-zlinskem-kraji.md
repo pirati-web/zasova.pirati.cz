@@ -1,12 +1,15 @@
 ---
-layout: blog
 category: CLANKY
-title: 'Čelní kandidáti do europarlamentu zamířili do našeho kraje. Nechyběl ani bus'
+title: Čelní kandidáti do europarlamentu zamířili do našeho kraje. Nechyběl ani bus
 date: 2019-05-22
 author: Jaromír Horký
 authorId: jaromir.horky
-image: /assets/img/posts/bus2019zlk.jpg   
-tags: 'zlinsky-kraj eurovolby report VyOsení'
+image: posts/bus2019zlk.jpg   
+tags: 
+ - zlinsky kraj
+ - eurovolby
+ - report
+ - VyOsení
 ---
 V sobotu a neděli 18. a 19. května putoval v rámci předvolební kampaně Zlínským krajem pirátský autobus s hlavními zastávkami na VyOsení ve Valašském Meziříčí a v Kroměříži na Bagráku.
 
