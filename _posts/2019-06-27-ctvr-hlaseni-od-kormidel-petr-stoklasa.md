@@ -1,12 +1,14 @@
 ---
-layout: blog
 category: CLANKY
-title: 'Čtvrteční hlášení od kormidel - Petr Stoklasa'
+title: Čtvrteční hlášení od kormidel - Petr Stoklasa
 date: 2019-06-27T08:10:00.032Z
 author: Jaromír Horký
 authorId: jaromir.horky
-image: /assets/img/posts/petr4.png   
-tags: 'zlinsky-kraj petr-stoklasa rozhovor'
+image: posts/petr4.png   
+tags: 
+ - zlinsky kraj
+ - petr stoklasa
+ - rozhovor
 ---
 Čtvrteční hlášení od kormidel. Tak se jmenuje nový seriál rozhovorů s našimi zastupiteli v celém Zlínském kraji. Každý čtvrtek vám budeme přinášet zajímavé rozhovory s lidmi, kteří pracují pro vaše města a jsou součástí Pirátské strany.
 
