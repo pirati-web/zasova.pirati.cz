@@ -9,7 +9,7 @@ tags:
   - úklid
   - zlínský kraj
 ---
-Piráti Zlínského kraje jsou pravidelnými účastníky celostátní akce [Ukliďme Česko](http://www.uklidmecesko.cz){:target="_blank"} a letos tomu nebylo jinak. V sobotu 6. dubna Piráti uklízeli ve Zlíně, Kroměříži, Valašském Meziříčí, Stříteži nad Bečvou a v pátek 12. 4. je čeká ještě Rožnov pod Radhoštěm.
+Piráti ze Zlínského kraje jsou pravidelnými účastníky celostátní akce [Ukliďme Česko](http://www.uklidmecesko.cz){:target="_blank"} a letos tomu nebylo jinak. V sobotu 6. dubna Piráti uklízeli ve Zlíně, Kroměříži, Valašském Meziříčí, Stříteži nad Bečvou a v pátek 12. 4. je čeká ještě Rožnov pod Radhoštěm.
 
 Zlínští Piráti v 5. ročníku této akce uklízeli okolí Fryštátského potoka směrem od Burešova ke Kostelci a cestou nad fotbalovým areálem zpět. Nejvíce odpadků bylo právě nad fotbalovým areálem, včetně dvou černých skládek, které jsme nahlásili příslušným orgánům, neboť samotná likvidace byla nad naše síly. Celkem se zlínským Pirátům podařilo posbírat téměř 100 kg odpadu včetně dvou pneumatik.
 [Fotky ze Zlína.]( https://www.facebook.com/PiratiZlin/posts/2696338573723773?__xts__[0]=68.ARA4npuEm_sonhl0NP4TuiO3_hWDoWLBHwo955CTcaWEaJ2BRN-NP6m9CUWLiM4tepSliEjO2hgcjS8tQ29S7HXUm4ORSCT1AR7H8hM_RXtbfOBFBRb-i-6cphQ6GCkg-MQfkcDeYjMQTBIObkP3yukEOV-KjjNcQXhrCH1_hmFB	rT52nDdKBmU4cXU47u4MCSXZGROGEpA0CbGK86H9lmqbJJyFGbtGZ1V8xGU2-x65RwaDC_38ttxw9claTbZng6PZPv5OTOJFE7SkaFR3dZyc3YmxJrsBTUa63M9ucfzZs7BUCt9pQL4e3up3Ss3KJlF-p0-u_U5kjvgwKUzeD8aErsz-&__tn__=-R
