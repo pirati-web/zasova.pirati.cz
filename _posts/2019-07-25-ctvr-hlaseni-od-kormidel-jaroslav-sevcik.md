@@ -1,12 +1,15 @@
 ---
-layout: blog
 category: CLANKY
-title: 'Čtvrteční hlášení od kormidel - Jaroslav Ševčík'
+title: Čtvrteční hlášení od kormidel - Jaroslav Ševčík
 date: 2019-07-25
 author: Jaromír Horký
 authorId: jaromir.horky
-image: /assets/img/posts/jaroslavsevcik1.png   
-tags: 'zlinsky-kraj jaroslav-sevcik uherske-hradiste rozhovor'
+image: posts/jaroslavsevcik1.png   
+tags: 
+ - zlinsky kraj
+ - jaroslav sevcik
+ - uherske hradiste
+ - rozhovor
 ---
 
 Čtvrteční hlášení od kormidel. Tak se jmenuje seriál rozhovorů s našimi zastupiteli v celém Zlínském kraji. Každý čtvrtek vám přinášíme zajímavé rozhovory s lidmi, kteří pracují pro vaše města a jsou součástí Pirátské strany.
