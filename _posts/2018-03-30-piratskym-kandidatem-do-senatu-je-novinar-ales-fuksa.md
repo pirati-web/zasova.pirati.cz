@@ -1,12 +1,15 @@
 ---
-layout: blog
 category: CLANKY
-title: 'U Pirátů je rozhodnuto. Do boje o původní Čubovo místo vyšlou novináře Fuksu'
+title: U Pirátů je rozhodnuto. Do boje o původní Čubovo místo vyšlou novináře Fuksu
 date: 2018-03-30T11:00:00.032Z
 author: Marek Houser
 authorId: marek.houser
-image: /assets/img/posts/fuksaoblek.jpg
-tags: 'Senát Senát-78 Zlín primárky'
+image: posts/fuksaoblek.jpg
+tags: 
+ - Senát 
+ - Senát 78 
+ - Zlín 
+ - primárky
 ---
 Piráti ze Zlínského kraje v primárních volbách, které jsou stranickým standardem a které dávají v podobných situacích příležitost zájemcům i mimo členskou základnu, vybrali kandidáta pro doplňovací senátní volby v obvodu 78. Stal se jím dlouholetý novinář [Aleš Fuksa](https://www.alesfuksa.cz){:target="_blank"}. Právě ten tak v květnu svede souboj o místo, které svou rezignací uvolnil František Čuba.
 
