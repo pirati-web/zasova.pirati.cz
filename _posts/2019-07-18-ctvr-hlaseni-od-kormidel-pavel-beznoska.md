@@ -1,12 +1,15 @@
 ---
-layout: blog
 category: CLANKY
-title: 'Čtvrteční hlášení od kormidel - Pavel Beznoska'
+title: Čtvrteční hlášení od kormidel - Pavel Beznoska
 date: 2019-07-18
 author: Jaromír Horký
 authorId: jaromir.horky
-image: /assets/img/posts/pavel1.png   
-tags: 'zlinsky-kraj pavel-beznoska otrokovice rozhovor'
+image: posts/pavel1.png   
+tags: 
+ - zlinsky kraj
+ - pavel beznoska
+ - otrokovice
+ - rozhovor
 ---
 Čtvrteční hlášení od kormidel. Tak se jmenuje seriál rozhovorů s našimi zastupiteli v celém Zlínském kraji. Každý čtvrtek vám přinášíme zajímavé rozhovory s lidmi, kteří pracují pro vaše města a jsou součástí Pirátské strany.
 
