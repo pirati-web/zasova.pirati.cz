@@ -1,12 +1,15 @@
 ---
-layout: blog
 category: CLANKY
-title: 'Čtvrteční hlášení od kormidel - Hana Ančincová'
+title: Čtvrteční hlášení od kormidel - Hana Ančincová
 date: 2019-09-19
 author: Jaromír Horký
 authorId: jaromir.horky
-image: /assets/img/posts/hanka1.png   
-tags: 'zlinsky-kraj hana-ancincova kromeriz rozhovor'
+image: posts/hanka1.png   
+tags: 
+ - zlinsky kraj
+ - hana ancincova
+ - kromeriz
+ - rozhovor
 ---
 
 V prvním poprázdninovém hlášení od kormidel Vám představíme členku kontrolního výboru v Kroměříži a místopředsedkyni krajského sdružení Pirátů ve Zlínském kraji Hanku Ančincovou. 
