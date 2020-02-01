@@ -1,12 +1,15 @@
 ---
-layout: blog
 category: CLANKY
-title: 'Čtvrteční hlášení od kormidel - Renata Gehringer'
+title: Čtvrteční hlášení od kormidel - Renata Gehringer
 date: 2019-10-10
 author: Jaromír Horký
 authorId: jaromir.horky
-image: /assets/img/posts/renata.png   
-tags: 'zlinsky-kraj renata-gehringer valasske-mezirici rozhovor'
+image: posts/renata.png   
+tags: 
+ - zlinsky kraj
+ - renata gehringer
+ - valasske mezirici
+ - rozhovor
 ---
 
 V dnešním hlášení od kormidel jsme se vydali do Valašského Meziříčí za členkou školské komise a učitelkou Renatou Gehringer. Více o jejím životě nebo práci pro město se dozvíte v dnešním rozhovoru. 
