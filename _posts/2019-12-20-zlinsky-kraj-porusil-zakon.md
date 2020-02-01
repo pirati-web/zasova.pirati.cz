@@ -1,11 +1,14 @@
 ---
-date: 2019-12-20
-category: blog
-tags: zlinsky-kraj kromeriz vratislav-krejcir
+category: CLANKY
 title: Zlínský kraj porušil při rozhodování o stavbě nemocnice zákon, shodli se radní Kroměříže
+date: 2019-12-20T12:00:00.000Z
 author: Jaromír Horký
 authorId: jaromir.horky
-image: /assets/img/posts/nemonicnicezlin.jpg
+image: posts/nemonicnicezlin.jpg
+tags: 
+  - zlinsky kraj 
+  - kromeriz 
+  - vratislav krejcir
 
 ---
 Kroměříž (20. prosince 2019) – Rada města Kroměříže nesouhlasí se způsobem, jakým Zastupitelstvo Zlínského kraje schválilo stavbu nové nemocnice ve Zlíně – Malenovicích. Radní schválili podání podnětu k provedení dozorové činnosti pro zneužití zákona o krajích k ministerstvu vnitra. „Kraj popřel práva občanů, zastupitelů a místní samosprávy. Schválil miliardovou investici bez předložení jasných podkladů. Zařadil tento bod do programu nečekaně až v závěru zastupitelstva, takže o něm nevěděli občané ani místní samospráva, které se to významně týká a dokonce ani řada členů zastupitelstva, s výjimkou 23 vyvolených,“ uvedl starosta Jaroslav Němec (Nezávislí).
