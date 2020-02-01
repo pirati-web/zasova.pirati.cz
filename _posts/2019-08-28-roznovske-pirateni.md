@@ -1,12 +1,13 @@
 ---
-layout: blog
 category: CLANKY
-title: 'Rožnovské Pirátění aneb neformální den s Republikovým výborem'
+title: Rožnovské Pirátění aneb neformální den s Republikovým výborem
 date: 2019-08-28
 author: Jaromír Horký
 authorId: jaromir.horky
-image: /assets/img/posts/rvroznov.png
-tags: 'rožnov-pod-radhoštěm republikový-výbor'   
+image: posts/rvroznov.png
+tags: 
+ - rožnov pod radhoštěm
+ - republikový výbor   
 ---
 
 Vydejte se s Piráty z celé republiky na Radhošť, večerní grilování nebo na koncert! Členové Republikového výboru tímto srdečně zvou členy a příznivce všech pirátských krajských sdružení v sobotu 7. září 2019 do Rožnova pod Radhoštěm k účasti na neformální sobotní setkání se členy Republikového výboru a s Piráty z celé České republiky.
