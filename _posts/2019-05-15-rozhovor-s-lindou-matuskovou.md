@@ -1,12 +1,14 @@
 ---
-layout: blog
 category: CLANKY
-title: 'Rozhovor s kandidátkou do Evropského parlamentu Lindou Matuškovou'
+title: Rozhovor s kandidátkou do Evropského parlamentu Lindou Matuškovou
 date: 2019-05-15
 author: Jaromír Horký
 authorId: jaromir.horky
-image: /assets/img/posts/ep_matuskova.jpg   
-tags: 'zlinsky-kraj eurovolby rozhovor'
+image: posts/ep_matuskova.jpg   
+tags: 
+ - zlinsky kraj
+ - eurovolby
+ - rozhovor
 ---
 Piráti ze Zlínského kraje budou mít na kandidátce do Evropského parlamentu dvě želízka v ohni. Jsou jimi vystudovaná pedagožka a nyní profesionální fotografka Linda Matušková z Kroměříže a polární ekolog a vysokoškolský lektor Jiří Lehejček z Lukova. Přinášíme vám rozhovor s první jmenovanou...
 
