@@ -1,6 +1,6 @@
 ---
 category: CLANKY
-title: Vratislav Krejčíř: Jsem hrdý na naši práci v Kroměříži!
+title: Vratislav Krejčíř - Jsem hrdý na naši práci v Kroměříži!
 date: 2019-11-01
 author: Vratislav Krejčíř
 authorId: vratislav.krejcir
