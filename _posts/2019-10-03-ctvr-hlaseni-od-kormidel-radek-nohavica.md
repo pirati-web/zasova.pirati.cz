@@ -1,12 +1,15 @@
 ---
-layout: blog
 category: CLANKY
-title: 'Čtvrteční hlášení od kormidel - Radek Nohavica'
+title: Čtvrteční hlášení od kormidel - Radek Nohavica
 date: 2019-10-03
 author: Jaromír Horký
 authorId: jaromir.horky
-image: /assets/img/posts/nohavica.png   
-tags: 'zlinsky-kraj radek-nohavica vsetin rozhovor'
+image: posts/nohavica.png   
+tags: 
+ - zlinsky kraj
+ - radek nohavica
+ - vsetin
+ - rozhovor
 ---
 
 Dnes jsme vyzpovídali předsedu místního sdružení Pirátů na Vsetíně Radka Nohavicu. Více o něm se dozvíte v dnešním hlášení od kormidel.
