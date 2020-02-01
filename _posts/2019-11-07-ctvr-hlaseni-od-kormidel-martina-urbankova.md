@@ -1,12 +1,15 @@
 ---
-layout: blog
 category: CLANKY
-title: 'Čtvrteční hlášení od kormidel - Martina Urbánková'
+title: Čtvrteční hlášení od kormidel - Martina Urbánková
 date: 2019-11-07
 author: Jaromír Horký
 authorId: jaromir.horky
-image: /assets/img/posts/martina1.png   
-tags: 'zlinsky-kraj marrtina-urbankova zlin rozhovor'
+image: posts/martina1.png   
+tags: 
+ - zlinsky kraj
+ - martina urbankova
+ - zlin
+ - rozhovor
 ---
 
 V dnešním hlášení od kormidel jsme pro vás vyzpovídali "rodačku" z Montrealu a členku Zlínských Pirátů Martinu Urbánkovou.
