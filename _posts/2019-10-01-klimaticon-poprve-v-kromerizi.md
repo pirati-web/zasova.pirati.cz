@@ -1,12 +1,14 @@
 ---
-layout: blog
 category: CLANKY
-title: 'Klimaticon poprvé v Kroměříži!'
+title: Klimaticon poprvé v Kroměříži!
 date: 2019-10-01
 author: Jaromír Horký
 authorId: jaromir.horky
-image: /assets/img/posts/klima.jpg
-tags: 'kromeriz klimaticon konference'   
+image: posts/klima.jpg
+tags: 
+ - kromeriz
+ - klimaticon
+ - konference   
 ---
 
 Piraticony jsou veřejnosti přístupné konference zaměřená na různá témata. Tentokrát jsme pro vás poprvé ve Zlínském kraji připravili Klimaticon! Akce nabídne široké pásmo přednášek zaměřených na dopad klimatických změn z pohledu jednotlivce i celé společnosti.
