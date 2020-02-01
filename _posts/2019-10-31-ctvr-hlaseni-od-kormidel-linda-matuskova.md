@@ -1,12 +1,15 @@
 ---
-layout: blog
 category: CLANKY
-title: 'Čtvrteční hlášení od kormidel - Linda Matušková'
+title: Čtvrteční hlášení od kormidel - Linda Matušková
 date: 2019-10-31
 author: Jaromír Horký
 authorId: jaromir.horky
-image: /assets/img/posts/linda1.png   
-tags: 'zlinsky-kraj linda-matuskova kromeriz rozhovor'
+image: posts/linda1.png   
+tags: 
+ - zlinsky kraj
+ - linda matuskova
+ - kromeriz
+ - rozhovor
 ---
 
 Dnes jsme pro vás připravili rozhovor s Pirátkou z Kroměříže a čerstvou členkou rozhodčí komise Lindou Matuškovou.
