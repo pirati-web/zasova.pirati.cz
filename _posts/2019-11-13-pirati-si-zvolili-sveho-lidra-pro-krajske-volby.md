@@ -1,12 +1,15 @@
 ---
-layout: blog
 category: CLANKY
-title: 'Piráti si zvolili jako lídra pro krajské volby Hanu Ančincovou'
+title: Piráti si zvolili jako lídra pro krajské volby Hanu Ančincovou
 date: 2019-11-13
 author: Jaromír Horký
 authorId: jaromir.horky
-image: /assets/img/posts/hana-lidr.jpg  
-tags: 'zlinsky-kraj krajske-volby lidr hana-ancincova'
+image: posts/hana-lidr.jpg  
+tags: 
+ - zlinsky kraj
+ - krajske volby
+ - lidr
+ - hana ancincova
 ---
 Na podzim roku 2020 budou občané Zlínského kraje po čtyřech letech opět rozhodovat o složení nového krajského zastupitelstva. Ze zvolených zastupitelů vzejde nejen nová rada, ale také hejtman. Regionální Piráti již ve svých primárkách rozhodli a na pozici lídra zvolili třicetiletou finanční analytičku, členku kontrolního výboru v Kroměříži a současnou místopředsedkyni Pirátů ve Zlínském kraji Hanu Ančincovou.
 
