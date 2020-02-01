@@ -1,13 +1,15 @@
 ---
-layout: blog
 category: CLANKY
-title: 'Piráti ve Zlínském kraji již půl roku odvádějí práci v zastupitelstvech'
+title: Piráti ve Zlínském kraji již půl roku odvádějí práci v zastupitelstvech
 date: 2019-05-05
 author: Jaromír Horký
 authorId: jaromir.horky
-image: /assets/img/posts/zlkmapa2019.jpg   
-tags: 'zlinsky-kraj zastupitelstva radnice report'
-ogimage: https://raw.githubusercontent.com/pirati-web/zlinsky.pirati.cz/master/assets/img/posts/zlkmapa2019.jpg
+image: posts/zlkmapa2019.jpg   
+tags: 
+ - zlinsky kraj
+ - zastupitelstva
+ - radnice
+ - report
 ---
 Pirátské zastupitele naleznete ve Zlínském kraji hned v 8 městech a v jedné vesnici. Po půl roce od voleb vám přinášíme krátké shrnutí jejich dosavadní práce a úspěchů.
 
