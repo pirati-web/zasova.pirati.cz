@@ -1,12 +1,15 @@
 ---
-layout: blog
 category: CLANKY
-title: 'Čtvrteční hlášení od kormidel - Jiří Jaroš'
+title: Čtvrteční hlášení od kormidel - Jiří Jaroš
 date: 2019-09-05
 author: Jaromír Horký
 authorId: jaromir.horky
-image: /assets/img/posts/jiri1.png   
-tags: 'zlinsky-kraj jiri-jaros zlin rozhovor'
+image: posts/jiri1.png   
+tags: 
+ - zlinsky kraj
+ - jiri jaros
+ - zlin
+ - rozhovor
 ---
 
 Čtvrteční hlášení od kormidel. Tak se jmenuje seriál rozhovorů s našimi zastupiteli v celém Zlínském kraji.
