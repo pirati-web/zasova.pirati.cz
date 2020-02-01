@@ -1,12 +1,15 @@
 ---
-layout: blog
 category: CLANKY
-title: 'Napajedla nejdou cestou otevřenosti, snažíme se to změnit'
+title: Napajedla nejdou cestou otevřenosti, snažíme se to změnit
 date: 2019-10-31
 author: Tomáš Čabla
 authorId: tomas.cabla
-image: /assets/img/posts/zastup.jpg  
-tags: 'zlinsky-kraj napajedla tomas-cabla radnice'
+image: posts/zastup.jpg  
+tags: 
+ - zlinsky kraj
+ - napajedla
+ - tomas cabla
+ - radnice
 ---
 
 Od loňských komunálních voleb uběhl jenom rok a je i přesto o čem mluvit! Hned na začátku volebního období jsme navrhli zřízení transparentního účtu a rozklikávacího rozpočtu města v souladu s naším programem. Kromě návrhu na zřízení biokoridorů jsme se také postavili proti kácení stromů v areálu hřebčína, kde jsme spolu s naším poslancem Františkem Elfmarkem podali podnět na Českou inspekci životního prostředí. Kromě toho, že vykácené stromy se staly součástí zapeklitého kruhu okolo navrhované změny územního plánu na plochu pro hromadné bydlení týkající se zániku pastvin historického hřebčína, kácení stromů neproběhlo v pořádku. Rozhodně chceme zachovat hřebčín jako dnes, a právě i proto jsme ochotni apelovat Ministerstvo kultury, aby se hřebčín stal národní památkou stejně jako hřebčín v Kladrubech. Jsme si však vědomi, že tento krok je možný pouze po předchozí domluvě s majitelem, který by musel projevit dobrou vůli spolupracovat. Nezbrojíme proti soukromému vlastnictví, naším cílem je hledat všechny způsoby a vést diskuze, jak zachovat toto místo i pro další generace.
