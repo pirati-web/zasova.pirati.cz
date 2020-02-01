@@ -1,12 +1,14 @@
 ---
-layout: blog
 category: CLANKY
-title: 'Čtvrteční hlášení od kormidel - Milan Klajn'
+title: Čtvrteční hlášení od kormidel - Milan Klajn
 date: 2019-07-11
 author: Jaromír Horký
 authorId: jaromir.horky
-image: /assets/img/posts/milan1.png   
-tags: 'zlinsky-kraj milan-klajn rozhovor'
+image: posts/milan1.png   
+tags: 
+ - zlinsky kraj
+ - milan klajn
+ - rozhovor
 ---
 Čtvrteční hlášení od kormidel. Tak se jmenuje seriál rozhovorů s našimi zastupiteli v celém Zlínském kraji. Každý čtvrtek vám budeme přinášet zajímavé rozhovory s lidmi, kteří pracují pro vaše města a jsou součástí Pirátské strany.
 
