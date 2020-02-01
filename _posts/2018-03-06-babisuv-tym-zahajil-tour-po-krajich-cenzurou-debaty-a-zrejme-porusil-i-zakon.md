@@ -1,12 +1,15 @@
 ---
-layout: blog
 category: CLANKY
-title: 'Babišův tým zahájil tour po krajích cenzurou „debaty“ a zřejmě porušil i zákon'
+title: Babišův tým zahájil tour po krajích cenzurou „debaty“ a zřejmě porušil i zákon
 date: 2018-03-05T23:00:00.032Z
 author: Marek Houser
 authorId: marek.houser
-image: /assets/img/posts/babiszlin.jpg
-tags: 'akce report Zlín UTB'
+image: posts/babiszlin.jpg
+tags: 
+ - akce 
+ - report 
+ - Zlín 
+ - UTB
 ---
 Předseda hnutí ANO a trestně stíhaný premiér v demisi Andrej Babiš posbíral několik „svých“ ministrů a vyrazil na slibovanou tour po krajích. Během té, jak z plakátů slibuje, chce navštívit jednotlivé regiony a debatovat s lidmi o lokálních problémech. „Teď máte možnost jednat přímo s vládou. Rádi vám odpovíme na otázky a řekneme, čemu se věnujeme a jaké máme plány,“ kření se majitel Agrofertu z oficiální pozvánky. Odpovídání na otázky si ovšem většina návštěvníků auly Univerzity Tomáše Bati ve Zlíně (to místo si pamatujte) jistě představovala jinak a bohužel se také potvrdily obavy, že jde převážně o propagaci ANO a dost možná i o promyšlené přípravy na hrozící předčasné volby.
 
