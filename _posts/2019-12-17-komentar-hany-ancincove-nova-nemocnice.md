@@ -5,13 +5,12 @@ date: 2019-12-17T12:00:00.000Z
 author: Hana Ančincová
 authorId: hana.ancincova
 image: posts/nemonicnicezlin.jpg
-tags: 
+tags:
  - zlinsky kraj 
  - krajske volby 
  - hana ancincova 
  - nemocnice
 ---
-
 Až do odpoledního jednání krajského zastupitelstva Zlínského kraje to vypadalo, že jediným palčivým bodem ohledně zdravotnictví bude chystaná koncepce zdravotnictví. Zcela nečekaně zařadil hejtman bod plánované nové krajské nemocnice. Překvapení opozičních zastupitelů a těch neseznámených s tímto záměrem šlo hmatatelně cítit i přes stream. 
 
 Nedávno byla schválena studie na proveditelnost opravy stávající nemocnice a odborná i laická veřejnost zajásala nad skutečností, že konečně budeme mít k rozhodování dvě  nezávislé varianty k objektivnímu posouzení. Opravit, či stavět. 
