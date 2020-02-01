@@ -1,12 +1,15 @@
 ---
-layout: blog
 category: CLANKY
-title: 'Rok v zastupitelstvu Rožnova očima Pirátské opozice'
+title: Rok v zastupitelstvu Rožnova očima Pirátské opozice
 date: 2019-10-30
 author: Libor Adámek
 authorId: libor.adamek
-image: /assets/img/posts/roznov.jpeg  
-tags: 'zlinsky-kraj roznov libor-adamek radnice'
+image: posts/roznov.jpeg  
+tags: 
+ - zlinsky kraj
+ - roznov pod radhostem
+ - libor adamek
+ - radnice
 ---
 
 Rok v Zastupitelstvu Rožnov pod Radhoštěm mi rychle uplynul, a tak je čas si ho trochu připomenout. Od prvního dne ve funkci se ke mně spustil proud nových informací a problémů, který dodnes neutichá. To si u mě vynutilo velkou potřebu se vzdělávat, ptát se, ověřovat informace a jezdit na školení. Mnoho informací z města často nebylo jednoduše ihned dostupných, proto jsem navrhl na zastupitelstvu automatické sdílení materiálů z jednání Rady města na sdílený disk, což nakonec přijala Rada města sama na svém zasedání. Hodně času taky trávím komunikací s občany buď pomocí mailů nebo i setkáváním se na ulicích.
