@@ -1,12 +1,15 @@
 ---
-layout: blog
 category: CLANKY
-title: 'V Hradišti i z opozice dokážeme plnit náš program'
+title: V Hradišti i z opozice dokážeme plnit náš program
 date: 2019-11-05
 author: Jaroslav Ševčík
 authorId: jaroslav.sevcik
-image: /assets/img/posts/zmuh.jpg  
-tags: 'zlinsky-kraj uherske-hradiste jaroslav-sevcik radnice'
+image: posts/zmuh.jpg  
+tags: 
+ - zlinsky kraj
+ - uherske hradiste
+ - jaroslav sevcik
+ - radnice
 ---
 
 V Uherském Hradišti jsme sice v zastupitelstvu skončili v opozičních lavicích, ale myslím, že spoustu věcí dokážeme i tak změnit. Jsem členem finančního výboru a majetkové komise města, kde se mi daří prosazovat náš program, ale v první řadě pracovat pro občany.  V majetkové komisi jsem podpořil projekt elektronických dražeb majetku města, který přispěl k větší transparentnosti. Také jsem na posledním zastupitelstvu pomohl prosadit indexaci audio záznamů ze zastupitelstva tak, aby pro občany byly jednotlivé body lehce nalezitelné a občan se nemusel proklikávat několika hodinovým záznamem.
