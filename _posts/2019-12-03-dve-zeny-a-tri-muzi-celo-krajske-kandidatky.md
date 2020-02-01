@@ -1,12 +1,18 @@
 ---
-layout: blog
 category: CLANKY
-title: 'Dvě ženy a tři muži, Piráti ve Zlínském kraji znají čelo krajské kandidátky'
+title: Dvě ženy a tři muži, Piráti ve Zlínském kraji znají čelo krajské kandidátky
 date: 2019-12-03
 author: Jaromír Horký
 authorId: jaromir.horky
-image: /assets/img/posts/ČELO.png
-tags: 'zlinsky-kraj krajske-volby hana-ancincova jiri-jaros denis-rychtar jakub-zach zuzana-fiserova'
+image: img/posts/ČELO.png
+tags: 
+ - zlinsky kraj
+ - krajske volby
+ - hana ancincova
+ - jiri jaros
+ - denis rychtar
+ - jakub zach
+ - zuzana fiserova'
 ---
 
 Piráti si prostřednictvím internetového hlasování vybrali z více než patnácti nominantů pět čelních osobností do krajských voleb. Spolu s kandidátkou na hejtmanku Hanou Ančincovou budou na kandidátce zlínský radní Jiří Jaroš, zastupitel z Valašského Meziříčí Denis Rychtar, architekt z Kroměříže Jakub Zach a zlínská zastupitelka a ekonomka Zuzana Fišerová.
