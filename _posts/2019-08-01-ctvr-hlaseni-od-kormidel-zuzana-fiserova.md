@@ -1,12 +1,15 @@
 ---
-layout: blog
 category: CLANKY
-title: 'Čtvrteční hlášení od kormidel - Zuzana Fišerová'
+title: Čtvrteční hlášení od kormidel - Zuzana Fišerová
 date: 2019-08-01
 author: Jaromír Horký
 authorId: jaromir.horky
-image: /assets/img/posts/zuzana1.png   
-tags: 'zlinsky-kraj zuzana-fiserova zlin rozhovor'
+image: posts/zuzana1.png   
+tags: 
+ - zlinsky kraj
+ - zuzana fiserova
+ - zlin
+ - rozhovor
 ---
 
 Čtvrteční hlášení od kormidel. Tak se jmenuje seriál rozhovorů s našimi zastupiteli v celém Zlínském kraji. Každý čtvrtek vám přinášíme zajímavé rozhovory s lidmi, kteří pracují pro vaše města a jsou součástí Pirátské strany.
