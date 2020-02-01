@@ -1,12 +1,15 @@
 ---
-layout: blog
 category: CLANKY
-title: 'Rok v zastupitelstvu ve Valašském Meziříčí'
+title: Rok v zastupitelstvu ve Valašském Meziříčí
 date: 2019-11-04
 author: Denis Rychtar
 authorId: denis.rychtar
-image: /assets/img/posts/valmez.jpg  
-tags: 'zlinsky-kraj valmez denis-rychtar radnice'
+image: posts/valmez.jpg  
+tags: 
+ - zlinsky kraj
+ - valmez
+ - denis rychtar
+ - radnice
 ---
 
 Ve Valašském Meziříčí jsme skončili s jedním mandátem v opozici, však naše práce nesměřuje pouze tam. Hned v prvních měsících se mi podařilo navzdory vládnoucí koalici prosadit, aby všechny zvolené strany mohly obsadit své zástupce do všech komisí, výborů a osadních výborů. Bylo nepochopitelné, že by některým zvoleným stranám měl být zamítnut přístup k různým informacím. 
