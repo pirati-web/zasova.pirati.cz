@@ -1,12 +1,13 @@
 ---
-layout: blog
 category: CLANKY
-title: 'Piráti ve Zlínském kraji dále posilují, svědčí o tom další výsledek voleb'
+title: Piráti ve Zlínském kraji dále posilují, svědčí o tom další výsledek voleb
 date: 2019-05-27
 author: Jaromír Horký
 authorId: jaromir.horky
-image: /assets/img/posts/dekujeme-ep.jpg   
-tags: 'zlinsky-kraj eurovolby'
+image: posts/dekujeme-ep.jpg   
+tags: 
+ - zlinsky kraj
+ - eurovolby
 ---
 Piráti v letošních volbách potvrdili narůstající trend přízně voličů a obsadili třetí místo se ziskem 13,92 % hlasů. Europoslanci, které Piráti vyslali do Bruselu, se tak stali Marcel Kolaja, Markéta Gregorová a Mikuláš Peksa.
 
