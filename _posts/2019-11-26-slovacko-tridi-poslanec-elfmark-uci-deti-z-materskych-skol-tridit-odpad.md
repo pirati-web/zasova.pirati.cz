@@ -1,12 +1,14 @@
 ---
-layout: blog
 category: CLANKY
-title: 'Slovácko třídí! Poslanec Elfmark učí děti z mateřských škol třídit odpad'
+title: Slovácko třídí! Poslanec Elfmark učí děti z mateřských škol třídit odpad
 date: 2019-11-25
 author: Jaromír Horký
 authorId: jaromir.horky
-image: /assets/img/posts/elfmark-skolka.jpg 
-tags: 'zlinsky-kraj frantisek-elfmark uherske-hradiste'
+image: posts/elfmark-skolka.jpg 
+tags: 
+ - zlinsky kraj
+ - frantisek elfmark
+ - uherske hradiste
 ---
 
 Pirátský poslanec za Zlínský kraj František Elfmark ve svém kraji provádí osvětovou akci mezi dětmi z mateřských škol. Během listopadu objížděl jednotlivé školky na Zlínsku s akcí „Slovácko třídí”, kde učí děti základním návykům ve třídění odpadů. Vedle toho se rovněž obrací na ředitele a učitele s žádostí o pomoc při osvětě a motivaci dětí při třídění. Navázal tak na svou činnost z roku 2016, kdy se se stejným cílem do školek vydal jako radní města Uherské Hradiště. „Osvěta je velmi důležitá, právě díky ní se můžeme posunout dál,” komentuje Elfmark.
