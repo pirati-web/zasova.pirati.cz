@@ -1,12 +1,15 @@
 ---
-layout: blog
 category: CLANKY
-title: 'Čtvrteční hlášení od kormidel - Vratislav Krejčíř'
+title: Čtvrteční hlášení od kormidel - Vratislav Krejčíř
 date: 2019-08-08
 author: Jaromír Horký
 authorId: jaromir.horky
-image: /assets/img/posts/vratislav1.png   
-tags: 'zlinsky-kraj vratislav-krejcir kromeriz rozhovor'
+image: posts/vratislav1.png   
+tags: 
+ - zlinsky kraj
+ - vratislav krejcir
+ - kromeriz
+ - rozhovor
 ---
 
 Čtvrteční hlášení od kormidel. Tak se jmenuje seriál rozhovorů s našimi zastupiteli v celém Zlínském kraji. Každý čtvrtek vám přinášíme zajímavé rozhovory s lidmi, kteří pracují pro vaše města a jsou součástí Pirátské strany.
