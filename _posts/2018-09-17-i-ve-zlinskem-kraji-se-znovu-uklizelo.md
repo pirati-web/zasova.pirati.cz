@@ -1,12 +1,13 @@
 ---
-layout: blog
 category: CLANKY
-title: 'Opět jsme se připojili k projektu "Ukliďme svět, ukliďme Česko!"'
+title: Opět jsme se připojili k projektu "Ukliďme svět, ukliďme Česko!"
 date: 2018-09-17
 author: Yveta Martinková
 authorId: yveta.martinkova
-image: /assets/img/posts/uklid2018.jpg
-tags: 'úklid zlínský-kraj'
+image: posts/uklid2018.jpg
+tags: 
+ - úklid
+ - zlínský kraj'
 ---
 V sobotu 15. září, při příležitosti celosvětového dne úklidu, nás také zasáhla zelená vlna, stejně jako celou naši planetu. Vrhli jsme se do úklidů pod záštitou organizace Ukliďme svět, ukliďme Česko a naše pirátské úklidy startovaly v deset hodin dopoledne. Piráti vyrazili hned do 4 lokalit Zlínského kraje. Zlínští Piráti uklízeli ve Zlíně a Vizovicích, kde nasbírali přes 120 kg odpadu. Piráti z Valašského Meziříčí uklízeli v parku Kozina v Rožnově pod Radhoštěm a jimi nasbíraný odpad vážil asi 70 kg. A o největší pozdvižení se postaralo kroměřížské sdružení, které nasbíralo úctyhodných 150 kg odpadu (!!!) a k tomu pár krabiček nábojnic do samopalu navíc. Na místo byla přivolána Policie ČR.
 
