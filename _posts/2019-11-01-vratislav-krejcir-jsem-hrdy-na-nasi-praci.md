@@ -1,12 +1,15 @@
 ---
-layout: blog
 category: CLANKY
-title: 'Vratislav Krejčíř: Jsem hrdý na naši práci v Kroměříži!'
+title: Vratislav Krejčíř: Jsem hrdý na naši práci v Kroměříži!
 date: 2019-11-01
 author: Vratislav Krejčíř
 authorId: vratislav.krejcir
-image: /assets/img/posts/radnicevrata.jpg  
-tags: 'zlinsky-kraj vratislav-krejcir kromeriz radnice'
+image: posts/radnicevrata.jpg  
+tags: 
+ - zlinsky kraj
+ - vratislav krejcir
+ - kromeriz
+ - radnice 
 ---
 
 Po necelém roce na kroměřížské radnici bych shrnul působení Pirátů jako velmi zdařilé. Jde vidět, že se s naším působením zlepšila nálada na radnici, kterou si pochvalují i samotní úředníci. Je to samozřejmě dobrou atmosférou mezi členy vedení a koalice, kdy se snažíme, aby vše vycházelo ze vzájemné spolupráce, která k tomu všemu napomáhá.
