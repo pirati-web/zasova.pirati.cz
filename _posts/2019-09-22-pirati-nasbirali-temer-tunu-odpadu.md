@@ -6,10 +6,7 @@ author: Jaromír Horký
 authorId: jaromir.horky
 image: posts/uklidpodzim.jpg 
 tags: 
- - zlinsky kraj
- - hana ancincova
- - kromeriz
- - rozhovor
+ - uklidme cesko
 ---
 
 Piráti se již od vzniku dobrovolnické ekokampaně [Ukliďme Česko, Ukliďme svět](https://www.uklidmecesko.cz/){:target="_blank"} staly součastí a rok co rok se zapojují. Dnes se konala její podzimní část. Piráti uklízeli tentokrát v Kroměříži, Valašském Meziříčí a ve Zlíně. Společnými silami tak sesbírali téměř tunu odpadu!
