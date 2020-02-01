@@ -1,12 +1,15 @@
 ---
-layout: blog
 category: CLANKY
-title: 'Čtvrteční hlášení od kormidel - František Elfmark'
+title: Čtvrteční hlášení od kormidel - František Elfmark
 date: 2019-09-26
 author: Jaromír Horký
 authorId: jaromir.horky
-image: /assets/img/posts/frantisek.png   
-tags: 'zlinsky-kraj frantisek-elfmark uherske-hradiste rozhovor'
+image: posts/frantisek.png   
+tags: 
+ - zlinsky kraj
+ - frantisek elfmark
+ - uherske hradiste
+ - rozhovor
 ---
 
 V dnešním hlášení od kormidel Vám představíme našeho zástupce z Poslanecké sněmovny Parlamentu České republiky, Františka Elfmarka, který současně působí jako opoziční zastupitel v Uherském Hradišti.
