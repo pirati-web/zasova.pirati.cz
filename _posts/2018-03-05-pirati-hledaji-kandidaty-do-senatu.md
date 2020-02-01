@@ -1,12 +1,15 @@
 ---
-layout: blog
 category: CLANKY
-title: 'Piráti ve Zlínském kraji hledají kandidát(k)y do senátních voleb'
+title: Piráti ve Zlínském kraji hledají kandidát(k)y do senátních voleb
 date: 2018-03-05T12:00:00.032Z
 author: Marek Houser
 authorId: marek.houser
-image: /assets/img/posts/senatvolby.png
-tags: 'Senát primárky Zlín Vsetín'
+image: posts/senatvolby.png
+tags: 
+ - Senát 
+ - primárky 
+ - Zlín 
+ - Vsetín'
 ---
 Krajské sdružení České pirátské strany ve Zlínském kraji nabízí jednotlivcům z široké veřejnosti možnost [přihlásit se](https://goo.gl/forms/JE57TCvuOMyCTkXB3){:target="_blank"} do otevřených primárních voleb na kandidát(k)y do Senátu ČR pro volby v roce 2018. Standardní pirátský postup tak tradičně poskytuje svým členům možnost postavit do boje o vysokou politickou funkci kandidáta/ku pomocí demokratického hlasování.
 
