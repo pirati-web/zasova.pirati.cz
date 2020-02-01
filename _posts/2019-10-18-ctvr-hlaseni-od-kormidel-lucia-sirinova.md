@@ -1,12 +1,15 @@
 ---
-layout: blog
 category: CLANKY
-title: 'Čtvrteční hlášení od kormidel - Lucia Šiřinová'
+title: Čtvrteční hlášení od kormidel - Lucia Šiřinová
 date: 2019-10-17
 author: Jaromír Horký
 authorId: jaromir.horky
-image: /assets/img/posts/lucia.png   
-tags: 'zlinsky-kraj lucia-sirinova zlin rozhovor'
+image: posts/lucia.png   
+tags: 
+ - zlinsky kraj
+ - lucia sirinova
+ - zlin
+ - rozhovor
 ---
 
 Dnes jsme pro vás vyzpovídali Luciu Šiřinovou ze Zlína. Lucia pořádá spoustu workshopů a je známa díky projektu ReTrace, v Pirátské straně působí zejména v oblasti administrativního odboru.
