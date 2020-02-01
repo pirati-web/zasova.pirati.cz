@@ -1,12 +1,15 @@
 ---
-layout: blog
 category: CLANKY
-title: 'Ze Zlína se stává chytré město!'
+title: Ze Zlína se stává chytré město!
 date: 2019-11-01
 author: Jiří Jaroš
 authorId: jiri.jaros
-image: /assets/img/posts/zlinradnice.jpg  
-tags: 'zlinsky-kraj zlin jiri-jaros radnice'
+image: posts/zlinradnice.jpg  
+tags: 
+ - zlinsky kraj
+ - zlin
+ - jiri jaros
+ - radnice
 ---
 
 Za pouhý rok práce na radnici jsme zvládli nastartovat několik nových projektů, se kterými se s vámi musíme podělit. Naše práce je znát a pocítíte ji na svém vlastním pohodlí například při průchodu nebo průjezdu městem. Jak?
