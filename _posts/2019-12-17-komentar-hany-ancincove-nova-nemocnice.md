@@ -1,12 +1,15 @@
 ---
-layout: blog
 category: CLANKY
-title: 'Komentář Hany Ančincové: Nová krajská nemocnice'
-date: 2019-12-17
+title: Komentář Hany Ančincové: Nová krajská nemocnice
+date: 2019-12-17T12:00:00.000Z
 author: Hana Ančincová
 authorId: hana.ancincova
-image: /assets/img/posts/nemonicnicezlin.jpg
-tags: 'zlinsky-kraj krajske-volby hana-ancincova nemocnice'
+image: posts/nemonicnicezlin.jpg
+tags: 
+ - zlinsky kraj 
+ - krajske volby 
+ - hana ancincova 
+ - nemocnice
 ---
 
 Až do odpoledního jednání krajského zastupitelstva Zlínského kraje to vypadalo, že jediným palčivým bodem ohledně zdravotnictví bude chystaná koncepce zdravotnictví. Zcela nečekaně zařadil hejtman bod plánované nové krajské nemocnice. Překvapení opozičních zastupitelů a těch neseznámených s tímto záměrem šlo hmatatelně cítit i přes stream. 
