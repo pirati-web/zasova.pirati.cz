@@ -1,12 +1,14 @@
 ---
-layout: blog
 category: CLANKY
-title: '„Chtěl bych především zefektivnit odpadovou legislativu,” říká pirátský poslanec František Elfmark'
+title: „Chtěl bych především zefektivnit odpadovou legislativu,” říká pirátský poslanec František Elfmark
 date: 2019-11-18
 author: Jaromír Horký
 authorId: jaromir.horky
-image: /assets/img/posts/frantisek-elfmark.jpg   
-tags: 'zlinsky-kraj frantisek-elfmark rozhovor'
+image: posts/frantisek-elfmark.jpg   
+tags: 
+ - zlinsky kraj
+ - frantisek elfmark
+ - rozhovor
 ---
 
 Na podzim to budou dva roky, co se do poslanecké sněmovny společně s dalšími Piráty dostal také zástupce Zlínského kraje František Elfmark. V rozhovoru vám přinášíme jeho hodnocení z první poloviny mandátu a vyhlídky na další dva roky.
