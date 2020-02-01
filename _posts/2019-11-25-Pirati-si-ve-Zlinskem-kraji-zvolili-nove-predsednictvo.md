@@ -1,12 +1,18 @@
 ---
-layout: blog
 category: CLANKY
-title: 'Piráti si ve Zlínském kraji zvolili nové předsednictvo'
+title: Piráti si ve Zlínském kraji zvolili nové předsednictvo
 date: 2019-11-25
 author: Jaromír Horký
 authorId: jaromir.horky
-image: /assets/img/posts/pks.png 
-tags: 'zlinsky-kraj předsednistvo vratislav-krejcir marek-houser frantisek-elfmark jiri-jaros jaroslav-takac'
+image: posts/pks.png 
+tags: 
+ - zlinsky kraj
+ - předsednistvo
+ - vratislav krejcir
+ - marek houser
+ - frantisek elfmark
+ - jiri jaros
+ - jaroslav-takac
 ---
 
 Členská základna Pirátů Zlínského kraje si v těchto dnech zvolila nové předsednictvo krajského sdružení. Předsedou se nově stal Vratislav Krejčíř z Kroměříže. Dalšími místopředsedy byli zvoleni Marek Houser z Uherského Hradiště, František Elfmark z Uherského Hradiště, Jiří Jaroš ze Zlína a Jaroslav Takáč z Přílep u Holešova. Nové krajské předsednictvo nyní především provede místní sdružení volbami do krajského zastupitelstva.
