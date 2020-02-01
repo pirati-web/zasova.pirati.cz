@@ -1,12 +1,15 @@
 ---
-layout: blog
 category: CLANKY
-title: 'Piráti ze Zlínského kraje podporují stávku studentů'
+title: Piráti ze Zlínského kraje podporují stávku studentů
 date: 2018-03-14T11:00:00.032Z
 author:
 authorId:
-image: /assets/img/posts/vyjdiven.jpg
-tags: 'akce stávka studenti Zlín'
+image: posts/vyjdiven.jpg
+tags: 
+ - akce 
+ - stávka 
+ - studenti 
+ - Zlín
 ---
 
 Ve čtvrtek 15. března proběhne na několika místech po celé ČR studentská protestní akce #VyjdiVen a Piráti ze Zlínského kraje tuto iniciativu mladých plně podporují. Akce proběhne také na několika místech ve Zlínském kraji (oficiální událost najdete [ZDE](https://www.facebook.com/events/158080204911148){:target="_blank"}).
