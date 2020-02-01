@@ -1,12 +1,15 @@
 ---
-layout: blog
 category: CLANKY
-title: 'Čtvrteční hlášení od kormidel - Marek Houser'
+title: Čtvrteční hlášení od kormidel - Marek Houser
 date: 2019-10-24
 author: Jaromír Horký
 authorId: jaromir.horky
-image: /assets/img/posts/marra1.png   
-tags: 'zlinsky-kraj marek-houser uherske-hradiste rozhovor'
+image: posts/marra1.png   
+tags: 
+ - zlinsky kraj
+ - marek houser
+ - uherske hradiste
+ - rozhovor
 ---
 
 V dnešním rozhovoru jsme zamíříli do Uherského Hradiště, konkrétně za členem krajského předsednictva, kde jsme vyzpovídali předsedu Pirátů ve Zlínském kraji Marka Housera.
