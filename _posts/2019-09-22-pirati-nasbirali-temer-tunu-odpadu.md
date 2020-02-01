@@ -1,12 +1,15 @@
 ---
-layout: blog
 category: CLANKY
-title: 'Piráti ve Zlínském kraji nasbírali téměř tunu odpadu!'
+title: Piráti ve Zlínském kraji nasbírali téměř tunu odpadu!
 date: 2019-09-22
 author: Jaromír Horký
 authorId: jaromir.horky
-image: /assets/img/posts/uklidpodzim.jpg 
-tags: 'zlinsky-kraj hana-ancincova kromeriz rozhovor'
+image: posts/uklidpodzim.jpg 
+tags: 
+ - zlinsky kraj
+ - hana ancincova
+ - kromeriz
+ - rozhovor
 ---
 
 Piráti se již od vzniku dobrovolnické ekokampaně [Ukliďme Česko, Ukliďme svět](https://www.uklidmecesko.cz/){:target="_blank"} staly součastí a rok co rok se zapojují. Dnes se konala její podzimní část. Piráti uklízeli tentokrát v Kroměříži, Valašském Meziříčí a ve Zlíně. Společnými silami tak sesbírali téměř tunu odpadu!
