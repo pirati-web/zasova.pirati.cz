@@ -1,12 +1,14 @@
 ---
-layout: blog
 category: CLANKY
-title: 'Doplňovací volby do Senátu začaly. Kampaň Aleše Fuksy táhli dobrovolníci'
+title: Doplňovací volby do Senátu začaly. Kampaň Aleše Fuksy táhli dobrovolníci
 date: 2018-05-18T11:00:00.032Z
 author: Marek Houser
 authorId: marek.houser
-image: /assets/img/posts/AFbanner2.png
-tags: 'Senát Senát-78 Zlín'
+image: posts/AFbanner2.png
+tags: 
+ - Senát 
+ - Senát 78
+ - Zlín
 ---
 Volební místnosti v senátním obvodu 78 (Zlín) se otevřely a voliči mohou vyrazit k urnám zvolit nástupce Františka Čuby, který na svou funkci v únoru rezignoval. Piráti do boje vyslali novináře [Aleše Fuksu](https://www.alesfuksa.cz){:target="_blank"}. "V Senátu i mimo něj bych rád spojoval lidi, kteří to myslí s naší malou zemičkou dobře. Ne je rozděloval, jak je teď běžným zvykem. Byl bych rád prodlouženou rukou pro ty, kteří ve svém zvoleném zástupci vidí sami sebe, jen s rozšířenými možnostmi. Mezi lidmi bych také rád dosáhl zvýšení důvěry v samotnou horní komoru. Aby oni sami pochopili, jakou má Senát v ruce moc. Zatím ji má, alespoň co do názoru řady lidí, moc malou, ale je to proto, že není mediálně příliš vidět. Když se dostanu na post senátora, budou lidé kolem mne (třeba na sociálních sítích) vědět každý den, co ta práce obnáší. A nejen na půdě Senátu, ale hlavně ve zlínské kanceláři, kde bych se chtěl setkávat s lidmi a být pro ně obvodním ombudsmanem," říká pirátský kandidát, který by rád nahradil Františka Čubu, jenž v Senátu nezanechal pozitivní stopu. "Naposledy se účastnil zasedání 24. srpna 2016. Pak už chyběl z různých zdravotních důvodů. Nebýval často k zastižení ani ve své senátorské kanceláři ve Zlíně, kde jsem ho i já v rámci výkonu své práce několikrát hledal. Co si o tom myslet... Že je to špatně. Zneužil voliče ke svému prospěchu. A neměl jako správný chlap koule na to rezignovat dříve. Přeji tomuto starému pánovi klid a pohodu při důchodu," dodává mimo jiné Aleš Fuksa v [rozhovoru](https://zlinsky.pirati.cz/aktuality/rozhovor-s-kandidatem-alesem-fuksou.html){:target="_blank"} pro pirátský web.
 
