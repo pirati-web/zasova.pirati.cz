@@ -1,8 +1,10 @@
 ---
 uid: miloslava.kolackova
 name:     Miloslava Koláčková  	# běžně používáné jméno
-fullname: Miloslava Koláčková 	# jméno s tituly etc.
-category:                   # kategorie: clenove
+titles:
+  before: 
+  after:
+category:
 - clenove
 
 img: people/ppp.jpg   # 165 x 220
