@@ -1,8 +1,10 @@
 ---
 uid: hana.porubova
 name:     Hana Porubová  	# běžně používáné jméno
-fullname: Hana Porubová 	# jméno s tituly etc.
-category:                   # kategorie: clenove
+titles:
+  before: 
+  after:
+category:
 - clenove
 
 img: people/ppp.jpg   # 165 x 220
