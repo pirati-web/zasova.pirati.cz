@@ -1,11 +1,13 @@
 ---
 uid: jakub.tomanec
 name:     Jakub Tomanec  	# běžně používáné jméno
-fullname: Jakub Tomanec 	# jméno s tituly etc.
-category:                   # kategorie: clenove
+titles:
+  before: 
+  after:
+category:
 - clenove
 
-img: people/ppp.jpg   # 165 x 220
+img: people/jakub-pirat.jpg  # 165 x 220
 description: Pirát # kratký popis, max 160 znaků
 mail:
 - jakub.tomanec@pirati.cz
