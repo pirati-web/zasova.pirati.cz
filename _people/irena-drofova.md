@@ -1,8 +1,10 @@
 ---
 uid: irena.drofova
 name:     Irena Drofová  	# běžně používáné jméno
-fullname: Ing. Bc. Irena Drofová 	# jméno s tituly etc.
-category:                   # kategorie: clenove
+titles:
+  before: Ing. Bc.
+  after:
+category:
 - clenove
 
 img: people/irena-drofova.png   # 165 x 220
@@ -21,22 +23,3 @@ Dobrovolnická a zájmová činnost je nedílnou součástí jejího života. V 
 Po návratu do rodného Zlína se zintenzivnil její zájem o veřejný život a z kraje roku 2017 poprvé přišla na setkání krajského pirátského sdružení. Ve Zlíně se poté aktivně zapojila a pomohla především s prezentací zlínského sdružení směrem k veřejnosti i s dalšími aktivitami, zejména pak v úspěšných komunálních volbách 2018. V současnosti je členkou Kulturní komise RMZ a Správní rady Městského divadla Zlín. Kultura a památková péče jsou obecně ohniskem jejího zájmu nejen ve Zlíně.
 
 Ve volné chvíli ji můžete potkat někde v galerii, muzeu nebo třeba v divadle. Ráda experimentuje s barvami, štětci, fotografickými filmy a tiskem. Nejvíce si však odpočine v přírodě při toulání se lesem se svou Bordelkou. 
-
-
-
-# ČLÁNKY AUTORKY IRENA DROFOVÁ
-[Piráti ve Zlíně chtějí pro cyklisty trail sportoviště](https://zlin.pirati.cz/aktuality/pirati-ve-zline-chteji-pro-cyklisty-trail-sporotoviste.html){:target="_blank"}
-
-[Pirátské putování z Arktidy do Zlína](https://zlin.pirati.cz/aktuality/piratske-putovani-z-arktidy-do-zlina.html){:target="_blank"}
-
-[POVOLEBNÍ STRATEGIE PIRÁTŮ ZLÍN PRO KOMUNÁLNÍ VOLBY 2018](https://zlin.pirati.cz/aktuality/povolebni-strategie.html){:target="_blank"}
-
-[Opravdové město zeleně](https://zlin.pirati.cz/aktuality/opravdove-mesto-zelene.html){:target="_blank"}
-
-[Město současnosti i budoucnosti](https://zlin.pirati.cz/aktuality/mesto-soucasnosti-i-budoucnosti.html){:target="_blank"}
-
-[Odpadky a kousek plastu](https://zlin.pirati.cz/aktuality/Odpadky-a-kousek-plastu.html){:target="_blank"}
-
-[Pirátský rozhovor s Jaroslavem Kmentou](https://zlin.pirati.cz/aktuality/KmentaRozhovor.html){:target="_blank"}
-
-[Zlínští Piráti putovali Kanadou](https://zlin.pirati.cz/aktuality/zlinsti-pirati-putovali-kanadou.html){:target="_blank"}
