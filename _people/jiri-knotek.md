@@ -1,8 +1,10 @@
 ---
 uid: jiri.knotek
 name:     Jiří Knotek  	# běžně používáné jméno
-fullname: Jiří Knotek  	# jméno s tituly etc.
-category:                   # kategorie: clenove
+titles:
+  before: 
+  after:
+category:
 - clenove
 
 img: people/jiri-knotek.jpg   # 165 x 220
