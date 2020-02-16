@@ -1,8 +1,10 @@
 ---
 uid: lucia.sirinova
 name:     Lucia Šiřinová  	# běžně používáné jméno
-fullname: Lucia Šiřinová  	# jméno s tituly etc.
-category:                   # kategorie: clenove
+titles:
+  before: 
+  after:
+category:
 - clenove
 
 img: people/lucia-sirinova.jpg   # 165 x 220
