@@ -1,10 +1,12 @@
 ---
 uid: jaromir.slezak
 name:     Jaromír Slezák  	# běžně používáné jméno
-fullname: Jaromír Slezák 	# jméno s tituly etc.
-category:                   # kategorie: clenove
+titles:
+  before: 
+  after:
+category:
 - clenove
-- zastupitele
+
 
 img: people/jaromir-slezak.png   # 165 x 220
 description: zastupitel Vizovic, disponent zahraniční kamionové dopravy  # kratký popis, max 160 znaků
