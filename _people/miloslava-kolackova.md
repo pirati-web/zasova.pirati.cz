@@ -7,7 +7,7 @@ titles:
 category:
 - clenove
 
-img: people/ppp.jpg   # 165 x 220
+img: people/jakub-pirat.jpg   # 165 x 220
 description: Pirátka # kratký popis, max 160 znaků
 mail:
 - miloslava.kolackova@pirati.cz
