@@ -1,10 +1,13 @@
 ---
 uid: marek.jurca
 name:     Marek Jurča  	# běžně používáné jméno
-fullname: Marek Jurča  	# jméno s tituly etc.
-category:                 # kategorie
+titles:
+  before: 
+  after:
+category:
 - clenove
-img: people/ppp.jpg   # 165 x 220
+
+img: people/jakub-pirat.jpg   # 165 x 220
 description: Pirát         	# kratký popis, max 160 znaků
 mail:
 - marek.jurca@pirati.cz
