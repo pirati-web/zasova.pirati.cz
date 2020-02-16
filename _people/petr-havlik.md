@@ -1,8 +1,10 @@
 ---
 uid: petr.havlik
 name:     Petr Havlík  	# běžně používáné jméno
-fullname: Ing. Petr Havlík  	# jméno s tituly etc.
-category:                   # kategorie: clenove
+titles:
+  before: Ing.
+  after:
+category:
 - clenove
 
 img: people/petr-havlik.jpg   # 165 x 220
