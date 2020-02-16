@@ -1,8 +1,10 @@
 ---
 uid: michal.stepanik
 name:     Michal Štěpaník  	# běžně používáné jméno
-fullname: Michal Štěpaník  	# jméno s tituly etc.
-category:                   # kategorie: clenove
+titles:
+  before: 
+  after:
+category:
 - clenove
 
 img: people/michal-stepanik.jpg   # 165 x 220
