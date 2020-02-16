@@ -1,10 +1,11 @@
 ---
 uid: pavel.beznoska
 name:     Pavel Beznoska  	# běžně používáné jméno
-fullname: Pavel Beznoska  	# jméno s tituly etc.
-category:                   # kategorie: clenove
+titles:
+  before: 
+  after:
+category:
 - clenove
-- zastupitele 
 
 img: people/pavel-beznoska.png   # 165 x 220
 description: zastupitel Otrokovic, account manager v marketingové společnosti a sportovec              # kratký popis, max 160 znaků
