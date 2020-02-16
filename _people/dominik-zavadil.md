@@ -1,8 +1,10 @@
 ---
 uid: dominik.zavadil
 name:    Dominik Zavadil 	# běžně používáné jméno
-fullname: Dominik Zavadil 	# jméno s tituly etc.
-category:                   # kategorie: clenove
+titles:
+  before: 
+  after:
+category:
 - clenove
 
 img: people/dominik-zavadil.jpg   # 165 x 220
