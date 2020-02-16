@@ -1,8 +1,10 @@
 ---
 uid: martina.houserova
 name:     Martina Houserová  	# běžně používáné jméno
-fullname: Ing. Martina Houserová  	# jméno s tituly etc.
-category:                   # kategorie: celnove
+titles:
+  before: 
+  after:
+category:
 - clenove
 
 img: people/martina-houserova.jpg   # 165 x 220
