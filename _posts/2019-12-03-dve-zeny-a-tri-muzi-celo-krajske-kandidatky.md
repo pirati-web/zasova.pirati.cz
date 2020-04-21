@@ -4,7 +4,7 @@ title: Dvě ženy a tři muži, Piráti ve Zlínském kraji znají čelo krajsk�
 date: 2019-12-03
 author: Jaromír Horký
 authorId: jaromir.horky
-image: img/posts/ČELO.png
+image: img/posts/celo.png
 tags: 
  - zlinsky kraj
  - krajske volby
