@@ -16,9 +16,9 @@ main:
   - link: /lide/
     name: Naši lidé
     match: lide
-  - link: /eurovolby/
-    name: Eurovolby
-    match: eurovolby
+  - link: /krajske-volby/
+    name: Krajské volby
+    match: krajskevolby
   - link: /kde-jsme/
     name: Kde jsme?
     match: kde-jsme
