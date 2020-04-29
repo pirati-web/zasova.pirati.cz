@@ -6,9 +6,11 @@ titles:
   after:
 category:
 - pks
+- zast
+- clenove
 
 img: people/lubomir-dolezal.jpg   # zakomentuj radek dokud není fotka
-description: 4. místopředseda KS Zlínský kraj, rozpočtář # kratký popis, max 160 znaků
+description: 4. místopředseda KS Zlínský kraj, zastupitel Stupavy, rozpočtář # kratký popis, max 160 znaků
 mail:
 - lubomir.dolezal@pirati.cz
 profiles:

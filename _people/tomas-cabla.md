@@ -5,10 +5,11 @@ titles:
   before: 
   after:
 category:
+-zast
 - clenove
 
 img: people/jakub-pirat.jpg   # zakomentuj radek dokud není fotka
-description: kuchař # kratký popis, max 160 znaků
+description: zatupitel města Napajedla, kuchař # kratký popis, max 160 znaků
 mail:
 - tomas.cabla@pirati.cz
 profiles:

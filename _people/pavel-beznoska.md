@@ -5,6 +5,7 @@ titles:
   before: 
   after:
 category:
+- zast
 - clenove
 
 img: people/pavel-beznoska.png   # 165 x 220

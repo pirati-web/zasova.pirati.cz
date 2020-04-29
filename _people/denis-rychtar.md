@@ -5,15 +5,16 @@ titles:
   before: 
   after:
 category:                    # kategorie: clenove
-- pks
+- zast
+- clenove
 
 img: people/denis-rychtar.jpg   # zakomentuj radek dokud není fotka
-description: 1. místopředseda KS Zlínský kraj, chemik-velinář # kratký popis, max 160 znaků
+description: zastupitel Valašského Meziříčí, chemik-velinář # kratký popis, max 160 znaků
 mail:
 - denis.rychtar@pirati.cz
 profiles:
   facebook: https://www.facebook.com/JokerTekk
-ordpks: 2
+
 ---
 
 Denis Rychtar (*14. srpna 1990, Nový Jičín) je podporovatel Pirátů od roku 2009 a členem od roku 2015.

@@ -5,6 +5,7 @@ titles:
   before: Ing. Mgr.
   after:  Ph.D.
 category:
+- zast
 - clenove
 
 img: people/zuzana-fiserova.jpg   # 165 x 220

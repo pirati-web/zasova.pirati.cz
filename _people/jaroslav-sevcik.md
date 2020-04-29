@@ -5,10 +5,11 @@ titles:
   before: 
   after:
 category:
+- zast
 - clenove
 
 img: people/jakub-pirat.jpg   # zakomentuj radek dokud není fotka
-description: starosta a správce T. J. Sokol Uherské Hradiště          	# kratký popis, max 160 znaků
+description: zastupitel Uherského Hradiště, starosta a správce T. J. Sokol Uherské Hradiště          	# kratký popis, max 160 znaků
 mail:
 - jaroslav.sevcik@pirati.cz
 profiles:

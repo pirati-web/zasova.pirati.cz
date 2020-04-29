@@ -5,10 +5,7 @@ titles:
   before:
   after:
 category:
-  - clenove
-  - pms
-ordpms: 1
-ordclenove: 1
+  
 description: mistr světa ve skoku pro něco # zobrazuje se v lide
 #img: people/mistni-predseda.jpg # zakomentuj radek dokud není fotka
 mail:

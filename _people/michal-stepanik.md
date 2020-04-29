@@ -5,10 +5,11 @@ titles:
   before: 
   after:
 category:
+- zast
 - clenove
 
 img: people/michal-stepanik.jpg   # 165 x 220
-description: elektrotechnik # kratký popis, max 160 znaků
+description: zastupitel města Napajedla, elektrotechnik # kratký popis, max 160 znaků
 mail:
 - michal.stepanik@pirati.cz
 profiles:

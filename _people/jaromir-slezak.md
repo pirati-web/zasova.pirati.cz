@@ -5,6 +5,7 @@ titles:
   before: 
   after:
 category:
+- zast
 - clenove
 
 
@@ -14,7 +15,6 @@ mail:
 - jaromir.slezak@pirati.cz
 profiles:
   facebook: https://www.facebook.com/jerry.slezak
-ordzas: 8
 ---
 
 Jaromír Slezák (*2. ledna 1988, Vizovice) vystudoval soukromou střední školu pedagogickou a sociální ve Zlíně. V současné době pracuje jako disponent zahraniční kamionové dopravy.
