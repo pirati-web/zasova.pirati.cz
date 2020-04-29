@@ -2,7 +2,7 @@
 date: 2020-04-07
 category: blog
 tags: zlinsky-kraj kromeriz vratislav-krejcir koronavirus
-title: Místostarosta Vratislav Krejčíř: Nefunguje téměř nic. Dá se říct, že stát a kraj vše přehodil na města
+title: Místostarosta Vratislav Krejčíř - Nefunguje téměř nic. Dá se říct, že stát a kraj vše přehodil na města
 author: Josef Indra
 authorId: josef.indra
 image: posts/rozhovorvrata.png

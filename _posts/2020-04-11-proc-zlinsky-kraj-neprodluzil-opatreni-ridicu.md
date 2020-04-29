@@ -2,7 +2,7 @@
 date: 2020-04-11
 category: blog
 tags: zlinsky-kraj koronavirus  hana-ancincova
-title: Hana Ančincová: Zlínský Kraj neprodloužil opatření k ochraně řidičů. Vůči tomuto rozhodnuti se ohrazuje i Zlínský spolek přátel dopravy.
+title: Hana Ančincová - Zlínský Kraj neprodloužil opatření k ochraně řidičů. Vůči tomuto rozhodnuti se ohrazuje i Zlínský spolek přátel dopravy.
 author: Jaromír Horký
 authorId: jaromir.horky
 image: posts/MHD.png

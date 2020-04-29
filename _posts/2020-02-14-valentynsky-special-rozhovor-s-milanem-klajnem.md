@@ -2,7 +2,7 @@
 date: 2020-02-14
 category: blog
 tags: zlinsky-kraj zlin milan-klajn
-title: Milan Klajn: V letadle ani balónu jsem zatím neoddával
+title: Milan Klajn - V letadle ani balónu jsem zatím neoddával
 author: Jaromír Horký
 authorId: jaromir.horky
 image: posts/valentyn1.jpg   
@@ -17,7 +17,7 @@ Svátek svatého Valentýna se pojí s láskou, proto jsme se i my rozhodli vám
 
 Role oddávajícího je součástí mé práce zastupitele Statutárního města Zlína. Byla to jedna z příjemných rolí, které jsem jako zastupitel rád přijal. S funkcí oddávajícího jsem se sžil poměrně snadno. Samozřejmě, že první obřady byly náročnější. Ta odpovědnost je v té čtvrthodince znát. V tu chvíli je na mě, abych zajistil správný a platný průběh svatebního obřadu. Také je vhodné správně vyslovit jména, příjmení, oslovení. Během proslovu a celého obřadu jsi pod drobnohledem. Bedlivě Ti naslouchá někdy až stovka lidí. Stojíš proti snoubencům, svědkům, rodině a přátelům. Sám, něco mezi přednášejícím a kazatelem. Do toho krásná, slavnostní hudba a prostorný sál. Při této příležitosti bych chtěl apelovat na rodinu snoubenců. Babičky a dědečky nenechávejte někde vzadu, protože nemusí dobře vidět a slyšet. V zadní části obřadní řeč vůbec nemusí jít slyšet, a to je pro ně myslím škoda. Samozřejmě důležití jsou Ti dva před Tebou. Není to chvíle, která (aspoň doufám) se v životě mockrát opakuje, a i já mám jen jeden pokus :-). Musím zmínit, že spolupráce s lidmi z magistrátu je vynikající. Paní matrikářky, recitátorky, služba poskytují snoubencům i mě skvělý servis. Musím opravdu vyzdvihnout vlídný a profesionální přístup, který provází každý můj svatební obřad za doprovodu usměvavé paní klavíristky.
 
-![Milan Klajn](https://zlinsky.pirati.cz/assets/img/posts/valentyn2.png)
+![Milan Klajn](/assets/img/posts/valentyn2.png)
 
 **Jaký je tvůj rekord v počtu svateb za den?**
 
@@ -35,7 +35,7 @@ Nevím, co se počítá za nezvyklé místo. Převážně v letních měsících
 
 To naštěstí ne. Ani náznaky něčeho podobného jsem nezaregistroval. Většina obřadů proběhne v milé a pohodové atmosféře. Pravda, nevěsty bývají nervózní a dvě už jsem tak trochu křísil, ale vše (snad :-D) nakonec dobře dopadlo. Chápu je. Je to den D a pro mne je vždy ctí, že mohu být, byť krátce, součástí tak důležitého okamžiku. Musím přiznat, že jednou jsem měl dilema, zda dotyčný pár oddat. Byli to údajně mladí lidé bez domova. Vše, včetně svatebních hostů a svědků tomu nasvědčovalo. Vstup do manželství není jen změna stavu a někdy i příjmení. Manželství je mimo jiné i společenským a právním závazkem. Proto přeji všem manželům, které jsem měl tu čest oddat, aby měli na jejich svatební obřad ty nejlepší vzpomínky a nikdy rozhodnutí vstoupit do manželství nelitovali.
 
-![Milan Klajn](https://zlinsky.pirati.cz/assets/img/posts/valentyn3.jpg)
+![Milan Klajn](assets/img/posts/valentyn3.jpg)
 
 *autorem fotografie je https://www.facebook.com/Jiri.zPolnaku.cz
 
