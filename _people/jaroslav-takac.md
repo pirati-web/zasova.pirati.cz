@@ -5,10 +5,13 @@ titles:
   before: 
   after:
 category:
+- pks
 - clenove
 
+ordpks: 4
+
 img: people/jaroslav-takac.jpg   # zakomentuj radek dokud není fotka
-description: stavbyvedoucí # kratký popis, max 160 znaků
+description: 3. místopředseda KS Zlínský kraj, stavbyvedoucí # kratký popis, max 160 znaků
 mail:
 - jaroslav.takac@pirati.cz
 profiles:

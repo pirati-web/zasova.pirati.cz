@@ -6,14 +6,17 @@ titles:
   after:
 category:
 - pks
+- zast
+- clenove
+
+ordpks: 3
 
 img: people/jiri-jaros.jpg   # zakomentuj radek dokud není fotka
-description: 2. místopředseda KS Zlínský kraj, IT technik # kratký popis, max 160 znaků
+description: 2. místopředseda KS Zlínský kraj, radní Zlína # kratký popis, max 160 znaků
 mail:
 - jiri.jaros@pirati.cz
 profiles:
   facebook: https://www.facebook.com/WhiteDrogba
-ordpks: 3
 ---
 
 Jiří Jaroš (*8. října 1974, Zlín) je členem České pirátské strany od roku 2017. Pochází ze Zlína.

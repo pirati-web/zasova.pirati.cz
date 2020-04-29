@@ -5,10 +5,15 @@ titles:
   before: 
   after: DiS.
 category:
+- psp
+- zast
+- pks
 - clenove
 
+ordpks: 2
+
 img: people/frantisek-elfmark.png   # 165 x 220
-description: 2. místopředseda KS Zlínský kraj, pirátský poslanec za Zlínský kraj          	# kratký popis, max 160 znaků
+description: 1. místopředseda KS Zlínský kraj, pirátský poslanec za Zlínský kraj, zastupitel Uherského Kradiště          	# kratký popis, max 160 znaků
 mob:			  +420 604 171 281
 mail:
 - frantisek.elfmark@pirati.cz

@@ -6,9 +6,14 @@ titles:
   after:
 category:
 - pms
+- zast
+- pks
+- clenove
+
+ordpks: 1
 
 img: people/vratislav-krejcir.jpg   # zakomentuj radek dokud není fotka
-description: předseda MS KM, ředitel divize eMobility, hrdý otec a optimista # kratký popis, max 160 znaků
+description: předseda KS Zlínský kraj, předseda MS Kroměříž, místostarosta Kroměříže # kratký popis, max 160 znaků
 mob:			  +420 731 501 650
 mail:
 - vratislav.krejcir@pirati.cz
