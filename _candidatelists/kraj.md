@@ -3,7 +3,7 @@ title: Kandidátka na Krajské volby
 uid: kraj
 # number: 13 # číslo kandidátky odkomentujte až bude známé
 leader:
-  uid: hana.ancincovaleader
+  uid: hana.ancincova
   age: 31
   profession: finanční analytik
   party: Piráti
@@ -16,6 +16,11 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     party: bez politické příslušnosti
   - uid: denis.rychtar
     profession: knihovník
+  - uid: jakub.zach
+    age: 63
+    profession: zametač
+    description: expert přes dětská hřiště
+    party: Evropani.cz
   - uid: jakub.zach
     age: 63
     profession: zametač
