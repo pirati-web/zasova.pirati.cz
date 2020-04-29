@@ -19,6 +19,13 @@ main:
   - link: /krajske-volby/
     name: Krajské volby
     match: krajskevolby
+    submenu:
+      - link: /krajske-volby/program.md
+        name: Program
+        match: program
+      - link: /krajske-volby/povolebni-strategie.md
+        name: Povolební strategie
+        match: povolebni-strategie
   - link: /kde-jsme/
     name: Kde jsme?
     match: kde-jsme
