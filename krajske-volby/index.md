@@ -1,7 +1,7 @@
 ---
 layout: communal-elections
 title: Komunální volby ve Zlínském kraji
-campaignCategoryUid: praha2018
+campaignCategoryUid: zlk2020
 candidateListUid: radnice # uid z `_candidates/radnice.md`
 ---
 
