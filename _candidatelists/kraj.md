@@ -21,7 +21,22 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     profession: zametač
     description: expert přes dětská hřiště
     party: Evropani.cz
-  - uid: jakub.zach
+  - uid: zuzana.fiserova
+    age: 63
+    profession: zametač
+    description: expert přes dětská hřiště
+    party: Evropani.cz
+  - uid: jiri.knotek
+    age: 63
+    profession: zametač
+    description: expert přes dětská hřiště
+    party: Evropani.cz
+  - uid: vratislav.krejcir
+    age: 63
+    profession: zametač
+    description: expert přes dětská hřiště
+    party: Evropani.cz
+  - uid: lubomir.dolezal
     age: 63
     profession: zametač
     description: expert přes dětská hřiště
