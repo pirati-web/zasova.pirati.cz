@@ -3,25 +3,24 @@ title: Kandidátka na Krajské volby
 uid: kraj
 # number: 13 # číslo kandidátky odkomentujte až bude známé
 leader:
-  uid: hana.ancincova
+  uid: prvni.leader
   age: 31
-  profession: finanční analytik
+  profession: knihovník
   party: Piráti
-  description: členka Republikového výboru Pirátů, Kroměříž # zobrazuje se v komunalni-volby
+  description: expert na skoky # zobrazuje se v komunalni-volby
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
-  - uid: jiri.jaros
-    age: 45
-    profession: radní města Zlín
-	party: Piráti
-    description: vysokoškolský pracovník, Zlín
-  - uid: denis.rychtar
-    age: 30
-    profession: chemik operátor
-	party: Piráti
-	description: zastupitel města Valašské Meziříčí
-	
-  
+  - uid: mistni.predseda
+    profession: knihovník
+    description: expert na skoky
+    party: bez politické příslušnosti
+  - uid: jakub.pirat
+    profession: knihovník
+  - uid: aktivni.priznivec
+    age: 63
+    profession: zametač
+    description: expert přes dětská hřiště
+    party: Evropani.cz
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
