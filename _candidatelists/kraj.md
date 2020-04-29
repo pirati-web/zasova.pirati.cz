@@ -11,39 +11,39 @@ leader:
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
   - uid: jiri.jaros
-    age: 63
-    profession: zametač
-    description: expert přes dětská hřiště
+    age: 45
+    profession: radní města Zlín
+    description: vysokoškolský pracovník, Zlín
     party: Piráti
   - uid: denis.rychtar
-    age: 63
-    profession: zametač
-    description: expert přes dětská hřiště
+    age: 30
+    profession: chemik velinář
+    description: zastupitel města Valašské Meziříčí
     party: Piráti
   - uid: jakub.zach
-    age: 63
-    profession: zametač
-    description: expert přes dětská hřiště
+    age: 36
+    profession: architekt, urbanista
+    description: Zlín
     party: Piráti
   - uid: zuzana.fiserova
-    age: 63
-    profession: zametač
-    description: expert přes dětská hřiště
+    age: 40
+    profession: ekonom, vysokoškolský pedagog
+    description: zastupitelka města Zlín
     party: Piráti
   - uid: jiri.knotek
-    age: 63
-    profession: zametač
-    description: expert přes dětská hřiště
+    age: 22
+    profession: student Univezity Palackého v Olomouci
+    description: Strání
     party: Piráti
   - uid: vratislav.krejcir
-    age: 63
-    profession: zametač
-    description: expert přes dětská hřiště
+    age: 38
+    profession: místostarosta města Kroměříž
+    description: Kroměříž
     party: Piráti
   - uid: lubomir.dolezal
-    age: 63
-    profession: zametač
-    description: expert přes dětská hřiště
+    age: 37
+    profession: projektový manažer
+    description: zastupitel obce Stupava
     party: Piráti
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
