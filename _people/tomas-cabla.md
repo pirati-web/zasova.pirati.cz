@@ -5,7 +5,7 @@ titles:
   before: 
   after:
 category:
--zast
+- zast
 - clenove
 
 img: people/jakub-pirat.jpg   # zakomentuj radek dokud není fotka
