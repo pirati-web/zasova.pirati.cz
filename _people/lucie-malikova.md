@@ -6,9 +6,10 @@ titles:
   after:
 category:
 - pms
+- clenove
 
 img: people/lucie-malikova.jpg   # zakomentuj radek dokud není fotka
-description: student ekonomiky a podnikání # kratký popis, max 160 znaků
+description: předseda MS ValMez, student ekonomiky a podnikání # kratký popis, max 160 znaků
 mail:
 - lucie.malikova@pirati.cz
 profiles:

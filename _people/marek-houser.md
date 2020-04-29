@@ -5,7 +5,8 @@ titles:
   before: 
   after:
 category:
-- pks
+- pms
+- clenove
 
 img: people/marek-houser.jpg   # zakomentuj radek dokud není fotka
 description: předseda KS Zlínský kraj, marketingový specialista         	# kratký popis, max 160 znaků
@@ -15,8 +16,6 @@ mob:			  +420 725 611 894
 profiles:
   facebook: https://www.facebook.com/marrahouser
   linkedin: https://www.linkedin.com/in/marrahouser
-ordpks: 1
-ordkontakty: 2
 
 ---
 

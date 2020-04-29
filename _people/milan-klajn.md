@@ -5,10 +5,13 @@ titles:
   before: 
   after:
 category:
+- pms
+- zast
 - clenove
 
+
 img: people/milan-klajn.jpg   # zakomentuj radek dokud není fotka
-description: plavčík, terapeut # kratký popis, max 160 znaků
+description: zastupitel Zlína, předseda MS Zlín # kratký popis, max 160 znaků
 mail:
 - milan.klajn@pirati.cz
 profiles:
