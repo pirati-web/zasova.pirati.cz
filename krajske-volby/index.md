@@ -2,7 +2,7 @@
 layout: communal-elections
 title: Komunální volby ve Zlínském kraji
 campaignCategoryUid: zlk2020
-candidateListUid: radnice # uid z `_candidates/radnice.md`
+candidateListUid: kraj # uid z `_candidates/kraj.md`
 ---
 
 Úvodní text např. vysvětlení koalice, podpory.
