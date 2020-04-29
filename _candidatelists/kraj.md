@@ -20,31 +20,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     profession: chemik operátor
 	description: zastupitel města Valašské Meziříčí
 	party: Piráti
-  - uid: jakub.zach
-    age: 36
-    profession: architekt, urbanista
-    description: Zlín
-    party: Piráti
-  - uid: zuzana.fiserova
-    age: 40
-    profession: ekonom, vysokoškolský pedagog
-    description: zastupitelka města Zlín, Zlín
-    party: Piráti
-  - uid: jiri.knotek
-    age: 22
-    profession: student Univerzity Palackého v Olomouci
-    description: Strání
-    party: Piráti
-  - uid: vratislav.krejcir
-    age: 38
-    profession: místostarosta města Kroměříž
-    description: Kroměříž
-    party: Piráti
-  - uid: lubomir.dolezal
-    age: 37
-    profession: projektový manažer
-    description: zastupitel obce Stupava, Stupava
-    party: Piráti
+  
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
