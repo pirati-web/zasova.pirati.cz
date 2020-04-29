@@ -3,20 +3,20 @@ title: Kandidátka na Krajské volby
 uid: kraj
 # number: 13 # číslo kandidátky odkomentujte až bude známé
 leader:
-  uid: prvni.leader
+  uid: hana.ancincovaleader
   age: 31
-  profession: knihovník
+  profession: finanční analytik
   party: Piráti
-  description: expert na skoky # zobrazuje se v komunalni-volby
+  description: členka Republikového výboru Pirátů, Kroměříž # zobrazuje se v komunalni-volby
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
-  - uid: mistni.predseda
+  - uid: jiri.jaros
     profession: knihovník
     description: expert na skoky
     party: bez politické příslušnosti
-  - uid: jakub.pirat
+  - uid: denis.rychtar
     profession: knihovník
-  - uid: aktivni.priznivec
+  - uid: jakub.zach
     age: 63
     profession: zametač
     description: expert přes dětská hřiště
