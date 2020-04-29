@@ -7,7 +7,7 @@ titles:
 category:
 - clenove
 
-img: people/jakub-pirat.jpg   # zakomentuj radek dokud není fotka
+img: people/jaromir-horky.jpg   # zakomentuj radek dokud není fotka
 description: krajská mediální spojka, psavec # kratký popis, max 160 znaků
 mail:
 - jaromir.horky@pirati.cz
