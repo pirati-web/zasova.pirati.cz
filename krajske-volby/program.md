@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Program pro komunální volby 2018
-campaignGroupUid: radnice
+campaignGroupUid: zlk2020
 rbar: textbox
 textbox:
  title: Celopražský program

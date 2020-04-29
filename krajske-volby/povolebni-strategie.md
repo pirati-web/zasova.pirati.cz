@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Povolební strategie
-campaignGroupUid: kraj
+campaignGroupUid: zlk2020
 rbar: ""
 ---
 
