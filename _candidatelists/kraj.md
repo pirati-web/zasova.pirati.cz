@@ -5,22 +5,46 @@ uid: kraj
 leader:
   uid: hana.ancincova
   age: 31
-  profession: knihovník
+  profession: finanční analytik
   party: Piráti
-  description: expert na skoky # zobrazuje se v komunalni-volby
+  description: členka Republikového výboru Pirátů, Kroměříž # zobrazuje se v komunalni-volby
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
   - uid: jiri.jaros
-    profession: knihovník
-    description: expert na skoky
-    party: bez politické příslušnosti
+    age: 45
+    profession: radní města Zlín
+    description: vysokoškolský pracovník, Zlín
+    party: Piráti
   - uid: denis.rychtar
-    profession: knihovník
-  - uid: aktivni.priznivec
-    age: 63
-    profession: zametač
-    description: expert přes dětská hřiště
-    party: Evropani.cz
+    age: 30
+    profession: chemik operátor
+	description: zastupitel města Valašské Meziříčí
+	party: Piráti
+  - uid: jakub.zach
+    age: 36
+    profession: architekt, urbanista
+    description: Zlín
+    party: Piráti
+  - uid: zuzana.fiserova
+    age: 40
+    profession: ekonom, vysokoškolský pedagog
+    description: zastupitelka města Zlín, Zlín
+    party: Piráti
+  - uid: jiri.knotek
+    age: 22
+    profession: student Univerzity Palackého v Olomouci
+    description: Strání
+    party: Piráti
+  - uid: vratislav.krejcir
+    age: 38
+    profession: místostarosta města Kroměříž
+    description: Kroměříž
+    party: Piráti
+  - uid: lubomir.dolezal
+    age: 37
+    profession: projektový manažer
+    description: zastupitel obce Stupava, Stupava
+    party: Piráti
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
