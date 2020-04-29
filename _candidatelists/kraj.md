@@ -13,13 +13,14 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: jiri.jaros
     age: 45
     profession: radní města Zlín
+	party: Piráti
     description: vysokoškolský pracovník, Zlín
-    party: Piráti
   - uid: denis.rychtar
     age: 30
     profession: chemik operátor
-	description: zastupitel města Valašské Meziříčí
 	party: Piráti
+	description: zastupitel města Valašské Meziříčí
+	
   
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
