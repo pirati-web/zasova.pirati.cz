@@ -5,22 +5,22 @@
 # technické nastavení
 #
 
-title: Piráti Pardubický kraj
-email: pardubickykraj@pirati.cz
+title: Piráti Zlínský kraj
+email: to@pirati.cz
 description: Prosazujeme fungující moderní politiku založenou na využití technologií 21. století pro otevřenou demokratickou společnost.
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
-keywords: pardubický, kraj, pardubice, piráti, česká pirátská strana, svoboda, demokracie, název města, zkratka města, místní združení,
+keywords: zlínský, kraj, zlín, piráti, česká pirátská strana, svoboda, demokracie, název města, zkratka města, místní združení,
 url: "https://zasova.pirati.cz" # the base hostname & protocol for your site
 
 administrator:
   email: libor.adamek@pirati.cz
 
 organization:
-  name: Piráti Pardubický kraj
-  shortName: Piráti Pardubický kraj
-  contactUid: pavel.stepanek
-  email: pardubickykraj@pirati.cz
-  phone: +420 770 113 647
+  name: Piráti Zlínský kraj
+  shortName: Piráti ZLK
+  contactUid: yveta.martinkova
+  email: yveta.martinkova@pirati.cz
+  phone: +420 770 113 648
   address: |
     Pardubické pirátské centrum
     Budova T-STRING
