@@ -62,8 +62,8 @@ pardupice:
 facebook:
   loadSDK: true
   #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
-  profilePage: https://www.facebook.com/pirati.pardubicko/
-  profilePageName: Piráti - Pardubický kraj
+  profilePage: https://www.facebook.com/piratizlk/
+  profilePageName: Piráti Zlínský kraj
   appId: 1526197851008996
 
 twitter:
@@ -77,7 +77,7 @@ flicker:
   profilePage: https://www.flickr.com/photos/pirati/
 
 forum:
-  page: https://forum.pirati.cz/pardubicky-kraj-f85/
+  page: https://forum.pirati.cz/zlinsky-kraj-f82/
 
 github:
   url: https://github.com/pirati-web/zasova.pirati.cz/
