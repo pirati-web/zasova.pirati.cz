@@ -14,9 +14,7 @@ mob:			  +420 725 611 894
 profiles:
   facebook: https://www.facebook.com/marrahouser
   linkedin: https://www.linkedin.com/in/marrahouser
-ordkontakty: 2
-ordpms: 3
-ordkandidat: 7
+
 ---
 
 Marek Houser (*6. prosince 1988, Zlín) je předsedou MS Uherské Hradiště. Je ženatý a má syna. Sedmadvacet let bydlel v Otrokovicích, nyní je obyvatelem Uherského Hradiště.

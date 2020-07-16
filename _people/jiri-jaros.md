@@ -15,8 +15,7 @@ mail:
 - jiri.jaros@pirati.cz
 profiles:
   facebook: https://www.facebook.com/WhiteDrogba
-ordpks: 3
-ordkandidat: 2
+
 ---
 
 Jiří Jaroš (*8. října 1974, Zlín) je členem České pirátské strany od roku 2017. Pochází ze Zlína.

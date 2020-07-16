@@ -12,7 +12,7 @@ mail:
 - janaan@post.cz
 profiles:
   
-ordkandidat: 11
+
 ---
 
 Ing. Jana Skopalová (*1981) - vysokoškolské ekonomické vzdělání.
