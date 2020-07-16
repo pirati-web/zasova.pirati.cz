@@ -5,7 +5,7 @@ fullname: Vratislav Krejčíř  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - predsednictvo
 - kontaktni_osoba
-- krajsti-zastupitele
+- mistni_predsedove
 ord_predsednictvo: 1
 
 img: people/vratislav-krejcir.jpg   # 165 x 220
