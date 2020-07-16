@@ -9,7 +9,7 @@ ord_predsednictvo: 2
 
 img: people/frantisek-elfmark.png   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: 1. místopředseda KS Zlínský kraj<br>pirátský poslanec za Zlínský kraj<br>Uherské Hradiště # kratký popis, max 160 znaků
+description: 1. místopředseda KS ZLK<br>pirátský poslanec<br>Uherské Hradiště # kratký popis, max 160 znaků
 mob:			  +420 604 171 281
 mail:
 - frantisek.elfmark@pirati.cz

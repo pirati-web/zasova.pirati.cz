@@ -8,7 +8,7 @@ category:                   # kategorie: clenove
 ord_predsednictvo: 4
 img: people/jaroslav-takac.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: 3. místopředseda KS Zlínský kraj<br>stavbyvedoucí <br>Holešov # kratký popis, max 160 znaků
+description: 3. místopředseda KS ZLK<br>stavbyvedoucí <br>Holešov # kratký popis, max 160 znaků
 mob:			  +420 775 047 374
 mail:
 - jaroslav.takac@pirati.cz

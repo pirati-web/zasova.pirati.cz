@@ -10,7 +10,7 @@ ord_predsednictvo: 1
 
 img: people/vratislav-krejcir.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: Předseda KS Zlínský kraj<br>předseda MS Kroměříž<br>místostarosta Kroměříže<br>Kroměříž # kratký popis, max 160 znaků
+description: Předseda KS ZLK<br>předseda MS Kroměříž<br>místostarosta Kroměříže # kratký popis, max 160 znaků
 mob:			  +420 776 666 144
 mail:
 - vratislav.krejcir@pirati.cz

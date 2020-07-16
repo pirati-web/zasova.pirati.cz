@@ -9,7 +9,7 @@ ord_predsednictvo: 5
 
 img: people/zdenek-tros.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: 4. místopředseda KS Zlínský kraj<br>OSVČ, jednatel<br>Rožnov p.R. # kratký popis, max 160 znaků
+description: 4. místopředseda KS ZLK<br>OSVČ, jednatel<br>Rožnov p.R. # kratký popis, max 160 znaků
 mail:
 - zdenek.tros@pirati.cz
 profiles:
