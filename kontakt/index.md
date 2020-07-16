@@ -9,9 +9,9 @@ contactPersons:
   - id: vratislav.krejcir
     position: Předseda krajského sdružení
   - id: jaromir.horky
-    position: Kontakt pro krajské volby 2020
-  - id: josef.indra
     position: Kontakt pro novináře
+  - id: jaromir.horky
+    position: Kontakt pro krajské volby 2020
   - id: yveta.martinkova
     position: Kontakt pro dobrovolníky
   
