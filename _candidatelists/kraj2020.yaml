@@ -3,106 +3,105 @@ title: Kandidátka do zastupitelstva Pardubického kraje
 uid: kraj2020
 # number: 13
 leader:
-    uid: daniel.lebduska
+    uid: hana.ancincova
     position: 1
-    name: Bc. Daniel Lebduška
+    name: Bc. Hana Ančincová
 #    age: 0
-    profession: výkonný ředitel firmy, zastupitel
-    city: Chrudim
+    profession: lídr pro krajské volby, finanční analytička
+    city: Hulín
     partyUid: pirati
 head:
-    - uid: filip.mezera
+    - uid: jiri.jaros
       position: 2
-      name: Ing. Filip Mezera, Ph.D.
+      name: Jiří Jaroš
 #      age: 0
-      profession: datový analytik, zastupitel
-      city: Sezemice
+      profession: radní Zlína, IT technik
+      city: Zlín
       partyUid: pirati
-    - uid: andrej.ramaseuski
+    - uid: denis.rychtar
       position: 3
-      name: Andrej Ramašeuski
+      name: Denis Rychtar
 #      age: 50
-      profession: systémový administrátor, zastupitel
-      city: Radhošť
+      profession: zastupitel Valašského Meziříčí, chemik - velinář
+      city: Valašské Meziříčí
       partyUid: pirati
-    - uid: libuse.vevodova
+    - uid: jakub.zach
       position: 4
-      name: Mgr. Libuše Vévodová
+      name: Ing. arch. Jakub Zach
 #      age: 0
-      profession: středoškolská učitelka, zastupitelka
-      city: Svitavy
+      profession: architekt
+      city: Kroměříž
       partyUid: pirati
-    - uid: jiri.duchacek
+    - uid: zuzana.fiserova
       position: 5
-      name: Jiří Ducháček
+      name: Ing. Mgr. Zuzana Fišerová, Ph.D.
 #      age: 0
-      profession: IT manager, zastupitel
-      city: Česká Třebová
+      profession: zastupitelka Zlína, ekonomka
+      city: Zlín
       partyUid: pirati
-    - uid: lenka.spanihelova
+    - uid: jiri.knotek
       position: 6
-      name: Mgr. Lenka Španihelová
-#      age: 0
-      profession: sociální pracovnice
-      city: Vápenný Podol
+      name: Jiří Knotek
+      #      age: 0
+      profession: student politologie na UPOL
+      city: Uherské Hradiště
       partyUid: pirati
-    - uid: andrea.linhartova
+    - uid: marek.houser
       position: 7
-      name: Andrea Linhartová
+      name:Marek Houser
 #      age: 0
-      profession: metodik
-      city: Chrast
+      profession: marketingový specialista
+      city: Uherské Hradiště
       partyUid: pirati
-    - uid: jaroslav.lainz
+    - uid: vratislav.krejcir
       position: 8
-      name: Mgr. Jaroslav Lainz, DiS.
+      name: Vratislav Krejčíř
 #      age: 0
-      profession: speciální pedagog
-      city: Česká Třebová
+      profession: místostarosta Kroměříže
+      city: Kroměříž
       partyUid: pirati
     - position: 9
-      uid: matej.karas
-      name: Mgr. Matěj Karas
+      uid: lubormir.dolezal
+      name: Lubomír Doležal
 #      age: 0
-      profession: projektový pracovník MPSV
-      city: Pardubice
+      profession: zastupitel Stupavy, rozpočtář
+      city: Stupava
       partyUid: pirati
 tail:
-    - uid: vladek.vacha
+    - uid: jaroslav.takac
       position: 10
-      name: Vladek Vácha
+      name: Jaroslav Takáč
 #      age: 0
-      profession: technolog, konstruktér, provozovatel soukromého muzea
-      city: Mistrovice
+      profession: stavbyvedoucí
+      city: Holešov
       partyUid: pirati
-    - uid: david.marhold
+    - uid: jana.skopalova
       position: 11
-      name: Bc. David Marhold
-#      age: 0
-      profession: student historie a práv, OSVČ
-      city: Svitavy
+      name: Ing. Jana Skopalová
+      #      age: 0
+      profession: specialista poprodejní péče, auditor vnitřních procesů
+      city: Kroměříž
       partyUid: pirati
-    - uid: jiri.kratky
+    - uid: jaroslav.sevcik
       position: 12
-      name: Jiří Krátký
+      name: Jaroslav Ševčík
 #      age: 0
-      profession: kapitán plachetnice
-      city: Svitavy
+      profession: zastupitel UH, starosta a správce T. J. Sokol Uherské Hradiště
+      city: Uherské Hradiště
       partyUid: pirati
-    -
-#uid: lucie.prochazkova
+    - uid: pavel.beznoska
       position: 13
-      name: JUDr. Lucie Procházková, Ph.D.
+      name: Ing. Pavel Beznoska
 #      age: 0
-      profession: právnička, asistentka poslance
-      city: Pardubice
-      partyUid: bezpp
-    - uid: dominik.becka
+      profession: zastupitel Otrokovic, account manager
+      city: Otrokovice
+      partyUid: pirati
+    - uid: zdenek.tros
       position: 14
-      name: Ing. Dominik Bečka
+      name: Zdeněk Třos
 #      age: 0
-      profession: manažer řízení rizik, zastupitel
-      city: Pardubice
+      profession: OSVČ, jednatel
+      city: Rožnov p.R.
       partyUid: pirati
     - uid: martin.saifrt
       position: 15
