@@ -16,9 +16,9 @@ main:
   - link: /lide/
     name: Lidé
     match: lide
-  - link: /pardubicke-piratske-centrum-pardupice/
-    name: Pirátské centrum
-    match: pardubicke-piratske-centrum-pardupice
+#  - link: /pardubicke-piratske-centrum-pardupice/
+#    name: Pirátské centrum
+#    match: pardubicke-piratske-centrum-pardupice
 #  - link: /pomahame/
 #    name: Záchranný kruh
 #    match: pomahame
@@ -78,9 +78,9 @@ bottom:
 transparencySection: false
 
 contact:
-  - id: david.marhold
+  - id: yveta.martinkova
     position: Koordinátor
-  - id: ivana.mrkvickova
-    position: Koordinátorka, volební manažerka
-  - id: martin.saifrt
+  - id: jaromir.horky
+    position: Volební manažer
+  - id: josef.indra
     position: Kontakt pro novináře
