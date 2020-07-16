@@ -1,19 +1,20 @@
 ---
 layout: contacts
-description: Pirátská strana v Pardubickém kraji je otevřená a ráda přivítá dobrovolníky a odpoví na dotazy kritiků.
+description: Pirátská strana ve Zlínském kraji je otevřená a ráda přivítá dobrovolníky a odpoví na dotazy kritiků.
 keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
 # Pokud nechcete, aby se zobrazovalo kontaktní místo, můžete odkomentovat následující řádek:
 # noresidence: yes
 contentSize: even
 contactPersons:
-  - id: daniel.lebduska
+  - id: vratislav.krejcir
     position: Předseda krajského sdružení
-  - id: martin.saifrt
-    position: Kontakt pro novináře
-  - id: david.marhold
-    position: Kontakt pro dobrovolníky
-  - id: ivana.mrkvickova
+  - id: jaromir.horky
     position: Kontakt pro krajské volby 2020
+  - id: josef.indra
+    position: Kontakt pro novináře
+  - id: yveta.martinkova
+    position: Kontakt pro dobrovolníky
+  
 ---
 
 <div class="o-section-header o-section-header--indented">
