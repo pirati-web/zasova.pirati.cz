@@ -1,15 +1,16 @@
 ---
 layout: post
 category: CLANKY
-title: 'František Elfmark: Opozice a koalice, každá mince má dvě strany'
+title: František Elfmark: Opozice a koalice, každá mince má dvě strany
 date: 2020-07-14
 author: Jaromír Horký
 authorId: jaromir.horky
 image: /assets/img/posts/UH.jpg
-tags: - zlinsky-kraj 
-      - frantisek-elfmark 
-	  - uherske-hradiste 
-	  - jaroslav-sevcik
+tags: 
+- zlinsky-kraj 
+- frantisek-elfmark 
+- uherske-hradiste 
+- jaroslav-sevcik
 ---
 
 Když se v roce 2014 dostal František Elfmark do zastupitelstva a stal se uvolněným radním města Uherské Hradiště, kde měl na starosti resorty životního prostředí, sociálních služeb a informačních technologií, byl v něm ve svých 36 letech nejmladší. V zastupitelstvu je stále a nyní se přiřadil František Elfmark k těm málo vyvoleným, kteří zakusili atmosféru jak v koalici, tak v opozici na vlastní kůži.
