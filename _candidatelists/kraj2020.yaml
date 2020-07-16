@@ -322,43 +322,7 @@ tail:
       profession: pirátský poslanec za Zlínský kraj
       city: Uherské Hradiště
       partyUid: pirati
-    - uid: jan.hrubes
-      position: 46
-      name: Ing. Jan Hrubeš, DiS.
-#      age: 0
-      profession: doktorand, zastupitel
-      city: Pardubice
-      partyUid: pirati
-    -
-#uid: jitka.bidlova
-      position: 47
-      name: Ing. arch. Jitka Bidlová, Ph.D.
-#      age: 0
-      profession: zastupitelka
-      city: Polička
-      partyUid: pirati
-    - uid: ivana.bohmova
-      position: 48
-      name: Bc. et Bc. Ivana Böhmová
-#      age: 0
-      profession: pedagožka, zastupitelka
-      city: Pardubice
-      partyUid: pirati
-    - uid: pavel.stepanek
-      position: 49
-      name: Pavel Štěpánek
-#      age: 0
-      profession: místostarosta
-      city: Chrudim
-      partyUid: pirati
-    -
-#uid: stanislav.klat
-      position: 50
-      name: Stanislav Klát
-#      age: 0
-      profession: student politologie a enviromentalistiky
-      city: Nové Hrady
-      partyUid: pirati
+ 
 
 ---
 
