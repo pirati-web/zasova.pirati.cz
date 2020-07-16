@@ -1,6 +1,7 @@
 ---
 uid: jaromir.horky
 name:     Jaromír Horký  	# běžně používáné jméno
+fullname: Jaromír Horký
 category:                   # kategorie: clenove
 - kontaktni_osoba
 img: people/jaromir-horky.jpg   # 165 x 220
