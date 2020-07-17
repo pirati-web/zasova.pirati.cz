@@ -1,7 +1,9 @@
 ---
 uid: hana.ancincova
 name:     Hana Ančincová  	# běžně používáné jméno
-fullname: Hana Ančincová 	# jméno s tituly etc.
+titles:
+  before: Bc.
+  after:
 category:                   # kategorie: clenove
 
 img: people/hana-ancincova.jpg   # 165 x 220
