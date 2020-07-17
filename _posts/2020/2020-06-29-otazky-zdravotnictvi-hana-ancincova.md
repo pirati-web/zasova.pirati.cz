@@ -11,6 +11,7 @@ tags:
 - krajske-volby 
 - hana-ancincova 
 - zdravotnictvi
+important: true
 ---
 
 Samotné krajské volby můžeme považovat za referendum o nové nemocnici. Ostatní oblasti budou hrát druhé housle. Pokud se uskuteční i referendum o nové nemocnici, uskuteční se nejdříve zároveň s krajskými volbami. A předpokládám, že výsledek referenda bude korespondovat s výsledkem krajských voleb. Tady to protlačování výstavby nové nemocnice hlava nehlava jako jedinou správnou možnost akorát umocňuje komunikační linka oficiálních stránek Zlínského úřadu. Volby se blíží a propaganda jede naplno. Nechybí tklivá videa, co mají chytnout za srdíčko a lidé vznášející legitimní dotazy k nové nemocnici jsou označování za nepřátelé. Politická kultura je ta tam. 
