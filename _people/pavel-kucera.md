@@ -1,7 +1,9 @@
 ---
 uid: pavel.kucera
 name:     Pavel Kučera  	# běžně používáné jméno
-fullname: Pavel Kučera  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
 
 

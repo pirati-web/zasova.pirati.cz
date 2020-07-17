@@ -1,7 +1,9 @@
 ---
 uid: josef.kvasnicka
 name:     Josef Kvasnička  	# běžně používáné jméno
-fullname: Josef Kvasnička  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
 
 

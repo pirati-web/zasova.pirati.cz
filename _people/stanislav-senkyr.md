@@ -1,7 +1,9 @@
 ---
 uid: stanislav.senkyr
 name:     Stanislav Šenkýř  	# běžně používáné jméno
-fullname: Stanislav Šenkýř  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
 
 img: people/stanislav-senkyr.jpg   # 165 x 220

@@ -1,7 +1,9 @@
 ---
 uid: milan.klajn
 name:     Milan Klajn  	# běžně používáné jméno
-fullname: Milan Klajn  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
 - mistni_predsedove
 

@@ -1,7 +1,9 @@
 ---
 uid: hynek.polasek
 name:     Hynek Polášek  	# běžně používáné jméno
-fullname: Hynek Polášek 	# jméno s tituly etc.
+titles:
+  before:
+  after:
 category:                   # kategorie: clenove
 
 

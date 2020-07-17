@@ -1,7 +1,9 @@
 ---
 uid: josef.indra
 name:     Josef Indra  	# běžně používáné jméno
-fullname: Josef Indra  	# jméno s tituly etc.
+titles:
+  before:
+  after:
 category:                   # kategorie: clenove
 - kontaktni_osoba
 img: people/josef-indra.jpg   # 165 x 220

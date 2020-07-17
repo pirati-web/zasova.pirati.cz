@@ -1,7 +1,9 @@
 ---
 uid: frantisek.elfmark
 name:     František Elfmark  	# běžně používáné jméno
-fullname: Bc. František Elfmark, DiS.  	# jméno s tituly etc.
+titles:
+  before: Bc.
+  after: DiS.
 category:                 # kategorie
 - predsednictvo
 

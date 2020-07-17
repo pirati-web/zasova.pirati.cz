@@ -1,7 +1,9 @@
 ---
 uid: tomas.cabla
 name:     Tomáš Čabla  	# běžně používáné jméno
-fullname: Tomáš Čabla  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
 
 

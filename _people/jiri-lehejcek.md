@@ -1,7 +1,9 @@
 ---
 uid: jiri.lehejcek
 name:     Jiří Lehejček  	# běžně používáné jméno
-fullname: Mgr. Ing. Jiří Lehejček, Ph.D.  	# jméno s tituly etc.
+titles:
+  before: Ing. Mgr.
+  after: Ph.D.
 category:                   # kategorie: clenove
 
 

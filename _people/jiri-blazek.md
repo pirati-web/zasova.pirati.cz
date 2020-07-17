@@ -1,7 +1,9 @@
 ---
 uid: jiri.blazek
 name:     Jiří Blažek  	# běžně používáné jméno
-fullname: Ihg. Jiří Blažek  	# jméno s tituly etc.
+titles:
+  before: Ing.
+  after:
 category:                   # kategorie: clenove
 
 

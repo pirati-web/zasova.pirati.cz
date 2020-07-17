@@ -1,7 +1,9 @@
 ---
 uid: ales.fuksa
 name:     Aleš Fuksa  	# běžně používáné jméno
-fullname: Aleš Fuksa  	# jméno s tituly etc.
+titles:
+  before:
+  after:
 category:                   # kategorie: clenove
 
 

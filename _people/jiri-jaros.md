@@ -1,7 +1,9 @@
 ---
 uid: jiri.jaros
 name:     Jiří Jaroš  	# běžně používáné jméno
-fullname: Jiří Jaroš  	# jméno s tituly etc.
+titles:
+  before: Ing.
+  after:
 category:                   # kategorie: clenove
 - predsednictvo
 

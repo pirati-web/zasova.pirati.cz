@@ -1,7 +1,9 @@
 ---
 uid: jiri.robenek
 name:     Jiří Robenek  	# běžně používáné jméno
-fullname: Jiří Robenek  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
 
 

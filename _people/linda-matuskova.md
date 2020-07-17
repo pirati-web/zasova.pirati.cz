@@ -1,7 +1,9 @@
 ---
 uid: linda.matuskova
 name:     Linda Matušková  	# běžně používáné jméno
-fullname: PhDr. Linda Matušková, Ph.D.  	# jméno s tituly etc.
+titles:
+  before: PhDr.
+  after: Ph.D.
 category:                   # kategorie: clenove
 
 

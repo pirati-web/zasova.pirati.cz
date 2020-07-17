@@ -1,7 +1,9 @@
 ---
 uid: petra.fohlerova
 name:     Petra Bambušková Fohlerová  	# běžně používáné jméno
-fullname: Mgr. Petra Bambušková Fohlerová  	# jméno s tituly etc.
+titles:
+  before: Mgr.
+  after:
 category:                   # kategorie: clenove
 
 

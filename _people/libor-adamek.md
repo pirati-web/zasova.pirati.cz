@@ -1,7 +1,9 @@
 ---
 uid: libor.adamek
 name:     Libor Adámek  	# běžně používáné jméno
-fullname: Libor Adámek  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
 
 

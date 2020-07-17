@@ -1,7 +1,9 @@
 ---
 uid: jiri.vyoral
 name:     Jiří Vyoral  	# běžně používáné jméno
-fullname: Jiří Vyoral  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: celnove
 
 

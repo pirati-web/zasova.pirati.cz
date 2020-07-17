@@ -1,7 +1,9 @@
 ---
 uid: lucie.malikova
 name:     Lucie Malíková  	# běžně používáné jméno
-fullname: Lucie Malíková  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
 - mistni_predsedove
 

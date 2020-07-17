@@ -1,7 +1,9 @@
 ---
 uid: jan.buksa
 name:     Jan Buksa  	# běžně používáné jméno
-fullname: Jan Buksa  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
 
 

@@ -1,7 +1,9 @@
 ---
 uid: martin.latal
 name:     Martin Látal  	# běžně používáné jméno
-fullname: Martin Látal  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
 
 

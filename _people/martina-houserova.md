@@ -1,7 +1,9 @@
 ---
 uid: martina.houserova
 name:     Martina Houserová  	# běžně používáné jméno
-fullname: Ing. Martina Houserová  	# jméno s tituly etc.
+titles:
+  before: Ing.
+  after:
 category:                   # kategorie: celnove
 
 

@@ -1,7 +1,9 @@
 ---
 uid: jaroslava.lalova
 name:     Jaroslava Lálová  	# běžně používáné jméno
-fullname: Jaroslava Lálová  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
 
 

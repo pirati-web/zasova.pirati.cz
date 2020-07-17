@@ -1,7 +1,9 @@
 ---
 uid: petr.lusovsky
 name:     Petr Lušovský  	# běžně používáné jméno
-fullname: Ing. Petr Lušovský  	# jméno s tituly etc.
+titles:
+  before: Ing.
+  after:
 category:                   # kategorie: clenove
 
 

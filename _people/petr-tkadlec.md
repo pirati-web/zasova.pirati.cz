@@ -1,7 +1,9 @@
 ---
 uid: petr.tkadlec
 name:     Petr Tkadlec  	# běžně používáné jméno
-fullname: Petr Tkadlec  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
 
 

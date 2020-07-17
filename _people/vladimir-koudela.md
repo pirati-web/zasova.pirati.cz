@@ -1,7 +1,9 @@
 ---
 uid: vladimir.koudela
 name:     Vladimír Koudela  	# běžně používáné jméno
-fullname: Vladimír Koudela  	# jméno s tituly etc.
+titles:
+  before:
+  after:
 category:                   # kategorie: clenove
 
 

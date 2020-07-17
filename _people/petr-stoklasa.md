@@ -1,7 +1,9 @@
 ---
 uid: petr.stoklasa
 name:     Petr Stoklasa  	# běžně používáné jméno
-fullname: Petr Stoklasa  	# jméno s tituly etc.
+titles:
+  before:
+  after:
 category:                   # kategorie: clenove
 
 

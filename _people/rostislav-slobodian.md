@@ -1,7 +1,9 @@
 ---
 uid: rostislav.slobodian
 name:     Rostislav Slobodian  	# běžně používáné jméno
-fullname: Ing. Rostislav Slobodian  	# jméno s tituly etc.
+titles:
+  before: Ing.
+  after:
 category:                   # kategorie: clenove
 
 

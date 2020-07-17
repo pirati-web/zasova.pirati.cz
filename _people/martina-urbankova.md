@@ -1,7 +1,9 @@
 ---
 uid: martina.urbankova
 name:     Martina Urbánková  	# běžně používáné jméno
-fullname: Martina Urbánková  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
 
 

@@ -1,7 +1,9 @@
 ---
 uid: denis.rychtar
 name:     Denis Rychtar  	# běžně používáné jméno
-fullname: Denis Rychtar  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
 
 

@@ -1,7 +1,9 @@
 ---
 uid: eliska.holsanova
 name:     Eliška Holšánová  	# běžně používáné jméno
-fullname: Eliška Holšánová 	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
 
 img: people/eliska-holsanova.jpg   # 165 x 220

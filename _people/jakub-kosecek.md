@@ -1,7 +1,9 @@
 ---
 uid: jakub.kosecek
 name:     Jakub Koseček  	# běžně používáné jméno
-fullname: Jakub Koseček 	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
 
 

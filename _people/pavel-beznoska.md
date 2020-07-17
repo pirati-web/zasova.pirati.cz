@@ -1,7 +1,9 @@
 ---
 uid: pavel.beznoska
 name:     Pavel Beznoska  	# běžně používáné jméno
-fullname: Pavel Beznoska  	# jméno s tituly etc.
+titles:
+  before: Ing.
+  after:
 category:                   # kategorie: clenove
 
 

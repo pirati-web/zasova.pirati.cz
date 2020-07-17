@@ -1,7 +1,9 @@
 ---
 uid: marek.houser
 name:     Marek Houser  	# běžně používáné jméno
-fullname: Marek Houser  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                 # kategorie
 - mistni_predsedove
 

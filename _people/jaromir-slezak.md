@@ -1,7 +1,9 @@
 ---
 uid: jaromir.slezak
 name:     Jaromír Slezák  	# běžně používáné jméno
-fullname: Jaromír Slezák 	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
 
 img: people/jaromir-slezak.png   # 165 x 220

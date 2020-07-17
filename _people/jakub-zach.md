@@ -1,7 +1,9 @@
 ---
 uid: jakub.zach
 name:     Jakub Zach  	# běžně používáné jméno
-fullname: Ing. arch. Jakub Zach 	# jméno s tituly etc.
+titles:
+  before: Ing. arch.
+  after:
 category:                   # kategorie: clenove
 
 

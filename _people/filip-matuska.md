@@ -1,7 +1,9 @@
 ---
 uid: filip.matuska
 name:     Filip Matuška  	# běžně používáné jméno
-fullname: Mgr. Filip Matuška 	# jméno s tituly etc.
+titles:
+  before: Mgr.
+  after:
 category:                   # kategorie: clenove
 
 

@@ -1,7 +1,9 @@
 ---
 uid: kristyna.lajmarova
 name:     Kristýna Lajmarová  	# běžně používáné jméno
-fullname: Kristýna Lajmarová  	# jméno s tituly etc.
+titles:
+  before: Bc.
+  after:
 category:                   # kategorie: clenove
 
 

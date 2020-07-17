@@ -1,7 +1,9 @@
 ---
 uid: tomas.holomel
 name:     Tomáš Holomel  	# běžně používáné jméno
-fullname: Tomáš Holomel  	# jméno s tituly etc.
+titles:
+  before: Ing.
+  after:
 category:                   # kategorie: clenove
 
 

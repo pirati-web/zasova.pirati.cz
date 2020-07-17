@@ -1,7 +1,9 @@
 ---
 uid: dominik.srnensky
 name:     Dominik Srněnský  	# běžně používáné jméno
-fullname: Dominik Srněnský  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
 
 

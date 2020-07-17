@@ -1,7 +1,9 @@
 ---
 uid: dusan.jurcik
 name:     Dušan Jurčík  	# běžně používáné jméno
-fullname: Dušan Jurčík  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                 # kategorie
 
 img: people/dusan-jurcik.jpg   # 165 x 220

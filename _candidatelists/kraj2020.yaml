@@ -13,7 +13,7 @@ leader:
 head:
     - uid: jiri.jaros
       position: 2
-      name: Jiří Jaroš
+      name: Ing. Jiří Jaroš
 #      age: 0
       profession: radní Zlína, IT technik
       city: Zlín
@@ -219,7 +219,7 @@ tail:
       position: 31
       name: Jaromír Slezák
 #     age: 0
-      profession: zastupitel Vizovio, disponent zahraniční kamionové dopravy
+      profession: zastupitel Vizovic, disponent zahraniční kamionové dopravy
       city: Vizovice
       partyUid: pirati
     - uid: andrea.mareckova

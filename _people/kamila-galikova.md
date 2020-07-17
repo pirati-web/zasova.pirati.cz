@@ -1,7 +1,9 @@
 ---
 uid: kamila.galikova
 name:     Kamila Gáliková  	# běžně používáné jméno
-fullname: Kamila Gáliková  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
 
 

@@ -1,7 +1,9 @@
 ---
 uid: matej.krajca
 name:     Matěj Krajča  	# běžně používáné jméno
-fullname: Matěj Krajča  	# jméno s tituly etc.
+titles:
+  before: Ing.
+  after:
 category:                   # kategorie: clenove
 
 

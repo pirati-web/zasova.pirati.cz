@@ -1,7 +1,9 @@
 ---
 uid: jaroslav.sevcik
 name:     Jaroslav Ševčík  	# běžně používáné jméno
-fullname: Jaroslav Ševčík  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie
 
 img: people/jaroslav-sevcik.jpg   # 165 x 220

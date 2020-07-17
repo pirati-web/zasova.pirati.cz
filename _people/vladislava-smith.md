@@ -1,7 +1,9 @@
 ---
 uid: vladislava.smith
 name:     Vladislava Smith  	# běžně používáné jméno
-fullname: Vladislava Smith  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
 
 

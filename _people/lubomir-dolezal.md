@@ -1,7 +1,9 @@
 ---
 uid: lubomir.dolezal
 name:     Lubomír Doležal  	# běžně používáné jméno
-fullname: Lubomír Doležal  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: celnove
 
 

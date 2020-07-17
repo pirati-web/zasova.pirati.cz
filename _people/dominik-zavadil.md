@@ -1,7 +1,9 @@
 ---
 uid: dominik.zavadil
 name:    Dominik Zavadil 	# běžně používáné jméno
-fullname: Dominik Zavadil 	# jméno s tituly etc.
+titles:
+  before:
+  after:
 category:                   # kategorie: clenove
 
 

@@ -1,7 +1,9 @@
 ---
 uid: katka.ruzickova
 name:     Katka Růžičková  	# běžně používáné jméno
-fullname: Ing. Katka Růžičková  	# jméno s tituly etc.
+titles:
+  before: Ing.
+  after:
 category:                   # kategorie: clenove
 
 

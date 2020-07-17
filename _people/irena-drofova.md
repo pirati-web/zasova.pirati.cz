@@ -1,7 +1,9 @@
 ---
 uid: irena.drofova
 name:     Irena Drofová  	# běžně používáné jméno
-fullname: Ing. Bc. Irena Drofová 	# jméno s tituly etc.
+titles:
+  before: Ing. Bc.
+  after:
 category:                   # kategorie: clenove
 
 

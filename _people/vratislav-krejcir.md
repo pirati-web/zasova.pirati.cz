@@ -1,7 +1,9 @@
 ---
 uid: vratislav.krejcir
 name:     Vratislav Krejčíř  	# běžně používáné jméno
-fullname: Vratislav Krejčíř  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
 - predsednictvo
 - kontaktni_osoba

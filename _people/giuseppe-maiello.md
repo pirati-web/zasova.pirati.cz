@@ -1,7 +1,9 @@
 ---
 uid: giuseppe.maiello
 name:     Giuseppe Maiello  	# běžně používáné jméno
-fullname: doc. dott. Giuseppe Maiello Ph.D.	# jméno s tituly etc.
+titles:
+  before: doc. dott.
+  after:
 category:                   # kategorie: clenove
 
 

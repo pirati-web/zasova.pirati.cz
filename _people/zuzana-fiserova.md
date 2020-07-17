@@ -1,7 +1,9 @@
 ---
 uid: zuzana.fiserova
 name:     Zuzana Fišerová  	# běžně používáné jméno
-fullname: Ing. Mgr. Zuzana Fišerová, Ph.D.  	# jméno s tituly etc.
+titles:
+  before: Ing. Mgr.
+  after: Ph.D.
 category:                   # kategorie: clenove
 
 

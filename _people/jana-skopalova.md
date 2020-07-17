@@ -1,7 +1,9 @@
 ---
 uid: jana.skopalova
 name:     Jana Skopalová  	# běžně používáné jméno
-fullname: Jana Skopalová  	# jméno s tituly etc.
+titles:
+  before: Ing.
+  after:
 category:                   # kategorie: clenove
 
 

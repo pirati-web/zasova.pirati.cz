@@ -1,7 +1,9 @@
 ---
 uid: kamil.podlas
 name:     Kamil Podlas  	# běžně používáné jméno
-fullname: Kamil Podlas  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
 
 

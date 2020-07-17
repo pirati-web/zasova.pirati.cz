@@ -1,7 +1,9 @@
 ---
 uid: jakub.vojta
-name:     Jakub Vojta  	# běžně používáné jméno
-fullname: Jakub Vojta 	# jméno s tituly etc.
+name: Jakub Vojta  	# běžně používáné jméno
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
 
 

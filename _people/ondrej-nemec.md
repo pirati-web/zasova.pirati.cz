@@ -1,7 +1,9 @@
 ---
 uid: ondrej.nemec
 name:     Ondřej Němec  	# běžně používáné jméno
-fullname: Ondřej Němec  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
 
 

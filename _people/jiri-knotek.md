@@ -1,7 +1,9 @@
 ---
 uid: jiri.knotek
 name:     Jiří Knotek  	# běžně používáné jméno
-fullname: Jiří Knotek  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
 
 

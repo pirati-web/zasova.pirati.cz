@@ -1,7 +1,9 @@
 ---
 uid: radek.nohavica
 name:     Radek Nohavica  	# běžně používáné jméno
-fullname: Ing. Radek Nohavica  	# jméno s tituly etc.
+titles:
+  before: Ing.
+  after:
 category:                   # kategorie: clen
 
 

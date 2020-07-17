@@ -1,7 +1,9 @@
 ---
 uid: andrea.mareckova
 name:     Andrea Marečková  	# běžně používáné jméno
-fullname: Ing. Andrea Marečková  	# jméno s tituly etc.
+titles:
+  before: Ing.
+  after:
 category:                   # kategorie: clenove
 
 

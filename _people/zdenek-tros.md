@@ -1,7 +1,9 @@
 ---
 uid: zdenek.tros
 name:     Zdeněk Třos  	# běžně používáné jméno
-fullname: Zdeněk Třos  	# jméno s tituly etc.
+titles:
+  before:
+  after:
 category:                   # kategorie: clenove
 - predsednictvo
 

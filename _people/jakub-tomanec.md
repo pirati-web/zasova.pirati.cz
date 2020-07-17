@@ -1,7 +1,9 @@
 ---
 uid: jakub.tomanec
 name:     Jakub Tomanec  	# běžně používáné jméno
-fullname: Jakub Tomanec 	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
 
 

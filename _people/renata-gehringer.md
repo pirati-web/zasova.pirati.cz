@@ -1,7 +1,9 @@
 ---
 uid: renata.gehringer
 name:     Renata Gehringer  	# běžně používáné jméno
-fullname: Mgr. Bc. Renata Gehringer 	# jméno s tituly etc.
+titles:
+  before: Mgr. Bc.
+  after:
 category:                   # kategorie: clenove
 
 

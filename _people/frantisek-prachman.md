@@ -1,7 +1,9 @@
 ---
 uid: frantisek.prachman
 name:     František Prachman  	# běžně používáné jméno
-fullname: František Prachman  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
 
 

@@ -1,7 +1,9 @@
 ---
 uid: petr.tomasu
 name:     Petr Tomášů  	# běžně používáné jméno
-fullname: Petr Tomášů  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
 
 

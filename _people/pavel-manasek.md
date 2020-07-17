@@ -1,7 +1,9 @@
 ---
 uid: pavel.manasek
 name:     Pavel Maňásek  	# běžně používáné jméno
-fullname: Ing. Pavel Maňásek  	# jméno s tituly etc.
+titles:
+  before: Ing.
+  after:
 category:                   # kategorie: clenove
 
 

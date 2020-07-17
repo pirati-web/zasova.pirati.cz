@@ -1,7 +1,9 @@
 ---
 uid: petr.hejny
 name:     Petr Hejný  	# běžně používáné jméno
-fullname: Petr Hejný  	# jméno s tituly etc.
+titles:
+  before: Ing.
+  after:
 category:                   # kategorie: clenove
 
 

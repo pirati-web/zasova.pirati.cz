@@ -1,7 +1,9 @@
 ---
 uid: jana.knapkova
 name:     Jana Knapková  	# běžně používáné jméno
-fullname: Jana Knapková  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
 
 

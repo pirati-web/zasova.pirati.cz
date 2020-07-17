@@ -1,7 +1,9 @@
 ---
 uid: ondrej.bisaha
 name:     Ondřej Bisaha  	# běžně používáné jméno
-fullname: Ing. Ondřej Bisaha  	# jméno s tituly etc.
+titles:
+  before: Ing.
+  after:
 category:                   # kategorie: clenove
 
 

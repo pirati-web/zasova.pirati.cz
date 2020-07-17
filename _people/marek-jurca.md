@@ -1,7 +1,9 @@
 ---
 uid: marek.jurca
 name:     Marek Jurča  	# běžně používáné jméno
-fullname: Marek Jurča  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                 # kategorie
 
 img: people/ppp.jpg   # 165 x 220

@@ -1,7 +1,9 @@
 ---
 uid: marek.pochyly
 name:     Marek Pochylý  	# běžně používáné jméno
-fullname: Marek Pochylý  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
 
 

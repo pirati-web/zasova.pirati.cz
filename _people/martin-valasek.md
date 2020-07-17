@@ -1,7 +1,9 @@
 ---
 uid: martin.valasek
 name:     Martin Valášek  	# běžně používáné jméno
-fullname: Martin Valášek  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
 
 

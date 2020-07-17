@@ -1,7 +1,9 @@
 ---
 uid: petr.topek
 name:     Petr Ťopek  	# běžně používáné jméno
-fullname: Ing. Petr Ťopek  	# jméno s tituly etc.
+titles:
+  before: Ing.
+  after:
 category:                   # kategorie: clenove
 
 

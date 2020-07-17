@@ -1,7 +1,9 @@
 ---
 uid: miloslava.kolackova
 name:     Miloslava Koláčková  	# běžně používáné jméno
-fullname: Miloslava Koláčková 	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
 
 

@@ -1,7 +1,9 @@
 ---
 uid: patrik.marcian
 name:     Patrik Marcián  	# běžně používáné jméno
-fullname: Patrik Marcián  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
 
 
