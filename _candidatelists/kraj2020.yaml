@@ -67,7 +67,7 @@ head:
       profession: zastupitel Stupavy, rozpočtář
       city: Stupava
       partyUid: pirati
-tail:
+
     - uid: jaroslav.takac
       position: 10
       name: Jaroslav Takáč
@@ -89,6 +89,7 @@ tail:
       profession: zastupitel UH, starosta a správce T. J. Sokol Uherské Hradiště
       city: Uherské Hradiště
       partyUid: pirati
+tail:      
     - uid: pavel.beznoska
       position: 13
       name: Ing. Pavel Beznoska

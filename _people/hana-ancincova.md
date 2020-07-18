@@ -8,7 +8,7 @@ category:                   # kategorie: clenove
 
 img: people/hana-ancincova.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: finanční analytička, lídr pro krajské volby <br>Hulín # kratký popis, max 160 znaků
+description: finanční analytička, lídr pro krajské volby # kratký popis, max 160 znaků
 mail:
 - hana.ancincova@pirati.cz
 profiles:
