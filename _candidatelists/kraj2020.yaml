@@ -4,12 +4,12 @@ uid: kraj2020
 # number: 13
 leader:
     - uid: hana.ancincova
-    position: 1
-    name: Bc. Hana Ančincová
-#    age: 0
-    profession: lídr pro krajské volby, finanční analytička
-    city: Hulín
-    partyUid: pirati
+      position: 1
+      name: Bc. Hana Ančincová
+#      age: 0
+      profession: lídr pro krajské volby, finanční analytička
+      city: Hulín
+      partyUid: pirati
 head:
     - uid: jiri.jaros
       position: 2
