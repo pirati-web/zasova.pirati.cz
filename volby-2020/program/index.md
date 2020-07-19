@@ -2,6 +2,10 @@
 layout: page
 title: Krajský program Piráti 2020 
 ---
+<div class="mt-4 md:mt-8 space-y-4">
+  {% include buttons/icon.html icon="ico--chevron-right" cta="Program" class="btn--cyan-200 btn--hoveractive btn--fullwidth md:btn--autowidth text-lg" %}
+  {% include buttons/icon.html icon="ico--chevron-right" cta="Kandidáti" class="btn--blue-300 btn--hoveractive btn--fullwidth md:btn--autowidth text-lg" %}
+</div>
 ## Bezpečnost (garant Jiří Ducháček)
 #### 1. Podporujeme integrovaný záchranný systém kraje 
 Jeho jednotlivé složky s cílem zabezpečit dostatečný rozsah a dostupnost všech jeho součástí
