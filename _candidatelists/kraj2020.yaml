@@ -7,7 +7,7 @@ leader:
     position: 1
     name: Bc. Hana Ančincová
 #    age: 0
-    profession: lídr pro krajské volby, finanční analytička<br>Hulín 
+    profession: lídr pro krajské volby, finanční analytička
     city: Hulín
     partyUid: pirati
 head:
@@ -118,9 +118,9 @@ tail:
       profession: zastupitel Napajedel, elektrotechnik
       city: Napajedla
       partyUid: pirati
-    - uid: milan.klain
+    - uid: milan.klajn
       position: 17
-      name: Milan Klain
+      name: Milan Klajn
 #      age: 0
       profession: zastupitel Zlína, plavčík, terapeut
       city: Zlín
