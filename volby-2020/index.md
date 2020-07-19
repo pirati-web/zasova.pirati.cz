@@ -5,6 +5,7 @@ heroBgImg: articles/2020/kampan20/zahajenikampan.jpg
 campaignGroupUid: volby-2020
 campaignCategoryUid: kraj2020
 candidateListUid: kraj2020
+hideCandidateSocialProfiles: true
 ---
 
 <h2 class="head-alt-base md:head-alt-md mt-2">Šance změnit budoucnost</h2>
