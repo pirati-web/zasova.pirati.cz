@@ -10,7 +10,7 @@ leader:
     profession: lídr pro krajské volby, finanční analytička
     city: Hulín
     partyUid: pirati
-head:
+#head:
     - uid: jiri.jaros
       position: 2
       name: Ing. Jiří Jaroš
