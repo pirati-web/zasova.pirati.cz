@@ -3,14 +3,14 @@ title: Kandidátka do zastupitelstva Zlínského kraje
 uid: kraj2020
 # number: 13
 leader:
-    - uid: hana.ancincova
-      position: 1
-      name: Bc. Hana Ančincová
+    uid: hana.ancincova
+    position: 1
+    name: Bc. Hana Ančincová
 #    age: 0
-      profession: lídr pro krajské volby, finanční analytička
-      city: Hulín
-      partyUid: pirati
-# head:
+    profession: lídr pro krajské volby, finanční analytička
+    city: Hulín
+    partyUid: pirati
+head:
     - uid: jiri.jaros
       position: 2
       name: Ing. Jiří Jaroš
