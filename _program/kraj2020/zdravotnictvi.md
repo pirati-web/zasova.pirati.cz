@@ -4,7 +4,7 @@ campaignGroupUid: volby-2020
 uid: zdravotnictvi 
 order: 1
 title: Zdravotnictví
-#garant: jiri.duchacek 
+garant: hana.ancincova 
 #img: program2020/bezpecnost.jpg
 #perex: >
 #  [ text, který se zobrazí na přehledu programových bodů ]
