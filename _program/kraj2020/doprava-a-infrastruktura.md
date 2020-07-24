@@ -3,7 +3,7 @@ campaignCategoryUid: kraj2020
 campaignGroupUid: volby-2020
 uid: doprava-a-infrastruktura 
 order: 3
-title: Doprava a ifrastruktura
+title: Doprava a infrastruktura
 garant: daniel.lebduska 
 #img: program2020/finance.jpg
 #perex: >
