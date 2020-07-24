@@ -2,7 +2,7 @@
 campaignCategoryUid: kraj2020
 campaignGroupUid: volby-2020
 uid: socialni-veci
-order: 3
+order: 2
 title: Sociální věci
 garant: jiri.duchacek 
 #img: program2020/doprava.jpg
