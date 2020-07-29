@@ -5,10 +5,10 @@ uid: cestovni-ruch
 order: 10
 title: Cestovní ruch
 garant: daniel.lebduska 
-#img: volby-2020/prumysl-obchod-a-cestovni-ruch.jpg
+img: program2020/prumysl-obchod-a-cestovni-ruch.jpg
 #perex: >
-#  [ text, který se zobrazí na přehledu programových bodů ]
-#intro: [ text, který se zobrazí jako úvodní odstavec na detailu programového bodu ]
+  [ text, který se zobrazí na přehledu programových bodů ]
+intro: [ text, který se zobrazí jako úvodní odstavec na detailu programového bodu ]
 ---
 ## Hýčkání a rozvíjení klenotů Zlínského kraje
 Neopomeneme na největší turistické cíle Zlínského kraje a budeme spolupracovat na rozvíjení jejich potenciálu, abychom zájem turistů nasměrovali na neméně zajímavé lokality v blízkosti. Zasadíme se o to, abychom v nejnavštěvovanějších lokalitách připravili atraktivní program, a hlavně aby zde návštěvníci nezůstávali pouze jeden den, ale naplánovali si zde celou dovolenou.
