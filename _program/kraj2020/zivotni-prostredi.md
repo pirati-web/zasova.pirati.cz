@@ -5,7 +5,7 @@ uid: zivotni-prostredi
 order: 4
 title: Životní prostředí
 garant: daniel.lebduska 
-#img: program2020/finance.jpg
+img: program2020/prumysl-obchod-a-cestovni-ruch.jpg
 #perex: >
 #  [ text, který se zobrazí na přehledu programových bodů ]
 #intro: [ text, který se zobrazí jako úvodní odstavec na detailu programového bodu ]
