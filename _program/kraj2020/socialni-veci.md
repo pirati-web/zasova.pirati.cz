@@ -5,7 +5,7 @@ uid: socialni-veci
 order: 2
 title: Sociální věci
 garant: jiri.duchacek 
-img: program2020/prumysl-obchod-a-cestovni-ruch.jpg
+img: program2020/socialni-veci.png
 #perex: >
 #  [ text, který se zobrazí na přehledu programových bodů ]
 #intro: [ text, který se zobrazí jako úvodní odstavec na detailu programového bodu ]
