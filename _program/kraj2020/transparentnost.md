@@ -5,7 +5,7 @@ uid: transparentnost
 order: 6
 title: Transparentnost
 garant: daniel.lebduska 
-img: program2020/prumysl-obchod-a-cestovni-ruch.jpg
+img: program2020/transparentnost.png
 #perex: >
 #  [ text, který se zobrazí na přehledu programových bodů ]
 #intro: [ text, který se zobrazí jako úvodní odstavec na detailu programového bodu ]
