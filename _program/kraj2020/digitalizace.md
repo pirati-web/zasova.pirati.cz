@@ -5,7 +5,7 @@ uid: digitalizace
 order: 5
 title: Digitalizace
 garant: lenka.spanihelova 
-img: program2020/prumysl-obchod-a-cestovni-ruch.jpg
+img: program2020/digitalizace.png
 #perex: >
 #  [ text, který se zobrazí na přehledu programových bodů ]
 #intro: [ text, který se zobrazí jako úvodní odstavec na detailu programového bodu ]
