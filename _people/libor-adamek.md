@@ -8,7 +8,7 @@ category:                   # kategorie: clenove
 
 
 img: people/libor-adamek.jpg   # 165 x 220
-heroImg: articles/2020/kampan20/zahajenikampan1.jpg
+heroImg: articles/lide/hero-libor-adamek.jpg
 description: zastupitel Rožnova pod Radhoštěm<br>prodejce kancelářské techniky<br>Rožnov p.R. # kratký popis, max 160 znaků
 mail:
 - libor.adamek@pirati.cz
