@@ -6,8 +6,8 @@ order: 10
 title: Cestovní ruch
 garant: daniel.lebduska 
 img: program2020/cestovni-ruch.png
-perex: >
-  [ text, který se zobrazí na přehledu programových bodů ]
+#perex: >
+#  [ text, který se zobrazí na přehledu programových bodů ]
 #intro: [ text, který se zobrazí jako úvodní odstavec na detailu programového bodu ]
 ---
 ## Hýčkání a rozvíjení klenotů Zlínského kraje
