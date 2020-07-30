@@ -5,7 +5,7 @@ uid: zdravotnictvi
 order: 1
 title: Zdravotnictví
 garant: hana.ancincova 
-img: program2020/prumysl-obchod-a-cestovni-ruch.jpg
+img: program2020/zdravotnictvi.png
 #perex: >
 #  [ text, který se zobrazí na přehledu programových bodů ]
 #intro: [ text, který se zobrazí jako úvodní odstavec na detailu programového bodu ]
