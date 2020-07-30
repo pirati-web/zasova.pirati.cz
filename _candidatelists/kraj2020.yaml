@@ -6,7 +6,7 @@ leader:
     uid: hana.ancincova
     position: 1
     name: Bc. Hana Ančincová
-#    age: 0
+    age: 31
     profession: lídr pro krajské volby, finanční analytička
     city: Hulín
     partyUid: pirati
@@ -14,56 +14,56 @@ head:
     - uid: jiri.jaros
       position: 2
       name: Ing. Jiří Jaroš
-#      age: 0
+      age: 45
       profession: radní Zlína, IT technik
       city: Zlín
       partyUid: pirati
     - uid: denis.rychtar
       position: 3
       name: Denis Rychtar
-#      age: 50
+      age: 30
       profession: zastupitel Valašského Meziříčí, chemik - velinář
       city: Valašské Meziříčí
       partyUid: pirati
     - uid: jakub.zach
       position: 4
       name: Ing. arch. Jakub Zach
-#      age: 0
+      age: 36
       profession: architekt
       city: Kroměříž
       partyUid: pirati
     - uid: zuzana.fiserova
       position: 5
       name: Ing. Mgr. Zuzana Fišerová, Ph.D.
-#      age: 0
+      age: 40
       profession: zastupitelka Zlína, ekonomka
       city: Zlín
       partyUid: pirati
     - uid: jiri.knotek
       position: 6
       name: Jiří Knotek
-      #      age: 0
+      age: 22
       profession: student politologie na UPOL
       city: Uherské Hradiště
       partyUid: pirati
     - uid: marek.houser
       position: 7
       name: Marek Houser
-#      age: 0
+      age: 31
       profession: marketingový specialista
       city: Uherské Hradiště
       partyUid: pirati
     - uid: vratislav.krejcir
       position: 8
       name: Vratislav Krejčíř
-#      age: 0
+      age: 38
       profession: místostarosta Kroměříže
       city: Kroměříž
       partyUid: pirati
     - position: 9
       uid: lubomir.dolezal
       name: Lubomír Doležal
-#      age: 0
+      age: 36
       profession: zastupitel Stupavy, rozpočtář
       city: Stupava
       partyUid: pirati
@@ -71,21 +71,21 @@ head:
     - uid: jaroslav.takac
       position: 10
       name: Jaroslav Takáč
-#      age: 0
+      age: 42
       profession: stavbyvedoucí
       city: Holešov
       partyUid: pirati
     - uid: jana.skopalova
       position: 11
       name: Ing. Jana Skopalová
-      #      age: 0
+      age: 39
       profession: specialista poprodejní péče, auditor vnitřních procesů
       city: Kroměříž
       partyUid: pirati
     - uid: jaroslav.sevcik
       position: 12
       name: Jaroslav Ševčík
-#      age: 0
+      age: 34
       profession: zastupitel UH, starosta a správce T. J. Sokol UH
       city: Uherské Hradiště
       partyUid: pirati
@@ -93,189 +93,189 @@ tail:
     - uid: pavel.beznoska
       position: 13
       name: Ing. Pavel Beznoska
-#      age: 0
+      age: 42
       profession: zastupitel Otrokovic, account manager
       city: Otrokovice
       partyUid: pirati
     - uid: zdenek.tros
       position: 14
       name: Zdeněk Třos
-#      age: 0
+      age: 38
       profession: OSVČ, jednatel
       city: Rožnov p.R.
       partyUid: pirati
     - uid: renata.gehringer
       position: 15
       name: Mgr. Bc. Renata Gehringer
-#      age: 0
+      age: 50
       profession: středoškolský pedagog
       city: Valašské Meziříčí
       partyUid: bezpp
     - uid: michal.stepanik
       position: 16
       name: Michal Štěpaník
-#      age: 0
+      age: 42
       profession: zastupitel Napajedel, elektrotechnik
       city: Napajedla
       partyUid: pirati
     - uid: milan.klajn
       position: 17
       name: Milan Klajn
-#      age: 0
+      age: 43
       profession: zastupitel Zlína, plavčík, terapeut
       city: Zlín
       partyUid: pirati
     - uid: jiri.robenek
       position: 18
       name: Jiří Robenek
-#      age: 0
+      age: 30
       profession: OSVČ, SEO specialista
       city: Zlín - Malenovice
       partyUid: bezpp
     - uid: tomas.holomel
       position: 19
       name: Ing. Tomáš Holomel
-#      age: 0
+      age: 29
       profession: zákaznický technolog
       city: Hulín
       partyUid: pirati
     - uid: kamil.podlas
       position: 20
       name: Kamil Podlas
-#      age: 0
+      age: 32
       profession: kontrolor kvality
       city: Hvozdná
       partyUid: pirati
     - uid: kristyna.lajmarova
       position: 21
       name: Bc. Kristýna Lajmarová
-#      age: 0
+      age: 25
       profession: Ortotik - protetik, fotograf
       city: Kroměříž
       partyUid: bezpp
     - uid: petr.tomasu
       position: 22
       name: Petr Tomášů
-#      age: 0
+      age: 27
       profession: předseda komise rady obce Jalubí, podnikatel
       city: Jalubí
       partyUid: bezpp
     - uid: dominik.zavadil
       position: 23
       name: Dominik Zavadil
-#      age: 0
+      age: 28
       profession: strojvedoucí
       city: Kroměříž
       partyUid: pirati
     - uid: pavel.manasek
       position: 24
       name: Ing. Pavel Maňásek
-#      age: 0
+      age: 49
       profession: podnikatel ve wellnes
       city: Zlín
       partyUid: bezpp
     - uid: radek.nohavica
       position: 25
       name: Ing. Radek Nohavica
-#      age: 0
+      age: 24
       profession: čerstvý absolvent VUT Brono, komentátor, trenér
       city: Vsetín
       partyUid: pirati
     - uid: martina.urbankova
       position: 26
       name: Martina Urbánková
-#      age: 0
+      age: 38
       profession: backoffice manager
       city: Zlín
       partyUid: pirati
     - uid: petr.stoklasa
       position: 27
       name: Petr Stoklasa
-#      age: 0
+      age: 40
       profession: zastupitel Kroměříže, obchodník
       city: Kroměříž
       partyUid: pirati
     - uid: martin.latal
       position: 28
       name: Martin Látal
-#      age: 0
+      age: 37
       profession: autoelektrikář
       city: Kroměříž
       partyUid: pirati
     - uid: martin.valasek
       position: 29
       name: Martin Valášek
-#      age: 0
+      age: 54
       profession: hudební dramaturg v kulturní agentuře
       city: Valašská Bystřice
       partyUid: pirati
     - uid: tomas.cabla
       position: 30
       name: Tomáš Čabla
-#      age: 0
+      age: 41
       profession: zastupitel Napajedel, provozní hotelu
       city: Napajedla
       partyUid: pirati
     - uid: jaromir.slezak
       position: 31
       name: Jaromír Slezák
-#     age: 0
+      age: 32
       profession: zastupitel Vizovic, disponent zahraniční kamionové dopravy
       city: Vizovice
       partyUid: pirati
     - uid: andrea.mareckova
       position: 32
       name: Ing. Andrea Marečková
-#      age: 0
+      age: 41
       profession: obchodník ve strojírenském průmyslu
       city: Bystřice pod Hostýnem
       partyUid: pirati
     - uid: ondrej.bisaha
       position: 33
       name: Ing. Ondřej Bisaha, DiS.
-#      age: 0
+      age: 38
       profession: ekonom, sportovec
       city: Želechovice nad Dřevnicí
       partyUid: pirati
     - uid: libor.adamek
       position: 34
       name: Libor Adámek
-#      age: 0
+      age: 48
       profession: zastupitel Rožnova p.R., prodejce kancelářské techniky
       city: Rožnov p.R.
       partyUid: pirati
     - uid: petr.topek
       position: 35
       name: Ing. Petr Ťopek
-#      age: 0
+      age: 54
       profession: 2. místostarosta Otrokovic, obchodní manager
       city: Otrokovice
       partyUid: bezpp
     - uid: petr.havlik
       position: 36
       name: Ing. Petr Havlík
-#      age: 0
+      age: 53
       profession: správce sítě IT
       city: Kroměříž
       partyUid: pirati
     - uid: frantisek.prachman
       position: 37
       name: František Prachman
-#      age: 0
+      age: 54
       profession: kameraman
       city: Uherské Hradiště
       partyUid: bezpp
     - uid: marek.pochyly
       position: 38
       name: Marek Pochylý
-#      age: 0
+      age: 31
       profession: OSVČ, IT specialista
       city: Uherské Hradiště
       partyUid: bezpp
     - uid: dusan.jurcik
       position: 39
       name: Dušan Jurčík
-#      age: 0
+      age: 38
       profession: strojvedoucí
       city: Uherské Hradiště
       partyUid: pirati
@@ -283,28 +283,28 @@ tail:
     - uid: jiri.blazek
       position: 40
       name: Ing. Jiří Blažek
-#      age: 0
+      age: 64
       profession: jednatel společnosti
       city: Zlín
       partyUid: bezpp
     - uid: katka.ruzickova
       position: 41
       name: Ing. Katka Růžičková
-#      age: 0
+      age: 32
       profession: vedoucí městského informačního centra v Kunovicích
       city: Zlín
       partyUid: bezpp
     - uid: matej.krajca
       position: 42
       name: Matěj Krajča
-#      age: 0
+      age: 23
       profession: bankovní specialista, člen Komise životního prostředí ve Zlíně
       city: Zlín
       partyUid: pirati
     - uid: petr.lusovsky
       position: 43
       name: Ing. Petr Lušovský
-#      age: 0
+      age: 27
       profession: manager e-shopu s oděvy
       city: Rožnov p. R.
       partyUid: pirati
@@ -312,14 +312,14 @@ tail:
     - uid: rostislav.slobodian
       position: 44
       name: Ing. Rostislav Slobodian
-#      age: 0
+      age: 28
       profession: manažer
       city: Zlín
       partyUid: bezpp
     - uid: frantisek.elfmark
       position: 45
       name: Bc. František Elfmark, DiS.
-#      age: 0
+      age: 41
       profession: pirátský poslanec za Zlínský kraj
       city: Uherské Hradiště
       partyUid: pirati
