@@ -5,7 +5,7 @@ uid: doprava-a-infrastruktura
 order: 3
 title: Doprava a infrastruktura
 garant: daniel.lebduska 
-img: program2020/prumysl-obchod-a-cestovni-ruch.jpg
+img: program2020/doprava-infrastruktura.png
 #perex: >
 #  [ text, který se zobrazí na přehledu programových bodů ]
 #intro: [ text, který se zobrazí jako úvodní odstavec na detailu programového bodu ]
