@@ -6,9 +6,18 @@ campaignGroupUid: volby-2020
 campaignCategoryUid: kraj2020
 candidateListUid: kraj2020
 hideCandidateSocialProfiles: true
+customizeHeader: true
 ---
+{% assign candidates = site.candidatelists | where: "uid", page.candidateListUid | first %}
+{% capture mainContent %}
+  <h1 class="head-alt-lg md:head-alt-xl text-center">Krajské volby 2020</h1>
+{% endcapture %}
 
-<h2 class="head-alt-base md:head-alt-md mt-2">Šance změnit budoucnost</h2>
+{% capture subContent %}
+  <h2 class="head-xs md:head-base mt-2 text-center">Šance <strong>změnit budoucnost</strong></h2>
+{% endcapture %}
+
+{% include elections-header.html img=page.img bgImg=page.heroBgImg mainContent=mainContent subContent=subContent candidateListNumber=candidates.number %}
 
 <!-- <div class="mt-4 md:mt-8 space-y-4">
   {% include buttons/icon.html icon="ico--chevron-right" cta="Program" class="btn--cyan-200 btn--hoveractive btn--fullwidth md:btn--autowidth text-lg" %}
