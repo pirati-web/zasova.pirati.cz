@@ -25,6 +25,9 @@ main:
   - link: /volby-2020/
     name: Krajské volby
     match: volby-2020
+  - link: /kde-jsme/
+    name: Kde jsme?
+    match: kde-jsme  
   # - link: /volby-2018/
   #   name: Volby 2018
   #   match: volby-2018
