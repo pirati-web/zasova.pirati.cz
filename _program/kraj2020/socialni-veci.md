@@ -6,8 +6,9 @@ order: 2
 title: Sociální věci
 garant: jiri.duchacek 
 img: program2020/socialni-veci.png
-#perex: >
-#  [ text, který se zobrazí na přehledu programových bodů ]
+perex: >
+  Zlínský kraj potřebuje péči, nejen zdravotnickou ale tako sociální. Podpoříme lepší rozzložení sociální péče, víme jak na to.
+
 #intro: [ text, který se zobrazí jako úvodní odstavec na detailu programového bodu ]
 ---
 ## Navýšíme kapacitu domovů se zvláštním režimem a pobytových zařízeních pro seniory 

@@ -6,8 +6,10 @@ order: 4
 title: Životní prostředí
 garant: daniel.lebduska 
 img: program2020/zivotni-prostredi.png
-#perex: >
-#  [ text, který se zobrazí na přehledu programových bodů ]
+perex: >
+  Navrátíme vodu tam kde vždycky byla. Je pro nás prioritou, aby stejně tak jako budou spokojení občané, byla spokojená také příroda v našem kraji.
+
+
 #intro: [ text, který se zobrazí jako úvodní odstavec na detailu programového bodu ]
 ---
 ## Budeme prosazovat obnovu a revitalizaci rybníků, meandrů, lužních lesů či poldrů

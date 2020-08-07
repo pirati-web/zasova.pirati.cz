@@ -6,8 +6,9 @@ order: 7
 title: Finance
 garant: daniel.lebduska 
 img: program2020/finance.png
-#perex: >
-#  [ text, který se zobrazí na přehledu programových bodů ]
+perex: >
+  Můžeme přilákat investory do našeho kraje, víme, kde začít. Myslíme si, že právě toto je jedna z klíčových rolí kraje, vytvořit dobré podmínky pro bezproblémové podnikání.
+
 #intro: [ text, který se zobrazí jako úvodní odstavec na detailu programového bodu ]
 ---
 ## Zasadíme se o vyrovnaný rozpočet kraje

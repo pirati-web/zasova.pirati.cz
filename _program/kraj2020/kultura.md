@@ -6,8 +6,9 @@ order: 9
 title: Kultura
 garant: daniel.lebduska 
 img: program2020/kultura.png
-#perex: >
-#  [ text, který se zobrazí na přehledu programových bodů ]
+perex: >
+  Kina, spolky nebo divadla? To přeci ke Zlínskému kraji neodmyslitelně patří. Udržení tohoto fenoménu musí kraj zajistit. 
+
 #intro: [ text, který se zobrazí jako úvodní odstavec na detailu programového bodu ]
 ---
 ## Zajistíme podporu kulturního vyžití i v odlehlých částech krajů

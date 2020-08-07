@@ -6,8 +6,9 @@ order: 3
 title: Doprava a infrastruktura
 garant: daniel.lebduska 
 img: program2020/doprava-infrastruktura.png
-#perex: >
-#  [ text, který se zobrazí na přehledu programových bodů ]
+perex: >
+  Jeden lístek vládne všem jeden jim všem káže! Jet na jeden lístek po celém kraji nemusí být sci-fi jako Pán Prstenů, chceme, aby to byla realita.
+
 #intro: [ text, který se zobrazí jako úvodní odstavec na detailu programového bodu ]
 ---
 ## Dostavba silnic a dálnic v našem kraji je naše priorita

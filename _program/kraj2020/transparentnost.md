@@ -6,8 +6,9 @@ order: 6
 title: Transparentnost
 garant: daniel.lebduska 
 img: program2020/transparentnost.png
-#perex: >
-#  [ text, který se zobrazí na přehledu programových bodů ]
+perex: >
+  Kraj musí vykazovat jak činnost, tak také přehled financí. Jsme to my, kteří jej financují. Chceme proto vidět, jaký je kraj hospodář. 
+
 #intro: [ text, který se zobrazí jako úvodní odstavec na detailu programového bodu ]
 ---
 ## Zveřejníme vše, co můžeme nikoliv, co musíme

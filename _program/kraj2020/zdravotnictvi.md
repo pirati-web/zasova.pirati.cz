@@ -7,7 +7,8 @@ title: Zdravotnictví
 garant: hana.ancincova 
 img: program2020/zdravotnictvi.png
 perex: >
-  [ text, který se zobrazí na přehledu programových bodů ]
+  Chceme rovnoměrně rozložené zdravotnictví. Zajistíme, aby bylo zdravotnictví stále v dojezdové vzdálenosti stejně tak v Rožnově pod Radhoštěm jako ve Zlíně. 
+
 #intro: [ text, který se zobrazí jako úvodní odstavec na detailu programového bodu ]
 ---
 ## Podpoříme rovnoměrně rozloženou péči v celém kraji

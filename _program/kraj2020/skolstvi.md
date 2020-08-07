@@ -6,8 +6,9 @@ order: 8
 title: Školství
 garant: daniel.lebduska 
 img: program2020/skolstvi.png
-#perex: >
-#  [ text, který se zobrazí na přehledu programových bodů ]
+perex: >
+  Vzdělání je základ, my to víme, podpoříme studentské projekty a vytvoříme jim možnost praxe, která je v dnešní době důležitá. 
+
 #intro: [ text, který se zobrazí jako úvodní odstavec na detailu programového bodu ]
 ---
 ## Podpoříme vzdělávací projekty

@@ -6,8 +6,9 @@ order: 5
 title: Digitalizace
 garant: lenka.spanihelova 
 img: program2020/digitalizace.png
-#perex: >
-#  [ text, který se zobrazí na přehledu programových bodů ]
+perex: >
+  Mít kraj 21. století, to je oč tu běží. Díky menší úrovni byrokracie by pro občany nemělo být vyřizování si nové občanky za trest.
+
 #intro: [ text, který se zobrazí jako úvodní odstavec na detailu programového bodu ]
 ---
 ## Snížíme byrokracii a zefektivníme práci na úřadě
