@@ -6,7 +6,7 @@ order: 1
 title: Zdravotnictví
 garant: hana.ancincova 
 img: program2020/zdravotnictvi.png
-#erex: >
+perex: >
   [ text, který se zobrazí na přehledu programových bodů ]
 #intro: [ text, který se zobrazí jako úvodní odstavec na detailu programového bodu ]
 ---
