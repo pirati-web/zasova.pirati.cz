@@ -1,5 +1,5 @@
 ---
-layout: pirate-center
+layout: blank-article
 title: Informace pro zájemce o členství
 ---
 
