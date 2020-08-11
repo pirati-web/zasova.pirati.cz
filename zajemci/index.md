@@ -1,6 +1,9 @@
 ---
 layout: pirate-center
-title: Informace pro zájemce o členství
+heroHeadline: Zájemci o členství
+heroDescription: Informace a postup pro zájemce o členství
+img: pardupice/1.jpg
+addressNote: zatím nemáme krajskou adresu 
 contactPersons:
   - id: yveta.martinkova
     description: Krajská koordinátorka
@@ -52,7 +55,7 @@ Pokud se chceš stát členem, už jsi pravděpodobně registrovaným příznivc
 # Po přijetí
 
 * Tvůj login pro přihlášení na fórum se změní na Jmeno.Prijmeni.
-* Máš [e-mail a jabber](https://www.pirati.cz/to/navody/email) ve tvaru jmeno.prijmeni@pirati.cz.
+* Máš [e-mail](https://www.pirati.cz/to/navody/email) ve tvaru jmeno.prijmeni@pirati.cz.
 * Můžeš hlasovat na místním, krajském nebo celostátním fóru.
 * Můžeš kandidovat do libovolných funkcí ve [stranických orgánech](https://www.pirati.cz/rules/organizace).
 
