@@ -1,6 +1,9 @@
 ---
-layout: blank-article
+layout: pirate-center
 title: Informace pro zájemce o členství
+contactPersons:
+  - id: yveta.martinkova
+    description: Krajská koordinátorka
 ---
 
 # Vítáme tě u Pirátů!
