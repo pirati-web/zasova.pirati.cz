@@ -54,20 +54,11 @@ Pokud se chceš stát členem, už jsi pravděpodobně registrovaným příznivc
 
 # Po přijetí
 
-<ol>
- <li>Tvůj login pro přihlášení na fórum se změní na Jmeno.Prijmeni.</li>
- <li>Máš <a href="https://www.pirati.cz/to/navody/email">e-mail</a> ve tvaru jmeno.prijmeni@pirati.cz </li>
- <li>Můžeš hlasovat na místním, krajském nebo celostátním fóru. </li>
- <li>Můžeš kandidovat do libovolných funkcí ve <a href="https://www.pirati.cz/rules/organizace">stranických orgánech</a>[stranických orgánech]. </li>
-</ol>
+
 
 # Hlavní informační systémy Pirátů
 
-<ol>
- <li>V <a href="https://forum.pirati.cz">internetovém foru</a> najdeš hlasování, podněty a přípravy pro tiskové zprávy nebo pro přijímání členů. Jedná se o místo pro pracovní diskusi strany obecně. Neužívá se však jako chat. Viz také <a href="https://www.pirati.cz/ao/pravidla/forum">pravidla fóra</a>.</li>
- <li>Web centrální - <a href="https://www.pirati.cz">www.pirati.cz</a> a krajský - <a href="https://www.zlinsky.pirati.cz">www.zlinsky.pirati.cz</a>. Tady prezentujeme program, předpisy, usnesení, zápisy i výstupy z diskuzí na fóru.</li>
- <li>Kalendář <a href="https://kalendar.pirati.cz">centrální</a>. Sem vkládáme všechny happeningy, schůze, zasedání a další významné akce. Pokud bys měl vlastní návrh, kontaktuj našeho koordinátora.</li>
-</ol>
+
 
 Pokud máš zájem, můžeš si přečíst [návod pro nováčky](https://www.pirati.cz/po/vzdelavani/uvod_do_piratu), [obecné návody](https://www.pirati.cz/po/vzdelavani#vzdelavani_clenu) a návody [technického rázu](https://www.pirati.cz/to/navody/start).
 
