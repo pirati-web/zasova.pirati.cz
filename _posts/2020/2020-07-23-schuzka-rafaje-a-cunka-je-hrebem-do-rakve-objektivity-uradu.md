@@ -5,7 +5,7 @@ title: 'Hana Ančincová: Schůzka Rafaje a Čunka je hřebem do rakve objektivi
 date: 2020-07-23
 author: Hana Ančincová
 authorId: hana.ancincova
-image: /assets/img/posts/hanarafaj.jpg
+image: posts/hanarafaj.jpg
 tags: 
 - zlinsky-kraj
 - zlin
