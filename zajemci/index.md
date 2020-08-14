@@ -3,7 +3,8 @@ layout: pirate-center
 heroHeadline: Zájemci o členství
 heroDescription: Informace a postup pro zájemce o členství
 img: pardupice/1.jpg
-addressNote: zatím nemáme krajskou adresu 
+addressNote: zatím nemáme krajskou adresu
+             najdeš nás na našich schůzích nebo akcích 
 contactPersons:
   - id: yveta.martinkova
     description: Krajská koordinátorka
