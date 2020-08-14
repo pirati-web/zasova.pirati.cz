@@ -6,8 +6,8 @@ order: 11
 title: Sport
 garant: daniel.lebduska 
 img: program2020/sport.png
-#perex: >
-#  [ text, který se zobrazí na přehledu programových bodů ]
+perex: >
+  Školní kroužky, hřiště a férové dotace? To si zaslouží sport ve Zlínském kraji. Podpoříme sportovní vyžití u těch nejmenších, ale i seniorů.
 #intro: [ text, který se zobrazí jako úvodní odstavec na detailu programového bodu ]
 ---
 ## Podporujeme sport a volnočasové aktivity napříč krajem
