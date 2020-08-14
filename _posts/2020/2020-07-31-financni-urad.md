@@ -9,6 +9,8 @@ image: posts/FU.jpg
 tags: 
 - zlinsky-kraj
 - denis-rychtar
+
+important: true
 ---
 Zakleknutí Finančního úřadu v posledních letech slýcháváme stále častěji, a to díky odvážným podnikatelům, kterým už došla trpělivost, jak s nimi tyto úřady jednají a zachází. Je spousta podnikatelů, kteří tu odvahu soudit se proti postupům finančního úřadu neměli a ten pak i přes nevhodné zásahy mohl být z obliga. 
 

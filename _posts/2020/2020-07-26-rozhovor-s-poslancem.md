@@ -70,8 +70,10 @@ Občanům bych vzkázal, aby nechodili s klapkami na očích, vzájemně si nasl
 
 ## Bc. František Elfmark, Dis.
 
-* Poslanec ČR, člen Výboru pro životní prostředí a Petičního výboru, zastupitel města Uherské Hradiště, 1. místopředseda Pirátů ve Zlínském kraji.
-* Regionální kancelář provozuje ve svém rodném městě v Uherském Hradišti.
-* Je znám svou pracovitostí, velmi aktivní je směrem k veřejnosti: pořádá diskusní setkání, pomáhá občanům s jejich problémy, píše pravidelný blog [www.frantisekelfmark.cy](www.frantisekelfmark.cz){:target="_blank"} a spoustu názorů, včetně reportů ze sněmovny vkládá na sociální sítě.
-* Profesí: grafik, ajťák, kreativec, podnikatel v oblasti webdesignu, zakladatel spolku Přátelé zpětné vazby (podpora začínajících a amatérských hudebních a uměleckých skupin na Slovácku), zakladatel online “blešáku” [Uháčko.cz](https://www.uhacko.cz/){:target="_blank"}
-* Ve volném čase se věnuje především rodině, chalupaření, kutilství, čtení knih, fotografování, kreslení a již od útlého dětství hudbě.
+<ul>
+    <li><span>Poslanec ČR, člen Výboru pro životní prostředí a Petičního výboru, zastupitel města Uherské Hradiště, 1. místopředseda Pirátů ve Zlínském kraji.</span></li>
+    <li><span>Regionální kancelář provozuje ve svém rodném městě v Uherském Hradišti.</span></li>
+    <li><span> Je znám svou pracovitostí, velmi aktivní je směrem k veřejnosti: pořádá diskusní setkání, pomáhá občanům s jejich problémy, píše pravidelný blog  <a href="www.frantisekelfmark.cz">www.frantisekelfmark.cz</a> a spoustu názorů, včetně reportů ze sněmovny vkládá na sociální sítě.</span></li>
+	<li><span>Profesí: grafik, ajťák, kreativec, podnikatel v oblasti webdesignu, zakladatel spolku Přátelé zpětné vazby (podpora začínajících a amatérských hudebních a uměleckých skupin na Slovácku), zakladatel online “blešáku”  <a href="https://www.uhacko.cz/">Uháčko.cz</a></span></li>
+	<li><span>Ve volném čase se věnuje především rodině, chalupaření, kutilství, čtení knih, fotografování, kreslení a již od útlého dětství hudbě.</span></li>
+ </ul> 
