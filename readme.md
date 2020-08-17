@@ -2,15 +2,7 @@
 
 Články řadit do adresářů podle roků.
 Zvýraznění článku: pod tagy u článku dopsat `important: true`
-BUG: v odrážkovém seznamu, pokud jsou v textu i odkazy, je chyba a odkazy odskakují, nutné je takový seznam napsat v html a text je nutný dát do `span`
-   např. 
-```   
- <ul>
-    <li><span>Coffee</span></li>
-    <li><span>Tea</span></li>
-    <li><span>Milk</span></li>
- </ul> 
-```
+
 
 
 # pardubicky.pirati.cz
