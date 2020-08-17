@@ -11,6 +11,7 @@ tags:
 - krajske-volby
 - jakub-zach
 - doprava
+important: true
 ---
 Česká republika a jednotlivé kraje jsou pozadu se zaváděním nových technologií usnadňující práci s daty, plynulosti dopravy a její optimalizaci a řízení. Zlínský kraj bohužel nevyjímaje. Zavádění IDS (integrovaný dopravní systém) Zlínského kraje drhne, a to i kvůli rozporuplnému výběrovému řízení na krajského dopravce, kdy toto výběrové řízení šetřil i UOHS. 
 

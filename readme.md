@@ -3,6 +3,8 @@
 Články řadit do adresářů podle roků.
 Zvýraznění článku: pod tagy u článku dopsat `important: true`
 
+Obrázky kolem 150kB, větší rozlišení nemá smysl a žere lidem data!
+
 
 
 # pardubicky.pirati.cz
