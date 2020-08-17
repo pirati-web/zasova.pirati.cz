@@ -4,7 +4,7 @@ campaignGroupUid: volby-2020
 uid: cestovni-ruch
 order: 10
 title: Cestovní ruch
-garant: daniel.lebduska 
+garant: zuzana.fiserova 
 img: program2020/cestovni-ruch.png
 perex: >
   Hýčkejme si náš kraj a rozvíjejme jeho klenoty! Podpoříme vznik nových stezek, trailů a podpoříme udržitelný cestovní ruch po celou sezonu.

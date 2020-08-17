@@ -4,7 +4,7 @@ campaignGroupUid: volby-2020
 uid: doprava-a-infrastruktura 
 order: 3
 title: Doprava a infrastruktura
-garant: daniel.lebduska 
+garant: jakub.zach 
 img: program2020/doprava-infrastruktura.png
 perex: >
   Jeden lístek vládne všem jeden jim všem káže! Jet na jeden lístek po celém kraji nemusí být sci-fi jako Pán Prstenů, chceme, aby to byla realita.

@@ -4,7 +4,7 @@ campaignGroupUid: volby-2020
 uid: socialni-veci
 order: 2
 title: Sociální věci
-garant: jiri.duchacek 
+garant: hana.ancincova 
 img: program2020/socialni-veci.png
 perex: >
   Zlínský kraj potřebuje péči, nejen zdravotnickou ale tako sociální. Podpoříme lepší rozzložení sociální péče, víme jak na to.

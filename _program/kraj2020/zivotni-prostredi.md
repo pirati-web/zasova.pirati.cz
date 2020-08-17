@@ -4,7 +4,7 @@ campaignGroupUid: volby-2020
 uid: zivotni-prostredi 
 order: 4
 title: Životní prostředí
-garant: daniel.lebduska 
+garant: denis.rychtar 
 img: program2020/zivotni-prostredi.png
 perex: >
   Navrátíme vodu tam kde vždycky byla. Je pro nás prioritou, aby stejně tak jako budou spokojení občané, byla spokojená také příroda v našem kraji.

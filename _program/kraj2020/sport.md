@@ -4,7 +4,7 @@ campaignGroupUid: volby-2020
 uid: sport
 order: 11
 title: Sport
-garant: daniel.lebduska 
+garant: marek.houser 
 img: program2020/sport.png
 perex: >
   Školní kroužky, hřiště a férové dotace? To si zaslouží sport ve Zlínském kraji. Podpoříme sportovní vyžití u těch nejmenších, ale i seniorů.

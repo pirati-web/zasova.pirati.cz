@@ -4,7 +4,7 @@ campaignGroupUid: volby-2020
 uid: transparentnost
 order: 6
 title: Transparentnost
-garant: daniel.lebduska 
+garant: vratislav.krejcir 
 img: program2020/transparentnost.png
 perex: >
   Kraj musí vykazovat jak činnost, tak také přehled financí. Jsme to my, kteří jej financují. Chceme proto vidět, jaký je kraj hospodář. 

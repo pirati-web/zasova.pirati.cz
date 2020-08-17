@@ -4,7 +4,7 @@ campaignGroupUid: volby-2020
 uid: kultura
 order: 9
 title: Kultura
-garant: daniel.lebduska 
+garant: jiri.knotek 
 img: program2020/kultura.png
 perex: >
   Kina, spolky nebo divadla? To přeci ke Zlínskému kraji neodmyslitelně patří. Udržení tohoto fenoménu musí kraj zajistit. 

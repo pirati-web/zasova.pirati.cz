@@ -4,7 +4,7 @@ campaignGroupUid: volby-2020
 uid: skolstvi
 order: 8
 title: Školství
-garant: daniel.lebduska 
+garant: hana.ancincova
 img: program2020/skolstvi.png
 perex: >
   Vzdělání je základ, my to víme, podpoříme studentské projekty a vytvoříme jim možnost praxe, která je v dnešní době důležitá. 

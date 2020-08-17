@@ -4,7 +4,7 @@ campaignGroupUid: volby-2020
 uid: finance
 order: 7
 title: Finance
-garant: daniel.lebduska 
+garant: hana.ancincova 
 img: program2020/finance.png
 perex: >
   Můžeme přilákat investory do našeho kraje, víme, kde začít. Myslíme si, že právě toto je jedna z klíčových rolí kraje, vytvořit dobré podmínky pro bezproblémové podnikání.

@@ -4,7 +4,7 @@ campaignGroupUid: volby-2020
 uid: digitalizace
 order: 5
 title: Digitalizace
-garant: lenka.spanihelova 
+garant: jiri.jaros 
 img: program2020/digitalizace.png
 perex: >
   Mít kraj 21. století, to je oč tu běží. Díky menší úrovni byrokracie by pro občany nemělo být vyřizování si nové občanky za trest.
