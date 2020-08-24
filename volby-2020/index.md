@@ -15,11 +15,11 @@ customizeHeader: true
 
 {% capture subContent %}
   <h2 class="head-alt-base md:head-alt-md mt-2">Šance <strong>změnit budoucnost</strong></h2>
-  <div class="mt-4 md:mt-8 space-y-4">
+ {% endcapture %}
+<div class="mt-4 md:mt-8 space-y-4">
   {% include buttons/icon.html icon="ico--chevron-right" href="/volby-2020/povolebni-strategie-2020.md" cta="Povolební strategie" class="btn--cyan-200 btn--hoveractive btn--fullwidth md:btn--autowidth text-lg" %}
   {% include buttons/icon.html icon="ico--chevron-right" href="/volby-2020/kodex-2020.md" cta="Kodex kandidáta" class="btn--blue-300 btn--hoveractive btn--fullwidth md:btn--autowidth text-lg" %}
 </div> 
-{% endcapture %}
 
 {% include elections-header.html img=page.img bgImg=page.heroBgImg mainContent=mainContent subContent=subContent candidateListNumber=candidates.number %}
 
