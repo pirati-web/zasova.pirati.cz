@@ -19,7 +19,8 @@ hideCandidateSocialProfiles: true
 
 {% include elections-header.html img=page.img bgImg=page.heroBgImg mainContent=mainContent subContent=subContent candidateListNumber=candidates.number %}
 
-<!-- <div class="mt-4 md:mt-8 space-y-4">
-  {% include buttons/icon.html icon="ico--chevron-right" cta="Program" class="btn--cyan-200 btn--hoveractive btn--fullwidth md:btn--autowidth text-lg" %}
-  {% include buttons/icon.html icon="ico--chevron-right" cta="Kandidáti" class="btn--blue-300 btn--hoveractive btn--fullwidth md:btn--autowidth text-lg" %}
-</div> -->
+<h2 class="head-alt-base md:head-alt-md mt-2">Šance změnit budoucnost</h2>
+<div class="mt-4 md:mt-8 space-y-4">
+  {% include buttons/icon.html icon="ico--chevron-right" cta="Předvolební strategie" class="btn--cyan-200 btn--hoveractive btn--fullwidth md:btn--autowidth text-lg" %}
+  {% include buttons/icon.html icon="ico--chevron-right" cta="Kodex kandidáta" class="btn--blue-300 btn--hoveractive btn--fullwidth md:btn--autowidth text-lg" %}
+</div>
