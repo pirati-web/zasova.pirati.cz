@@ -6,7 +6,7 @@ campaignGroupUid: volby-2020
 campaignCategoryUid: kraj2020
 candidateListUid: kraj2020
 hideCandidateSocialProfiles: true
-customizeHeader: true
+# customizeHeader: true
 ---
 {% assign candidates = site.candidatelists | where: "uid", page.candidateListUid | first %}
 {% capture mainContent %}
