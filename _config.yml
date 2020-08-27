@@ -5,7 +5,7 @@
 # technické nastavení
 #
 
-title: Piráti Zlínský kraj
+title: Piráti Rožnov p.R.
 email: to@pirati.cz
 description: Prosazujeme fungující moderní politiku založenou na využití technologií 21. století pro otevřenou demokratickou společnost.
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
@@ -63,8 +63,8 @@ calendar:
 facebook:
   loadSDK: true
   #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
-  profilePage: https://www.facebook.com/piratizlk/
-  profilePageName: Piráti Zlínský kraj
+  profilePage: https://www.facebook.com/pirati.roznov/
+  profilePageName: Piráti Rožnov p.R.
   appId: 1526197851008996
 
 twitter:
@@ -78,7 +78,7 @@ flicker:
   profilePage: https://www.flickr.com/photos/pirati/
 
 forum:
-  page: https://forum.pirati.cz/zlinsky-kraj-f82/
+  page: https://forum.pirati.cz/viewforum.php?f=854
 
 github:
   url: https://github.com/pirati-web/zasova.pirati.cz/
