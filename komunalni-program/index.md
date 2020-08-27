@@ -1,7 +1,7 @@
 ---
 layout: pirate-center
-heroHeadline: Programové body Pirátů Rožnov
-heroDescription: Posuneme Rožnov dál
+heroHeadline: Posuneme Rožnov dál
+heroDescription: Programové body Pirátů Rožnov
 img: pardupice/roznov.jpg
 addressNote: zatím nemáme místní adresu,
              najdete nás na našich schůzích nebo akcích 
