@@ -2,16 +2,14 @@
 layout: post
 category: CLANKY
 title: Ve Zlínském kraji budou pirátští zastupitelé v osmi městech a jedné vesnici
-date: 2018-10-10
+date: 2018-10-11T12:00:00.032Z
 author: Marek Houser
 authorId: marek.houser
 image: posts/zlkmapa2018n.jpg
-tags: 
+tags:
 - komunálky
 - 2018
 - zlínský-kraj
-
-important: true
 ---
 Celkem v osmi městech a jedné vesnici ve Zlínském kraji se podařilo Pirátům protlačit do obecního zastupitelstva minimálně jednoho člena. Patnáct městských zastupitelů pochází přímo z pirátských kandidátek či z kandidátů s naší podporou, ve Stupavě získal jeden Pirát mandát mezi nezávislými. Neuspěly pouze pirátské kandidátky na Vsetíně, v Zašové a ve Slavičíně.
 
@@ -70,5 +68,7 @@ __Stupava__ (sdružení nezávislých kandidátů)
 - Lubomír Doležal
 
 "Děkuji všem občanům, kteří přišli k volbám a dali nám svůj hlas. Volební účast téměř 80 % oprávněných voličů znamená, že lidem zde není budoucnost obce lhostejná. Nám bohužel 0,16 % hlasů chybělo k většině, ale i tak to beru jako úspěch. Těším se na první zasedání a věřím, že nyní již bude vůle vést důstojná jednání vedoucí ke spokojenosti všech obyvatel," říká Lubomír Doležal.
+
+__
 
 - - -
