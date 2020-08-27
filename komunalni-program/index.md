@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pirate-center
 title: Programové body Pirátů Rožnov
 rbar: ""
 ---
