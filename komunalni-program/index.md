@@ -1,10 +1,12 @@
 ---
 layout: pirate-center
-title: Programové body Pirátů Rožnov
+heroHeadline: Programové body Pirátů Rožnov
+heroDescription: Posuneme Rožnov dál
+img: pardupice/roznov.jpg
+addressNote: zatím nemáme místní adresu,
+             najdete nás na našich schůzích nebo akcích 
 rbar: ""
 ---
-## Posuneme Rožnov dál
-
 ### Předkládáme vám konkrétní kroky, které považujeme za důležité a které našemu městu významně pomohou.
 #### Z Rožnova p. R. chceme udělat příjemné, vzdělané, bezpečné a přátelské místo k životu, aby se zde dobře bydlelo, sportovalo, relaxovalo i kulturně žilo.
 
