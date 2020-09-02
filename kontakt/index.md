@@ -6,12 +6,12 @@ keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
 # noresidence: yes
 contentSize: even
 contactPersons:
-  - id: vratislav.krejcir
-    position: Předseda krajského sdružení
+  - id: lucie.rychtarova
+    position: Předsedkyně místního sdružení ValMez
   - id: jaromir.horky
     position: Kontakt pro novináře
-  - id: jaromir.horky
-    position: Kontakt pro krajské volby 2020
+  - id: libor.adamek
+    position: Kontakt na zastupitele
   - id: yveta.martinkova
     position: Kontakt pro dobrovolníky
   
