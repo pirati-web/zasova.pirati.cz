@@ -11,7 +11,8 @@ ord_clen: 3
 
 img: people/zdenek-tros.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: 4. místopředseda Pirátů KS ZLK<br>člen Kontrolního výboru města Rožnov p.R.<br>předseda Dozorčí rady Komerční domy Rožnov # kratký popis, max 160 znaků
+description: 4. místopředseda Pirátů KS ZLK<br>člen Kontrolního výboru města <br>předseda Dozorčí rady Komerční domy Rožnov # kratký popis, max 160 znaků
+mob: +420 724 286 285
 mail:
 - zdenek.tros@pirati.cz
 profiles:

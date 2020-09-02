@@ -12,6 +12,7 @@ ord_clen: 1
 img: people/lucie-rychtarova.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: předsedkyně Pirátů MS ValMez # kratký popis, max 160 znaků
+mob: +420 733 724 738
 mail:
 - lucie.malikova@pirati.cz
 profiles:

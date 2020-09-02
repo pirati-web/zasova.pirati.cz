@@ -12,7 +12,8 @@ ord_clen: 2
 
 img: people/libor-adamek.jpg   # 165 x 220
 heroImg: articles/lide/hero-libor-adamek.jpg
-description: zastupitel Rožnova pod Radhoštěm<br>2. místopředseda Pirátů MS ValMez<br>člen Strategického výboru Rožnov p.R.<br>člen Sportovní komise města Rožnov p.R.  # kratký popis, max 160 znaků
+description: zastupitel Rožnova pod Radhoštěm<br>2. místopředseda Pirátů MS ValMez<br>člen Strategického výboru města<br>člen Sportovní komise města # kratký popis, max 160 znaků
+mob: +420 604 791 192
 mail:
 - libor.adamek@pirati.cz
 profiles:
