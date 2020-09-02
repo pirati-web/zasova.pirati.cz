@@ -5,10 +5,13 @@ titles:
   before: 
   after:
 category:                   # kategorie: clenove
+- clen
+
+ord_clen: 6
 
 img: people/stanislav-senkyr.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: student # kratký popis, max 160 znaků
+description: člen Pirátů MS ValMez # kratký popis, max 160 znaků
 mail:
 - stanislav.senkyr@pirati.cz
 profiles:

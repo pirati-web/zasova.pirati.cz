@@ -5,11 +5,13 @@ titles:
   before: Ing.
   after:
 category:                   # kategorie: clenove
+- clen
 
+ord_clen: 6
 
 img: people/petr-lusovsky.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: manažer e-shopu s oděvy<br>Rožnov p.R. # kratký popis, max 160 znaků
+description: člen Pirátů MS ValMez<br>člen Komise Zdravého města a MA 21 # kratký popis, max 160 znaků
 mail:
 - lusov@seznam.cz
 profiles:

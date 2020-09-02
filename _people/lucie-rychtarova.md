@@ -1,15 +1,16 @@
 ---
-uid: lucie.malikova
-name:     Lucie Malíková  	# běžně používáné jméno
+uid: lucie.rychtarova
+name:     Lucie Rychtarová  	# běžně používáné jméno
 titles:
   before: 
   after:
 category:                   # kategorie: clenove
-- mistni_predsedove
+- clen
 
-img: people/lucie-malikova.jpg   # 165 x 220
+ord_clen: 1
+
+img: people/lucie-rychtarova.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: předsedkyně MS Valašské Mezičíří, student ekonomiky a podnikání # kratký popis, max 160 znaků
 mail:
 - lucie.malikova@pirati.cz
 profiles:
@@ -17,7 +18,7 @@ profiles:
 
 ---
 
-Lucie Malíková (*3. června 1998, Olomouc) je momentálně na mateřské dovolené a přípravuje se na studium Ekonomiky a podnikání.
+Lucie Rychtarová (*3. června 1998, Olomouc) je momentálně na mateřské dovolené a přípravuje se na studium Ekonomiky a podnikání.
 
 Angažuje se v aktivitách souvisejících s FireShow se skupinou Manawa Fire Art. A občas tanci, plavání a cyklistice.
 

@@ -5,11 +5,13 @@ titles:
   before: Ing.
   after:
 category:                   # kategorie: clenove
+- clen
 
+ord_clen: 4
 
 img: people/petr-hejny.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: plánovač výroby # kratký popis, max 160 znaků
+description: člen Pirátů MS ValMez<br>člen Finančního výboru města Rožnov p.R. # kratký popis, max 160 znaků
 mail:
 - petr.hejny@pirati.cz
 profiles:

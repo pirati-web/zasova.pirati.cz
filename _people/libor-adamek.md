@@ -5,15 +5,19 @@ titles:
   before: 
   after:
 category:                   # kategorie: clenove
+- clen
+
+ord_clen: 2
 
 
 img: people/libor-adamek.jpg   # 165 x 220
 heroImg: articles/lide/hero-libor-adamek.jpg
-description: zastupitel Rožnova pod Radhoštěm<br>prodejce kancelářské techniky<br>Rožnov p.R. # kratký popis, max 160 znaků
+description: zastupitel Rožnova pod Radhoštěm<br>2. místopředseda Pirátů MS ValMez<br>člen Strategického výboru Rožnov p.R.<br>člen Sportovní komise města Rožnov p.R.  # kratký popis, max 160 znaků
 mail:
 - libor.adamek@pirati.cz
 profiles:
   facebook: https://www.facebook.com/adamek.libor
+  
 ---
 
 Libor Adámek (*26. září 1972, Valašské Meziříčí) je rodilý valach a trvalý občan města Rožnov pod Radhoštěm.

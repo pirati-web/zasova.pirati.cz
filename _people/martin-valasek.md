@@ -5,11 +5,13 @@ titles:
   before: 
   after:
 category:                   # kategorie: clenove
+- clen
 
+ord_clen: 5
 
 img: people/martin-valasek.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: hudební dramaturg v kulturní agentuře <br>Valašská Bystřice # kratký popis, max 160 znaků
+description: člen Pirátů MS ValMez # kratký popis, max 160 znaků
 mail:
 - martin.valasek@pirati.cz
 profiles:
