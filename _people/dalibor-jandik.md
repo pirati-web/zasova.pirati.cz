@@ -5,11 +5,14 @@ titles:
   before: 
   after:
 category:                   # kategorie: clenove
+- clen
+
+ord_clen: 4
 
 
 img: people/dalibor-jandik.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: projektant měření a regulace # kratký popis, max 160 znaků
+description: člen Pirátů MS ValMez<br>člen Dopravní komise města # kratký popis, max 160 znaků
 mail:
 - dalibor.jandik@pirati.cz
 profiles:

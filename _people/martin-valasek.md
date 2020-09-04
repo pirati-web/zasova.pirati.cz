@@ -5,9 +5,7 @@ titles:
   before: 
   after:
 category:                   # kategorie: clenove
-- clen
 
-ord_clen: 5
 
 img: people/martin-valasek.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg

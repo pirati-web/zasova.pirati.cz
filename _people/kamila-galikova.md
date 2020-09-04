@@ -5,11 +5,14 @@ titles:
   before: 
   after:
 category:                   # kategorie: clenove
+- clen
+
+ord_clen: 3
 
 
 img: people/kamila-galikova.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: studentka zahraničního obchodu # kratký popis, max 160 znaků
+description: 1. místopředsedkyně MS ValMez<br>členka Komise pro životní prostředí # kratký popis, max 160 znaků
 mail:
 
 profiles:

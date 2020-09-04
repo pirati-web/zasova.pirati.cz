@@ -32,20 +32,20 @@ Dotace deformují trh. Proto musí být výjimečné a používané pouze v př�
 * Výstavba skateparkového hřiště pro místní freestyle kulturu. 
 * Na Fórum Zdravého města 2017 jsme za Piráty navrhovali založení tábořiště v okolí města nejlépe u řeky Bečvy, kde by se mohlo opékat popřípadě i  kempovat. 
 
-### 8. Ekologie a životní prostředí</h3>
+### 8. Ekologie a životní prostředí
 * Recyklace se musí vyplatit přímo těm, kteří mají snahu recyklovat. 
 * Otevřeme všechna jednání o projektech, které mají za cíl odstranit ekologickou zátěž. 
 * Budeme prosazovat rozumnou a střídmou urbanizaci obcí, která nebude představovat zbytečnou zátěž pro životní prostředí, zejména ovzduší a krajinu. 
 * Rozšíření zeleně ve městě, na parkovištích, náměstí (stromy čistí vzduch, strom jako klimatizační jednotka), certifikát FSC 
 * Podpora zrychlení kotlíkových dotací, zvýšení počtu těchto dotací, kde je momentálně 2000 žádostí na kraj, což je opravdu málo. 
  
-### 9. Projekty Smart City</h3>
+### 9. Projekty Smart City
 * Rozšíření bezplatné linky MHD, zavedení elektroautobusu (viz. Nový Jičín a Hranice na Moravě: plně elektrifikovaná MHD, návratnost do 5 let). 
 * Chytrá parkoviště (tabule s volnými místy, platby kartou a sms)  což už částečně město má a Piráti chtějí zapracovat na jejich rozšíření. 
 * Zavedení systému informačních tabulí na hlavních komunikacích, který bude řidičům sdělovat časy do různých částech města i alternativní objížďky při úpravách pozemních komunikací. Tabule mohou být využity i k informacím ne jen z dopravy, ale i z oblasti života ve městě a počasí či ekologické zátěže. 
 * Zavadění systému hospodaření s energiemi všech městských budov (školy, úřady, radnice apod.). Zřídit informační systém s modulem energetického managementu, kde se evidují veškeré smlouvy energií a jiné. Díky tomu se nakoupí energie centrálně a tím se ušetří desítky miliónů. 
  
-### 10. Další body k řešení:</h3>
+### 10. Další body k řešení:
 * Opětovné zpřístupnění dobrovolníků k venčení pejsků a jejich socializaci v místním útulku. 
 * Velmi oblíbeným byl pro městské občany nápis ValMez na Helštýně (ve stylu Hollywood). Pokusíme se s podporou města o jeho obnovu z bytelnější konstrukce, aby se nám zase nerozpadl. 
 * Nový ostrůvek pod nemocnicí směr Vsetín, který slouží jako bezpečnější přechod pro chodce nám moc bezpečný nepřijde a budeme trvat na rozšíření krajnice, která už se rozpadá nájezdy kamionů do prudké zatáčky. Pozemní komunikaci je třeba o několik centimetrů rozšířit, aby průjezdy vozidel byly plynulejší a dál od ostrůvku. 

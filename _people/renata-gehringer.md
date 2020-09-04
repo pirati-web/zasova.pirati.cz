@@ -5,11 +5,14 @@ titles:
   before: Mgr. et Mgr.
   after:
 category:                   # kategorie: clenove
+- clen
+
+ord_clen: 5
 
 
 img: people/renata-gehringer.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: registrovaný příznivec Pirátů<br>středoškolský pedagog<br>Valašské Meziříčí # kratký popis, max 160 znaků
+description: registrovaný příznivec Pirátů<br>členka Bytové komise města<br>členka Komise pro školství města<br>členka Místní komise 3 Štěpánov # kratký popis, max 160 znaků
 mail:
 
 profiles:

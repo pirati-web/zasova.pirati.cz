@@ -5,9 +5,7 @@ titles:
   before: Ing.
   after:
 category:                   # kategorie: clenove
-- clen
 
-ord_clen: 6
 
 img: people/petr-lusovsky.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg

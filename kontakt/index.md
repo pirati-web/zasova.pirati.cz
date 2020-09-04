@@ -10,7 +10,7 @@ contactPersons:
     position: Předsedkyně místního sdružení ValMez
   - id: jaromir.horky
     position: Kontakt pro novináře
-  - id: libor.adamek
+  - id: denis.rychtar
     position: Kontakt na zastupitele
   - id: yveta.martinkova
     position: Kontakt pro dobrovolníky

@@ -5,9 +5,7 @@ titles:
   before: 
   after:
 category:                   # kategorie: clenove
-- clen
 
-ord_clen: 2
 
 
 img: people/libor-adamek.jpg   # 165 x 220

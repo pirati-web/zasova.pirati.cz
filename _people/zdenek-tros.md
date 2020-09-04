@@ -5,9 +5,7 @@ titles:
   before:
   after:
 category:                   # kategorie: clenove
-- clen
 
-ord_clen: 3
 
 img: people/zdenek-tros.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg

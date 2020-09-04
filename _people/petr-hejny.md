@@ -5,9 +5,7 @@ titles:
   before: Ing.
   after:
 category:                   # kategorie: clenove
-- clen
 
-ord_clen: 4
 
 img: people/petr-hejny.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
