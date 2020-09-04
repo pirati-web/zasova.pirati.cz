@@ -1,6 +1,6 @@
 ---
 layout: pirate-center
-heroHeadline: Komunální program Valašské Meziříčí
+heroHeadline: Komunální program
 heroDescription: Programové body Pirátů a nezávislých kandidátů (bez PP)
 img: pardupice/valmez.jpg
 addressNote: zatím nemáme místní adresu,
