@@ -7,10 +7,8 @@ author: Libor Adámek
 authorId: libor.adamek
 image: posts/og.png
 tags: 
-- Rožnov
+- ValMez 
 - volby
-
-important: true
 ---
 I letos na podzim bude třeba dohlédnout na regulérnost voleb do zastupitelstev obcí 5.-6. října 2018. 
 Členem okrskové volební komise může být státní občan České republiky, který v den složení slibu 

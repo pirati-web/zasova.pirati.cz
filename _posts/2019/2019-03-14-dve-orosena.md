@@ -6,11 +6,11 @@ date: 2019-03-14T12:00:00.032Z
 author: Libor Adámek
 authorId: libor.adamek
 image: posts/dveosrosena.png
-tags: 
+tags:
 - verejna-schuze
 - poslanec
 ---
-Ve čtvrtek 21.března 2019 od 17:00 v klubu Vrátnice Rožnov p.R.<br>
+Ve čtvrtek 21.března od 17:00 v klubu Vrátnice Rožnov p.R.<br>
 Zajímáte se o politiku a chcete se v pohodové atmosféře u dvou piv (známe to, na jedno nikdo nechodí) 
 setkat s pirátským poslancem za Zlínský kraj? 
 Zveme vás na další pokračování seriálu pravidelných posezení "Na dvě orosená s poslancem Frantou Elfmarkem", 

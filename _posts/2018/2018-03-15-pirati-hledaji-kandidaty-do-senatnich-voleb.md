@@ -7,10 +7,12 @@ author: Marek Houser
 authorId: marek.houser
 image: posts/senatvolby.png
 tags: 
-- Senát 
+- Senát
 - primárky
 - Zlín
 - Vsetín
+
+important: true
 ---
 Krajské sdružení České pirátské strany ve Zlínském kraji nabízí jednotlivcům z široké veřejnosti možnost [přihlásit se](https://goo.gl/forms/JE57TCvuOMyCTkXB3){:target="_blank"} do otevřených primárních voleb na kandidát(k)y do Senátu ČR pro volby v roce 2018. Standardní pirátský postup tak tradičně poskytuje svým členům možnost postavit do boje o vysokou politickou funkci kandidáta/ku pomocí demokratického hlasování.
 

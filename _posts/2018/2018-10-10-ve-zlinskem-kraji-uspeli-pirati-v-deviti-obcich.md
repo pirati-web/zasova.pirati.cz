@@ -2,14 +2,16 @@
 layout: post
 category: CLANKY
 title: Ve Zlínském kraji budou pirátští zastupitelé v osmi městech a jedné vesnici
-date: 2018-10-11T12:00:00.032Z
+date: 2018-10-10
 author: Marek Houser
 authorId: marek.houser
 image: posts/zlkmapa2018n.jpg
-tags:
-- komunálky
-- 2018
+tags: 
+- komunálky 
+- 2018 
 - zlínský-kraj
+
+important: true
 ---
 Celkem v osmi městech a jedné vesnici ve Zlínském kraji se podařilo Pirátům protlačit do obecního zastupitelstva minimálně jednoho člena. Patnáct městských zastupitelů pochází přímo z pirátských kandidátek či z kandidátů s naší podporou, ve Stupavě získal jeden Pirát mandát mezi nezávislými. Neuspěly pouze pirátské kandidátky na Vsetíně, v Zašové a ve Slavičíně.
 
