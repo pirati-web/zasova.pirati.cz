@@ -6,7 +6,7 @@ titles:
   after:
 category:                   # kategorie: clenove
 - clen
-
+ord_clen: 7
 img: people/lucie-dvorakova.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: nezávislý příznivec Pirátů<br />členka Kulturní komise města VM # kratký popis, max 160 znaků
@@ -15,7 +15,7 @@ mail:
 profiles:
   facebook: https://www.facebook.com/lucie.dvorakova.90
 
-ordclen: 6
+
 ---
 
 Narodila jsem se 20.1.1990 ve Valašském Meziříčí.
