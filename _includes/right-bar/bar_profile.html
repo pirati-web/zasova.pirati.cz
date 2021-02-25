@@ -47,11 +47,11 @@
       {% if page.profiles.odmeny or page.profiles.evidence or page.profiles.report or page.profiles.vkalendar %}
         <div>
           <h4>Pirátské přehledy</h4>
+          {% if page.profiles.vkalendar %}{% include contact-line.html icon="ico--folder" href=page.profiles.vkalendar caption="Veřejný kalendář" %}{% endif %}
           {% if page.profiles.odmeny %}{% include contact-line.html icon="ico--folder" href=page.profiles.odmeny caption="Příjmy z veřejných zdrojů" %}{% endif %}
           {% if page.profiles.evidence %}{% include contact-line.html icon="ico--folder" href=page.profiles.evidence caption="Evidence kontaktů a schůzek" %}{% endif %}
           {% if page.profiles.report %}{% include contact-line.html icon="ico--folder" href=page.profiles.report caption="Report poslance" %}{% endif %}
-          {% if page.profiles.vkalendar %}{% include contact-line.html icon="ico--folder" href=page.profiles.vkalendar caption="Veřejný kalendář" %}{% endif %}
-        </div>
+           </div>
       {% endif %}
     </div>
   {% endif %}
