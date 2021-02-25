@@ -17,6 +17,9 @@ profiles:
   linkedin:  https://www.linkedin.com/in/franc/
   instagram: https://www.instagram.com/pfranc/
   odmeny:    https://nalodeni.pirati.cz/odmeny/pavel.franc
+  web:       http://www.sterba.eu
+  evidence:  https://evidence.pirati.cz/author/357/
+  odmeny:    https://nalodeni.pirati.cz/odmeny/martin.sterba
 funkce:
  - <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitel</a>
  - člen <a href="https://www.praha8.cz/Komise-pro-sport-mladez-a-grantovou-politiku-2018-2022.html">Komise pro sport, mládež a grantovou politiku</a>
