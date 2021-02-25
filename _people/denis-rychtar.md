@@ -21,6 +21,7 @@ profiles:
   evidence:  https://evidence.pirati.cz/author/357/
   odmeny:    https://nalodeni.pirati.cz/odmeny/martin.sterba
   vkalendar: https://mail.kr-zlinsky.cz/owa/calendar/0554bffb9cf54f7d88ffefd6f25f4977@kr-zlinsky.cz/8b7b82edc63741a89f10c57be7a2a22518088348677357990337/calendar.html
+  report:    https://forum.pirati.cz/viewtopic.php?f=82&t=49249
 
 funkce:
  - <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitel</a>
@@ -33,6 +34,15 @@ description: zastupitel Valašského Meziříčí<br>člen Kontrolního výboru 
 mob: + 420 730 955 850
 mail:
 - denis.rychtar@pirati.cz
+
+asistenti:
+  - name: Ing. Karolína Ždárská
+    position: Asitentka
+    mail: k.zdarska@gmail.com
+    mob: +420 736 513 283
+  - name: Ing. Václav Turko
+    position: Asistent
+    mail: vturko@atlas.cz
 
 ---
 
