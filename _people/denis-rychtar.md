@@ -8,7 +8,19 @@ category:                   # kategorie: clenove
 - clen
 
 ord_clen: 2
+profession: IT manažer
+partyUid: pirati
 
+profiles:
+  facebook:  https://www.facebook.com/pfranc
+  twitter:   https://twitter.com/PavelFranc
+  linkedin:  https://www.linkedin.com/in/franc/
+  instagram: https://www.instagram.com/pfranc/
+  odmeny:    https://nalodeni.pirati.cz/odmeny/pavel.franc
+funkce:
+ - <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitel</a>
+ - člen <a href="https://www.praha8.cz/Komise-pro-sport-mladez-a-grantovou-politiku-2018-2022.html">Komise pro sport, mládež a grantovou politiku</a>
+ - člen <a href="https://www.praha8.cz/Komise-pro-skolstvi-2018-2022.html">Komise pro školství</a>
 
 img: people/denis-rychtar.jpg   # 165 x 220
 heroImg: articles/lide/hero-denis-rychtar.jpg
