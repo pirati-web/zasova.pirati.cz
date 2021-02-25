@@ -28,8 +28,6 @@ description: zastupitel Valašského Meziříčí<br>člen Kontrolního výboru 
 mob: + 420 730 955 850
 mail:
 - denis.rychtar@pirati.cz
-profiles:
-  facebook: https://www.facebook.com/JokerTekk
 
 ---
 
