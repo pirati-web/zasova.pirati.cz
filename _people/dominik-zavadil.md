@@ -9,7 +9,7 @@ category:                   # kategorie: clenove
 
 img: people/dominik-zavadil.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: strojvedoucí <br>Kroměříž # kratký popis, max 160 znaků
+description: strojvedoucí ČD <br>Kroměříž # kratký popis, max 160 znaků
 
 profiles:
   facebook: https://www.facebook.com/ingo.knito.182
