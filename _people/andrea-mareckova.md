@@ -16,7 +16,7 @@ profiles:
   facebook: https://www.facebook.com/profile.php?id=100012810541720
 ---
 
-Ing. Andrea Marečková (*18. února 1979, Znojmo) je členkou KS Zlínského kraje.
+Ing. Andrea Marečková je členkou KS Zlínského kraje.
 
 Narodila se ve Znojmě, kde také vystudovala Obchodní akademii. Později své vzdělání dovršila magisterským studiem v oboru Logistika na VŠLG v Přerově. Za účelem studia cizího jazyka strávila několik let v Anglii a v Irsku. Profesně se již léta pohybuje ve sféře domácího i zahraničního obchodu, obor strojírenský průmysl. 
 
