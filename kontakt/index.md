@@ -3,13 +3,13 @@ layout: contacts
 description: Pirátská strana ve Zlínském kraji je otevřená a ráda přivítá dobrovolníky a odpoví na dotazy kritiků.
 keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
 # Pokud nechcete, aby se zobrazovalo kontaktní místo, můžete odkomentovat následující řádek:
-# noresidence: yes
+noresidence: yes
 contentSize: even
 contactPersons:
   - id: lucie.rychtarova
     position: Předsedkyně místního sdružení ValMez
-  - id: jaromir.horky
-    position: Kontakt pro novináře
+  - id: lucie.svehlikova
+    position: Kontakt pro sněmovní volby 2021
   - id: denis.rychtar
     position: Kontakt na zastupitele
   - id: yveta.martinkova
