@@ -22,6 +22,9 @@ main:
 #  - link: /pomahame/
 #    name: Záchranný kruh
 #    match: pomahame
+  - link: /volby-2020/
+    name: Krajské volby
+    match: volby-2020
   - link: /komunalni-program/
     name: Komunální program
     match: komunalni-program
