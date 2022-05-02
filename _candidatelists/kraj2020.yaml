@@ -1,11 +1,11 @@
 ---
-title: Kandidáti do zastupitelstva Zlínského kraje
+title: Kandidáti do zastupitelstva města Přerova
 uid: kraj2020
-number: 19
+# number: 19
 leader:
-    uid: hana.ancincova
+    uid: lenka.jungling
     position: 1
-    name: Bc. Hana Ančincová
+    name: Ing. Lenka Jüngling
     age: 31
     profession: lídr pro krajské volby, finanční analytička
     city: Hulín
